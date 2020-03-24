@@ -850,3 +850,85 @@ where:
 <dt id="experimental_physics" class="glossary"><dfn class="glossary"><a title="Experimental physics" href="https://en.wikipedia.org/wiki/Experimental_physics">experimental physics</a></dfn></dt>
 <dd class="glossary"></dd>
 </dl>
+<h2><span id="F" class="mw-headline">F</span></h2>
+<dl class="glossary">
+<dt id="farad" class="glossary"><dfn class="glossary"><a title="Farad" href="https://en.wikipedia.org/wiki/Farad">farad</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="falling_bodies" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Falling bodies" href="https://en.wikipedia.org/wiki/Falling_bodies">falling bodies</a></dfn></dt>
+<dd class="glossary">Objects that are moving towards a body with greater gravitational influence, such as a planet.</dd>
+<dt id="faraday" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Faraday (unit)" href="https://en.wikipedia.org/wiki/Faraday_(unit)">faraday</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="faraday_constant" class="glossary"><dfn class="glossary"><a title="Faraday constant" href="https://en.wikipedia.org/wiki/Faraday_constant">Faraday constant</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="fermat's_principle" class="glossary"><dfn class="glossary"><a title="Fermat's principle" href="https://en.wikipedia.org/wiki/Fermat%27s_principle">Fermat's principle</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="fermi_surface" class="glossary"><dfn class="glossary"><a title="Fermi surface" href="https://en.wikipedia.org/wiki/Fermi_surface">Fermi surface</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="fermion" class="glossary"><dfn class="glossary"><a title="Fermion" href="https://en.wikipedia.org/wiki/Fermion">fermion</a></dfn></dt>
+<dd class="glossary">A type of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#particle"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; particle">particle</span></a>&nbsp;that behaves according to&nbsp;<a title="Fermi&ndash;Dirac statistics" href="https://en.wikipedia.org/wiki/Fermi%E2%80%93Dirac_statistics">Fermi&ndash;Dirac statistics</a>, obeys the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#pauli_exclusion_principle"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; Pauli exclusion principle">Pauli exclusion principle</span></a>, and possesses half-integer&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#spin"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; spin">spin</span></a>. Fermions include all&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#quark"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; quark">quarks</span></a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#lepton"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; lepton">leptons</span></a>, as well as all&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#composite_particle"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; composite particle">composite particles</span></a>&nbsp;made of an odd number of these (such as all&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#baryon"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; baryon">baryons</span></a>&nbsp;and many&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#atom"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; atom">atoms</span></a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#nucleus"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; nucleus">nuclei</span></a>). Fermions constitute one of two main classes of particles, the other being&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#boson"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; boson">bosons</span></a>.</dd>
+<dt id="ferrimagnetism" class="glossary"><dfn class="glossary"><a title="Ferrimagnetism" href="https://en.wikipedia.org/wiki/Ferrimagnetism">ferrimagnetism</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="ferromagnetism" class="glossary"><dfn class="glossary"><a title="Ferromagnetism" href="https://en.wikipedia.org/wiki/Ferromagnetism">ferromagnetism</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="field_line" class="glossary"><dfn class="glossary"><a title="Field line" href="https://en.wikipedia.org/wiki/Field_line">field line</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="first" class="glossary"><dfn class="glossary"><a title="For Inspiration and Recognition of Science and Technology" href="https://en.wikipedia.org/wiki/For_Inspiration_and_Recognition_of_Science_and_Technology">FIRST</a></dfn></dt>
+<dd class="glossary">An organization founded by inventor Dean Kamen in 1989 in order to develop ways to inspire students in engineering and technology fields.</dd>
+<dt id="first_law_of_thermodynamics" class="glossary"><dfn class="glossary"><a title="First law of thermodynamics" href="https://en.wikipedia.org/wiki/First_law_of_thermodynamics">first law of thermodynamics</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="fission" class="glossary"><dfn class="glossary"><a title="Nuclear fission" href="https://en.wikipedia.org/wiki/Nuclear_fission">fission</a></dfn></dt>
+<dd class="glossary">Either a nuclear reaction or a radioactive decay process in which the nucleus of an atom splits into smaller parts (lighter nuclei), often producing free neutrons and photons (in the form of gamma rays), and releasing a, relatively, very large amount of energy.</dd>
+<dt id="flavour" class="glossary"><dfn class="glossary"><a title="Flavour (particle physics)" href="https://en.wikipedia.org/wiki/Flavour_(particle_physics)">flavour</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="fluid" class="glossary"><dfn class="glossary"><a title="Fluid" href="https://en.wikipedia.org/wiki/Fluid">fluid</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="fluid_mechanics" class="glossary"><dfn class="glossary"><a title="Fluid mechanics" href="https://en.wikipedia.org/wiki/Fluid_mechanics">fluid mechanics</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="fluid_physics" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Fluid physics" href="https://en.wikipedia.org/wiki/Fluid_physics">fluid physics</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="fluid_statics" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Fluid statics" href="https://en.wikipedia.org/wiki/Fluid_statics">fluid statics</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="fluorescence" class="glossary"><dfn class="glossary"><a title="Fluorescence" href="https://en.wikipedia.org/wiki/Fluorescence">fluorescence</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="flux" class="glossary"><dfn class="glossary"><a title="Flux" href="https://en.wikipedia.org/wiki/Flux">flux</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="flux_density" class="glossary"><dfn class="glossary"><a title="Flux" href="https://en.wikipedia.org/wiki/Flux#Terminology">flux density</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="focal_length" class="glossary"><dfn class="glossary"><a title="Focal length" href="https://en.wikipedia.org/wiki/Focal_length">focal length</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="focus" class="glossary"><dfn class="glossary"><a title="Focus (optics)" href="https://en.wikipedia.org/wiki/Focus_(optics)">focus</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="force_(f)" class="glossary"><dfn class="glossary"><a title="Force" href="https://en.wikipedia.org/wiki/Force">force</a>&nbsp;(F)</dfn></dt>
+<dd class="glossary">Any interaction that, when unopposed, will change the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#motion"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; motion">motion</span></a>&nbsp;of a physical body. A force has both magnitude and direction, making it a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#vector"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; vector">vector</span></a>&nbsp;quantity. The&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#sI"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; SI">SI</span></a>&nbsp;unit used to measure force is the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#newton"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; newton">newton</span></a>.</dd>
+<dt id="force_carrier" class="glossary"><dfn class="glossary"><a title="Force carrier" href="https://en.wikipedia.org/wiki/Force_carrier">force carrier</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="frame_of_reference" class="glossary"><dfn class="glossary"><a title="Frame of reference" href="https://en.wikipedia.org/wiki/Frame_of_reference">frame of reference</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="fraunhofer_lines" class="glossary"><dfn class="glossary"><a title="Fraunhofer lines" href="https://en.wikipedia.org/wiki/Fraunhofer_lines">Fraunhofer lines</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="free_body_diagram" class="glossary"><dfn class="glossary"><a title="Free body diagram" href="https://en.wikipedia.org/wiki/Free_body_diagram">free body diagram</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="frequency" class="glossary"><dfn class="glossary"><a title="Frequency" href="https://en.wikipedia.org/wiki/Frequency">frequency</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="frequency_modulation" class="glossary"><dfn class="glossary"><a title="Frequency modulation" href="https://en.wikipedia.org/wiki/Frequency_modulation">frequency modulation</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="free_fall" class="glossary"><dfn class="glossary"><a title="Free fall" href="https://en.wikipedia.org/wiki/Free_fall">free fall</a></dfn></dt>
+<dd class="glossary">Any motion of a body where its own&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#weight"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; weight">weight</span></a>&nbsp;is the only force acting upon it.</dd>
+<dt id="freezing_point" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Freezing point" href="https://en.wikipedia.org/wiki/Freezing_point">freezing point</a></dfn></dt>
+<dd class="glossary">The temperature at which a substance changes state from&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#liquid"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; liquid">liquid</span></a>&nbsp;to&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#solid"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; solid">solid</span></a>.</dd>
+<dt id="friction" class="glossary"><dfn class="glossary"><a title="Friction" href="https://en.wikipedia.org/wiki/Friction">friction</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="function" class="glossary"><dfn class="glossary"><a title="Function (mathematics)" href="https://en.wikipedia.org/wiki/Function_(mathematics)">function</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="fundamental_forces" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Fundamental forces" href="https://en.wikipedia.org/wiki/Fundamental_forces">fundamental forces</a></dfn></dt>
+</dl>
+<p class="glossary-hatnote"><span class="hatnote navigation-not-searchable selfref">Also called&nbsp;<strong>fundamental interactions</strong>.</span></p>
+<dl class="glossary">
+<dd class="glossary"></dd>
+<dt id="fundamental_frequency" class="glossary"><dfn class="glossary"><a title="Fundamental frequency" href="https://en.wikipedia.org/wiki/Fundamental_frequency">fundamental frequency</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="fundamental_theorem_of_calculus" class="glossary"><dfn class="glossary"><a title="Fundamental theorem of calculus" href="https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus">fundamental theorem of calculus</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="fusion" class="glossary"><dfn class="glossary"><a title="Nuclear fusion" href="https://en.wikipedia.org/wiki/Nuclear_fusion">fusion</a></dfn></dt>
+<dd class="glossary">A nuclear reaction in which two or more atomic nuclei join together, or "fuse", to form a single heavier nucleus.</dd>
+</dl>
