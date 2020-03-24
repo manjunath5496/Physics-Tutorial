@@ -644,3 +644,68 @@ where:
 <dt id="cyclotron" class="glossary"><dfn class="glossary"><a title="Cyclotron" href="https://en.wikipedia.org/wiki/Cyclotron">cyclotron</a></dfn></dt>
 <dd class="glossary">A type of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#particle_accelerator"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; particle accelerator">particle accelerator</span></a>&nbsp;in which&nbsp;<a class="mw-redirect" title="Charged particles" href="https://en.wikipedia.org/wiki/Charged_particles">charged particles</a>&nbsp;accelerate outwards from the center along a spiral path.</dd>
 </dl>
+<h2><span id="D" class="mw-headline">D</span></h2>
+<dl class="glossary">
+<dt id="dalton's_law" class="glossary"><dfn class="glossary"><a title="Dalton's law" href="https://en.wikipedia.org/wiki/Dalton%27s_law">Dalton's law</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="damped_vibration" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Damped vibration" href="https://en.wikipedia.org/wiki/Damped_vibration">damped vibration</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="damping" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Damping" href="https://en.wikipedia.org/wiki/Damping">damping</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="darcy&ndash;weisbach_equation" class="glossary"><dfn class="glossary"><a title="Darcy&ndash;Weisbach equation" href="https://en.wikipedia.org/wiki/Darcy%E2%80%93Weisbach_equation">Darcy&ndash;Weisbach equation</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="dark_energy" class="glossary"><dfn class="glossary"><a title="Dark energy" href="https://en.wikipedia.org/wiki/Dark_energy">dark energy</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="dark_matter" class="glossary"><dfn class="glossary"><a title="Dark matter" href="https://en.wikipedia.org/wiki/Dark_matter">dark matter</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="dc_motor" class="glossary"><dfn class="glossary"><a title="DC motor" href="https://en.wikipedia.org/wiki/DC_motor">DC motor</a></dfn></dt>
+<dd class="glossary">A mechanically commutated electric motor powered by&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#direct_current"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; direct current">direct current</span></a>.</dd>
+<dt id="decibel" class="glossary"><dfn class="glossary"><a title="Decibel" href="https://en.wikipedia.org/wiki/Decibel">decibel</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="definite_integral" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Definite integral" href="https://en.wikipedia.org/wiki/Definite_integral">definite integral</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="deflection" class="glossary"><dfn class="glossary"><a title="Deflection (engineering)" href="https://en.wikipedia.org/wiki/Deflection_(engineering)">deflection</a></dfn></dt>
+<dd class="glossary">The degree to which a structural element is displaced under a load. It may refer to an angle or a distance.</dd>
+<dt id="deformation" class="glossary"><dfn class="glossary"><a title="Deformation (mechanics)" href="https://en.wikipedia.org/wiki/Deformation_(mechanics)">deformation</a></dfn></dt>
+<dd class="glossary">1.&nbsp;&nbsp;(mechanics)</dd>
+<dd class="glossary">2.&nbsp;&nbsp;(engineering)</dd>
+<dt id="density" class="glossary"><dfn class="glossary"><a title="Density" href="https://en.wikipedia.org/wiki/Density">density</a></dfn></dt>
+</dl>
+<p class="glossary-hatnote"><span class="hatnote navigation-not-searchable selfref">Also called&nbsp;<strong>mass density</strong>.</span></p>
+<dl class="glossary">
+<dd class="glossary">A physical property of a substance defined as its&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#mass"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; mass">mass</span></a>&nbsp;per unit volume.</dd>
+<dt id="derivative" class="glossary"><dfn class="glossary"><a title="Derivative" href="https://en.wikipedia.org/wiki/Derivative">derivative</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="desert" class="glossary"><dfn class="glossary"><a title="Desert (particle physics)" href="https://en.wikipedia.org/wiki/Desert_(particle_physics)">desert</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="destructive_interference" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Destructive interference" href="https://en.wikipedia.org/wiki/Destructive_interference">destructive interference</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="diamagnetism" class="glossary"><dfn class="glossary"><a title="Diamagnetism" href="https://en.wikipedia.org/wiki/Diamagnetism">diamagnetism</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="dielectric" class="glossary"><dfn class="glossary"><a title="Dielectric" href="https://en.wikipedia.org/wiki/Dielectric">dielectric</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="diffraction" class="glossary"><dfn class="glossary"><a title="Diffraction" href="https://en.wikipedia.org/wiki/Diffraction">diffraction</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="direct_current_(dc)" class="glossary"><dfn class="glossary"><a title="Direct current" href="https://en.wikipedia.org/wiki/Direct_current">direct current</a>&nbsp;(DC)</dfn></dt>
+<dd class="glossary"></dd>
+<dt id="dispersion" class="glossary"><dfn class="glossary"><a title="Dispersion (optics)" href="https://en.wikipedia.org/wiki/Dispersion_(optics)">dispersion</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="displacement_(fluid)" class="glossary"><dfn class="glossary"><a title="Displacement (fluid)" href="https://en.wikipedia.org/wiki/Displacement_(fluid)">displacement (fluid)</a></dfn></dt>
+<dd class="glossary">Occurs when an object is immersed in a fluid, pushing it out of the way and taking its place. The volume of the fluid displaced can then be measured, and from this the volume of the immersed object can be deduced (the volume of the immersed object will be exactly equal to the volume of the displaced fluid).</dd>
+<dt id="displacement_(vector)" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Displacement (vector)" href="https://en.wikipedia.org/wiki/Displacement_(vector)">displacement (vector)</a></dfn></dt>
+<dd class="glossary">The shortest distance from the initial to the final position of a point. Thus, it is the length of an imaginary straight path, typically distinct from the path actually travelled by.</dd>
+<dt id="distance" class="glossary"><dfn class="glossary"><a title="Distance" href="https://en.wikipedia.org/wiki/Distance">distance</a></dfn></dt>
+<dd class="glossary">A numerical description of how far apart objects are.</dd>
+<dt id="drift_velocity" class="glossary"><dfn class="glossary"><a title="Drift velocity" href="https://en.wikipedia.org/wiki/Drift_velocity">drift velocity</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="doppler_effect" class="glossary"><dfn class="glossary"><a title="Doppler effect" href="https://en.wikipedia.org/wiki/Doppler_effect">Doppler effect</a></dfn></dt>
+<dd class="glossary">The change in frequency of a wave (or other periodic event) for an observer moving relative to its source.The received frequency is higher (compared to the emitted frequency) during the approach, it is identical at the instant of passing by, and it is lower during the recession.</dd>
+<dt id="drag" class="glossary"><dfn class="glossary"><a title="Drag (physics)" href="https://en.wikipedia.org/wiki/Drag_(physics)">drag</a></dfn></dt>
+<dd class="glossary">Forces which act on a solid object in the direction of the relative fluid flow velocity. Unlike other resistive forces, such as dry friction, which is nearly independent of velocity, drag forces depend on velocity.</dd>
+<dt id="ductility" class="glossary"><dfn class="glossary"><a title="Ductility" href="https://en.wikipedia.org/wiki/Ductility">ductility</a></dfn></dt>
+<dd class="glossary">A solid material's ability to deform under tensile stress; this is often characterized by the material's ability to be stretched into a wire.</dd>
+<dt id="dynamics" class="glossary"><dfn class="glossary"><a title="Dynamics (mechanics)" href="https://en.wikipedia.org/wiki/Dynamics_(mechanics)">dynamics</a></dfn></dt>
+<dd class="glossary">The branch of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#classical_mechanics"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; classical mechanics">classical mechanics</span></a>&nbsp;that studies&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#force"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; force">forces</span></a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#torque"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; torque">torques</span></a>&nbsp;and their effects on&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#motion"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; motion">motion</span></a>, as opposed to&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#kinematics"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; kinematics">kinematics</span></a>, which studies motion without reference to these forces.</dd>
+<dt id="dyne" class="glossary"><dfn class="glossary"><a title="Dyne" href="https://en.wikipedia.org/wiki/Dyne">dyne</a></dfn></dt>
+<dd class="glossary"></dd>
+</dl>
