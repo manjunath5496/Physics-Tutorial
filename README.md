@@ -111,3 +111,72 @@
 <li><a title="Materials physics" href="https://en.wikipedia.org/wiki/Materials_physics">Materials physics</a>&nbsp;&ndash; use of physics to describe materials in many different ways such as force, heat, light and mechanics.</li>
 <li><a title="Vehicle dynamics" href="https://en.wikipedia.org/wiki/Vehicle_dynamics">Vehicle dynamics</a>&nbsp;&ndash; dynamics of vehicles, here assumed to be ground vehicles.</li>
 </ul>
+<h2><span id="General_concepts_of_physics" class="mw-headline">General concepts of physics</span></h2>
+<h3><span id="Basic_principles_of_physics" class="mw-headline">Basic principles of physics</span></h3>
+<p>Physics &ndash; branch of science that studies&nbsp;<a title="Matter" href="https://en.wikipedia.org/wiki/Matter">matter</a>&nbsp;and its&nbsp;<a class="mw-redirect" title="Motion (physics)" href="https://en.wikipedia.org/wiki/Motion_(physics)">motion</a>&nbsp;through&nbsp;<a title="Spacetime" href="https://en.wikipedia.org/wiki/Spacetime">space and time</a>, along with related concepts such as&nbsp;<a title="Energy" href="https://en.wikipedia.org/wiki/Energy">energy</a>&nbsp;and&nbsp;<a title="Force" href="https://en.wikipedia.org/wiki/Force">force</a>.&nbsp;Physics is one of the "<a class="mw-redirect" title="Fundamental science" href="https://en.wikipedia.org/wiki/Fundamental_science">fundamental sciences</a>" because the other natural sciences (like biology, geology etc.) deal with systems that seem to obey the laws of physics. According to physics, the physical laws of matter, energy and the fundamental forces of nature govern the interactions between particles and physical entities (such as planets, molecules, atoms or the subatomic particles). Some of the basic pursuits of physics, which include some of the most prominent developments in modern science in the last millennium, include:</p>
+<ul>
+<li>Describing the nature, measuring and quantifying of bodies and their motion, dynamics etc.
+<ul>
+<li><a title="Newton's laws of motion" href="https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion">Newton's laws of motion</a></li>
+<li><a title="Mass" href="https://en.wikipedia.org/wiki/Mass">Mass</a>,&nbsp;<a title="Force" href="https://en.wikipedia.org/wiki/Force">force</a>&nbsp;and&nbsp;<a title="Weight" href="https://en.wikipedia.org/wiki/Weight">weight</a>&nbsp;(<a title="Mass versus weight" href="https://en.wikipedia.org/wiki/Mass_versus_weight">Mass versus weight</a>)</li>
+<li><a title="Momentum" href="https://en.wikipedia.org/wiki/Momentum">Momentum</a>&nbsp;and&nbsp;<a title="Conservation of energy" href="https://en.wikipedia.org/wiki/Conservation_of_energy">conservation of energy</a></li>
+<li><a title="Gravity" href="https://en.wikipedia.org/wiki/Gravity">Gravity</a>, theories of gravity</li>
+<li><a title="Energy" href="https://en.wikipedia.org/wiki/Energy">Energy</a>,&nbsp;<a title="Work (physics)" href="https://en.wikipedia.org/wiki/Work_(physics)">work</a>, and&nbsp;<a title="Work (physics)" href="https://en.wikipedia.org/wiki/Work_(physics)#Work_and_energy">their relationship</a></li>
+<li><a class="mw-redirect" title="Motion (physics)" href="https://en.wikipedia.org/wiki/Motion_(physics)">Motion</a>,&nbsp;<a class="mw-redirect" title="Position (vector)" href="https://en.wikipedia.org/wiki/Position_(vector)">position</a>, and&nbsp;<a title="Energy" href="https://en.wikipedia.org/wiki/Energy">energy</a></li>
+<li>Different&nbsp;<a class="mw-redirect" title="Forms of energy" href="https://en.wikipedia.org/wiki/Forms_of_energy">forms of Energy</a>, their inter-conversion and the inevitable loss of energy in the form of heat (<a title="Thermodynamics" href="https://en.wikipedia.org/wiki/Thermodynamics">Thermodynamics</a>)</li>
+<li><a title="Conservation of energy" href="https://en.wikipedia.org/wiki/Conservation_of_energy">Energy conservation</a>,&nbsp;<a class="mw-redirect" title="Energy conversion" href="https://en.wikipedia.org/wiki/Energy_conversion">conversion</a>, and transfer.</li>
+<li><a class="mw-redirect" title="Energy source" href="https://en.wikipedia.org/wiki/Energy_source">Energy source</a>&nbsp;the transfer of energy from one source to work in another.</li>
+</ul>
+</li>
+<li><a title="Kinetic theory of gases" href="https://en.wikipedia.org/wiki/Kinetic_theory_of_gases">Kinetic molecular theory</a>
+<ul>
+<li><a title="Phase (matter)" href="https://en.wikipedia.org/wiki/Phase_(matter)">Phases of matter</a>&nbsp;and&nbsp;<a title="Phase transition" href="https://en.wikipedia.org/wiki/Phase_transition">phase transitions</a></li>
+<li><a title="Temperature" href="https://en.wikipedia.org/wiki/Temperature">Temperature</a>&nbsp;and&nbsp;<a title="Thermometer" href="https://en.wikipedia.org/wiki/Thermometer">thermometers</a></li>
+<li><a title="Energy" href="https://en.wikipedia.org/wiki/Energy">Energy</a>&nbsp;and&nbsp;<a title="Heat" href="https://en.wikipedia.org/wiki/Heat">heat</a></li>
+<li><a title="Heat transfer" href="https://en.wikipedia.org/wiki/Heat_transfer">Heat flow</a>:&nbsp;<a class="mw-redirect" title="Heat conduction" href="https://en.wikipedia.org/wiki/Heat_conduction">conduction</a>,&nbsp;<a title="Convection" href="https://en.wikipedia.org/wiki/Convection">convection</a>, and&nbsp;<a title="Thermal radiation" href="https://en.wikipedia.org/wiki/Thermal_radiation">radiation</a></li>
+<li>The three&nbsp;<a title="Laws of thermodynamics" href="https://en.wikipedia.org/wiki/Laws_of_thermodynamics">laws of thermodynamics</a></li>
+</ul>
+</li>
+<li>The principles of&nbsp;<a title="Wave" href="https://en.wikipedia.org/wiki/Wave">waves</a>&nbsp;and&nbsp;<a title="Sound" href="https://en.wikipedia.org/wiki/Sound">sound</a></li>
+<li>The principles of&nbsp;<a title="Electricity" href="https://en.wikipedia.org/wiki/Electricity">electricity</a>,&nbsp;<a title="Magnetism" href="https://en.wikipedia.org/wiki/Magnetism">magnetism</a>, and&nbsp;<a title="Electromagnetism" href="https://en.wikipedia.org/wiki/Electromagnetism">electromagnetism</a></li>
+<li>The principles, sources, and properties of&nbsp;<a title="Light" href="https://en.wikipedia.org/wiki/Light">light</a></li>
+<li>Basic quantities
+<ul>
+<li><a title="Acceleration" href="https://en.wikipedia.org/wiki/Acceleration">Acceleration</a></li>
+<li><a title="Electric charge" href="https://en.wikipedia.org/wiki/Electric_charge">Electric charge</a></li>
+<li><a title="Energy" href="https://en.wikipedia.org/wiki/Energy">Energy</a></li>
+<li><a title="Entropy" href="https://en.wikipedia.org/wiki/Entropy">Entropy</a></li>
+<li><a class="mw-redirect" title="Force (physics)" href="https://en.wikipedia.org/wiki/Force_(physics)">Force</a></li>
+<li><a title="Length" href="https://en.wikipedia.org/wiki/Length">Length</a></li>
+<li><a title="Mass" href="https://en.wikipedia.org/wiki/Mass">Mass</a></li>
+<li><a title="Matter" href="https://en.wikipedia.org/wiki/Matter">Matter</a></li>
+<li><a title="Momentum" href="https://en.wikipedia.org/wiki/Momentum">Momentum</a></li>
+<li><a title="Potential energy" href="https://en.wikipedia.org/wiki/Potential_energy">Potential energy</a></li>
+<li><a title="Space" href="https://en.wikipedia.org/wiki/Space">Space</a></li>
+<li><a title="Temperature" href="https://en.wikipedia.org/wiki/Temperature">Temperature</a></li>
+<li><a title="Time" href="https://en.wikipedia.org/wiki/Time">Time</a></li>
+<li><a title="Velocity" href="https://en.wikipedia.org/wiki/Velocity">Velocity</a></li>
+</ul>
+</li>
+</ul>
+<p><a title="Gravity" href="https://en.wikipedia.org/wiki/Gravity">Gravity</a>,&nbsp;<a title="Light" href="https://en.wikipedia.org/wiki/Light">light</a>,&nbsp;<a title="Physical system" href="https://en.wikipedia.org/wiki/Physical_system">physical system</a>,&nbsp;<a class="mw-redirect" title="Physical observation" href="https://en.wikipedia.org/wiki/Physical_observation">physical observation</a>,&nbsp;<a title="Physical quantity" href="https://en.wikipedia.org/wiki/Physical_quantity">physical quantity</a>,&nbsp;<a title="State of matter" href="https://en.wikipedia.org/wiki/State_of_matter">physical state</a>,&nbsp;<a class="mw-redirect" title="Physical unit" href="https://en.wikipedia.org/wiki/Physical_unit">physical unit</a>,&nbsp;<a class="mw-redirect" title="Physical theory" href="https://en.wikipedia.org/wiki/Physical_theory">physical theory</a>,&nbsp;<a class="mw-redirect" title="Physical experiment" href="https://en.wikipedia.org/wiki/Physical_experiment">physical experiment</a></p>
+<p>Theoretical concepts&nbsp;<a title="Mass&ndash;energy equivalence" href="https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence">Mass&ndash;energy equivalence</a>,&nbsp;<a title="Elementary particle" href="https://en.wikipedia.org/wiki/Elementary_particle">particle</a>,&nbsp;<a class="mw-redirect" title="Physical field" href="https://en.wikipedia.org/wiki/Physical_field">physical field</a>,&nbsp;<a class="mw-redirect" title="Physical interaction" href="https://en.wikipedia.org/wiki/Physical_interaction">physical interaction</a>,&nbsp;<a class="mw-redirect" title="Physical law" href="https://en.wikipedia.org/wiki/Physical_law">physical law</a>,&nbsp;<a class="mw-redirect" title="Fundamental force" href="https://en.wikipedia.org/wiki/Fundamental_force">fundamental force</a>,&nbsp;<a title="Physical constant" href="https://en.wikipedia.org/wiki/Physical_constant">physical constant</a>,&nbsp;<a title="Wave" href="https://en.wikipedia.org/wiki/Wave">wave</a></p>
+<h3><span id="Measurement" class="mw-headline">Measurement</span></h3>
+<ul>
+<li><a title="Measurement" href="https://en.wikipedia.org/wiki/Measurement">Measurement</a></li>
+<li><a class="mw-redirect" title="SI units" href="https://en.wikipedia.org/wiki/SI_units">SI units</a></li>
+<li><a title="Conversion of units" href="https://en.wikipedia.org/wiki/Conversion_of_units">Conversion of units</a></li>
+<li><a title="Length" href="https://en.wikipedia.org/wiki/Length">Length</a></li>
+<li><a title="Time" href="https://en.wikipedia.org/wiki/Time">Time</a></li>
+<li><a title="Mass" href="https://en.wikipedia.org/wiki/Mass">Mass</a></li>
+<li><a title="Density" href="https://en.wikipedia.org/wiki/Density">Density</a></li>
+</ul>
+<h3><span id="Motion" class="mw-headline">Motion</span></h3>
+<ul>
+<li><a title="Motion" href="https://en.wikipedia.org/wiki/Motion">Motion</a></li>
+<li><a title="Velocity" href="https://en.wikipedia.org/wiki/Velocity">Velocity</a></li>
+<li><a title="Speed" href="https://en.wikipedia.org/wiki/Speed">Speed</a></li>
+<li><a title="Acceleration" href="https://en.wikipedia.org/wiki/Acceleration">Acceleration</a></li>
+<li><a class="mw-redirect" title="Constant acceleration" href="https://en.wikipedia.org/wiki/Constant_acceleration">Constant acceleration</a></li>
+<li><a title="Newton's laws of motion" href="https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion">Newton's laws of motion</a></li>
+</ul>
