@@ -977,3 +977,757 @@ where:
 <dt id="group_velocity" class="glossary"><dfn class="glossary"><a title="Group velocity" href="https://en.wikipedia.org/wiki/Group_velocity">group velocity</a></dfn></dt>
 <dd class="glossary"></dd>
 </dl>
+<h2><span id="H" class="mw-headline">H</span></h2>
+<dl class="glossary">
+<dt id="hadron" class="glossary"><dfn class="glossary"><a title="Hadron" href="https://en.wikipedia.org/wiki/Hadron">hadron</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="half-life" class="glossary"><dfn class="glossary"><a title="Half-life" href="https://en.wikipedia.org/wiki/Half-life">half-life</a></dfn></dt>
+<dd class="glossary">The time required for a quantity to fall to half its value as measured at the beginning of the time period. In physics, half-life typically refers to a property of radioactive decay, but may be refer to any quantity which follows an exponential decay.</dd>
+<dt id="hamilton's_principle" class="glossary"><dfn class="glossary"><a title="Hamilton's principle" href="https://en.wikipedia.org/wiki/Hamilton%27s_principle">Hamilton's principle</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="hamiltonian_mechanics" class="glossary"><dfn class="glossary"><a title="Hamiltonian mechanics" href="https://en.wikipedia.org/wiki/Hamiltonian_mechanics">Hamiltonian mechanics</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="harmonic_mean" class="glossary"><dfn class="glossary"><a title="Harmonic mean" href="https://en.wikipedia.org/wiki/Harmonic_mean">harmonic mean</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="heat" class="glossary"><dfn class="glossary"><a title="Heat" href="https://en.wikipedia.org/wiki/Heat">heat</a></dfn></dt>
+<dd class="glossary">A form of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#energy"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; energy">energy</span></a>&nbsp;transferred from one body to another by thermal interaction.</dd>
+<dt id="heat_transfer" class="glossary"><dfn class="glossary"><a title="Heat transfer" href="https://en.wikipedia.org/wiki/Heat_transfer">heat transfer</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="helmholtz_free_energy" class="glossary"><dfn class="glossary"><a title="Helmholtz free energy" href="https://en.wikipedia.org/wiki/Helmholtz_free_energy">Helmholtz free energy</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="henderson&ndash;hasselbalch_equation" class="glossary"><dfn class="glossary"><a title="Henderson&ndash;Hasselbalch equation" href="https://en.wikipedia.org/wiki/Henderson%E2%80%93Hasselbalch_equation">Henderson&ndash;Hasselbalch equation</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="henry's_law" class="glossary"><dfn class="glossary"><a title="Henry's law" href="https://en.wikipedia.org/wiki/Henry%27s_law">Henry's law</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="hertz" class="glossary"><dfn class="glossary"><a title="Hertz" href="https://en.wikipedia.org/wiki/Hertz">hertz</a></dfn></dt>
+<dd class="glossary">The SI unit of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#frequency"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; frequency">frequency</span></a>&nbsp;defined as the number of cycles per second of a periodic phenomenon.</dd>
+<dt id="higgs_boson" class="glossary"><dfn class="glossary"><a title="Higgs boson" href="https://en.wikipedia.org/wiki/Higgs_boson">Higgs boson</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="homeokinetics" class="glossary"><dfn class="glossary"><a title="Homeokinetics" href="https://en.wikipedia.org/wiki/Homeokinetics">homeokinetics</a></dfn></dt>
+<dd class="glossary">The physics of complex, self-organizing systems.</dd>
+<dt id="horsepower" class="glossary"><dfn class="glossary"><a title="Horsepower" href="https://en.wikipedia.org/wiki/Horsepower">horsepower</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="huygens&ndash;fresnel_principle" class="glossary"><dfn class="glossary"><a title="Huygens&ndash;Fresnel principle" href="https://en.wikipedia.org/wiki/Huygens%E2%80%93Fresnel_principle">Huygens&ndash;Fresnel principle</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="hydrostatics" class="glossary"><dfn class="glossary"><a title="Hydrostatics" href="https://en.wikipedia.org/wiki/Hydrostatics">hydrostatics</a></dfn></dt>
+</dl>
+<h2><span id="I" class="mw-headline">I</span></h2>
+<dl class="glossary">
+<dt id="ice_point" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Ice point" href="https://en.wikipedia.org/wiki/Ice_point">ice point</a></dfn></dt>
+<dd class="glossary">A physical process that results in the phase transition of a substance from a liquid to a solid.</dd>
+<dt id="impedance" class="glossary"><dfn class="glossary"><a title="Electrical impedance" href="https://en.wikipedia.org/wiki/Electrical_impedance">impedance</a></dfn></dt>
+<dd class="glossary">The measure of the opposition that a circuit presents to a current when a voltage is applied.</dd>
+<dt id="indefinite_integral" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Indefinite integral" href="https://en.wikipedia.org/wiki/Indefinite_integral">indefinite integral</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="inductance" class="glossary"><dfn class="glossary"><a title="Inductance" href="https://en.wikipedia.org/wiki/Inductance">inductance</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="infrasound" class="glossary"><dfn class="glossary"><a title="Infrasound" href="https://en.wikipedia.org/wiki/Infrasound">infrasound</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="inertia" class="glossary"><dfn class="glossary"><a title="Inertia" href="https://en.wikipedia.org/wiki/Inertia">inertia</a></dfn></dt>
+<dd class="glossary">The resistance of any physical object to a change in its state of motion or rest, or the tendency of an object to resist any change in its motion.</dd>
+<dt id="inductive_reactance" class="glossary"><dfn class="glossary"><a title="Electrical reactance" href="https://en.wikipedia.org/wiki/Electrical_reactance#Inductive_reactance">inductive reactance</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="integral" class="glossary"><dfn class="glossary"><a title="Integral" href="https://en.wikipedia.org/wiki/Integral">integral</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="integral_transform" class="glossary"><dfn class="glossary"><a title="Integral transform" href="https://en.wikipedia.org/wiki/Integral_transform">integral transform</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="international_system_of_units" class="glossary"><dfn class="glossary"><a title="International System of Units" href="https://en.wikipedia.org/wiki/International_System_of_Units">International System of Units</a></dfn></dt>
+<dd class="glossary">The International System of Units (abbreviated SI) is the modern form of the metric system. It comprises a system of units of measurement devised around seven base units and the convenience of the number ten.</dd>
+<dt id="invariant_mass" class="glossary"><dfn class="glossary"><a title="Invariant mass" href="https://en.wikipedia.org/wiki/Invariant_mass">invariant mass</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="ion" class="glossary"><dfn class="glossary"><a title="Ion" href="https://en.wikipedia.org/wiki/Ion">ion</a></dfn></dt>
+<dd class="glossary">An&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#atom"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; atom">atom</span></a>&nbsp;or&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#molecule"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; molecule">molecule</span></a>&nbsp;in which the total number of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electron"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electron">electrons</span></a>&nbsp;is not equal to the total number of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#proton"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; proton">protons</span></a>, giving the atom a net positive or negative&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electric_charge"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electric charge">electric charge</span></a>.</dd>
+<dt id="ionic_bond" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Ionic bond" href="https://en.wikipedia.org/wiki/Ionic_bond">ionic bond</a></dfn></dt>
+<dd class="glossary">A type of chemical bond formed through an electrostatic attraction between two oppositely charged&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#ion"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; ion">ions</span></a>.</dd>
+<dt id="ionization" class="glossary"><dfn class="glossary"><a title="Ionization" href="https://en.wikipedia.org/wiki/Ionization">ionization</a></dfn></dt>
+<dd class="glossary">The process of converting an&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#atom"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; atom">atom</span></a>&nbsp;or&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#molecule"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; molecule">molecule</span></a>&nbsp;into an&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#ion"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; ion">ion</span></a>&nbsp;by adding or removing charged particles such as&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electron"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electron">electrons</span></a>&nbsp;or other ions.</dd>
+<dt id="ionization_chamber" class="glossary"><dfn class="glossary"><a title="Ionization chamber" href="https://en.wikipedia.org/wiki/Ionization_chamber">ionization chamber</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="ionizing_radiation" class="glossary"><dfn class="glossary"><a title="Ionizing radiation" href="https://en.wikipedia.org/wiki/Ionizing_radiation">ionizing radiation</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="isotope" class="glossary"><dfn class="glossary"><a title="Isotope" href="https://en.wikipedia.org/wiki/Isotope">isotope</a></dfn></dt>
+<dd class="glossary">A variant of a particular chemical element. While all isotopes of a given element share the same number of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#proton"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; proton">protons</span></a>, each isotope differs from the others in its number of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#neutron"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; neutron">neutrons</span></a>.</dd>
+</dl>
+<h2><span id="J" class="mw-headline">J</span></h2>
+<dl class="glossary">
+<dt id="josephson_effect" class="glossary"><dfn class="glossary"><a title="Josephson effect" href="https://en.wikipedia.org/wiki/Josephson_effect">Josephson effect</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="joule" class="glossary"><dfn class="glossary"><a title="Joule" href="https://en.wikipedia.org/wiki/Joule">joule</a></dfn></dt>
+<dd class="glossary">A derived unit of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#energy"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; energy">energy</span></a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#work"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; work">work</span></a>, or amount of heat in the International System of Units.</dd>
+</dl>
+<h2><span id="K" class="mw-headline">K</span></h2>
+<dl class="glossary">
+<dt id="kelvin" class="glossary"><dfn class="glossary"><a title="Kelvin" href="https://en.wikipedia.org/wiki/Kelvin">Kelvin</a></dfn></dt>
+<dd class="glossary">A scale and unit of measurement of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#temperature"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; temperature">temperature</span></a>. The Kelvin scale is an absolute&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#thermodynamic_temperature"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; thermodynamic temperature">thermodynamic temperature</span></a>&nbsp;scale which uses&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#absolute_zero"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; absolute zero">absolute zero</span></a>&nbsp;as its null point.</dd>
+<dt id="kinematics" class="glossary"><dfn class="glossary"><a title="Kinematics" href="https://en.wikipedia.org/wiki/Kinematics">kinematics</a></dfn></dt>
+<dd class="glossary">The branch of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#classical_mechanics"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; classical mechanics">classical mechanics</span></a>&nbsp;that describes the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#motion"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; motion">motion</span></a>&nbsp;of points, bodies (objects) and systems of bodies (groups of objects) without consideration of the causes of motion. The study of kinematics is often referred to as the "geometry of motion".</dd>
+<dt id="kinetic_energy" class="glossary"><dfn class="glossary"><a title="Kinetic energy" href="https://en.wikipedia.org/wiki/Kinetic_energy">kinetic energy</a></dfn></dt>
+<dd class="glossary">The&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#energy"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; energy">energy</span></a>&nbsp;that a physical body possesses due to its&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#motion"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; motion">motion</span></a>, defined as the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#work"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; work">work</span></a>&nbsp;needed to&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#acceleration"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; acceleration">accelerate</span></a>&nbsp;a body of a given&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#mass"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; mass">mass</span></a>&nbsp;from rest to its stated&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#velocity"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; velocity">velocity</span></a>. The body continues to maintain this kinetic energy unless its velocity changes. Contrast&nbsp;<em><a href="https://en.wikipedia.org/wiki/Glossary_of_physics#potential_energy"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; potential energy">potential energy</span></a></em>.</dd>
+<dt id="kirchhoff's_circuit_laws" class="glossary"><dfn class="glossary"><a title="Kirchhoff's circuit laws" href="https://en.wikipedia.org/wiki/Kirchhoff%27s_circuit_laws">Kirchhoff's circuit laws</a></dfn></dt>
+<dd class="glossary">Two approximate equalities that deal with the current and voltage in electrical circuits.also called Kirchhoff's rules or simply Kirchhoff's laws (see also&nbsp;<a title="Kirchhoff's law of thermal radiation" href="https://en.wikipedia.org/wiki/Kirchhoff%27s_law_of_thermal_radiation">Kirchhoff's laws</a>&nbsp;for other meanings of that term).</dd>
+<dt id="kirchhoff's_equations" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Kirchhoff's equations" href="https://en.wikipedia.org/wiki/Kirchhoff%27s_equations">Kirchhoff's equations</a></dfn></dt>
+<dd class="glossary">In fluid dynamics, the Kirchhoff equations describe the motion of a rigid body in an ideal fluid.</dd>
+</dl>
+<h2><span id="L" class="mw-headline">L</span></h2>
+<dl class="glossary">
+<dt id="lagrangian_mechanics" class="glossary"><dfn class="glossary"><a title="Lagrangian mechanics" href="https://en.wikipedia.org/wiki/Lagrangian_mechanics">Lagrangian mechanics</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="laminar_flow" class="glossary"><dfn class="glossary"><a title="Laminar flow" href="https://en.wikipedia.org/wiki/Laminar_flow">laminar flow</a></dfn></dt>
+</dl>
+<p class="glossary-hatnote"><span class="hatnote navigation-not-searchable selfref">Also called&nbsp;<strong>streamline flow</strong>.</span></p>
+<dl class="glossary">
+<dd class="glossary">Occurs when a fluid flows in parallel layers with no disruption between the layers.</dd>
+<dt id="laplace_transform" class="glossary"><dfn class="glossary"><a title="Laplace transform" href="https://en.wikipedia.org/wiki/Laplace_transform">Laplace transform</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="laplace&ndash;runge&ndash;lenz_vector" class="glossary"><dfn class="glossary"><a title="Laplace&ndash;Runge&ndash;Lenz vector" href="https://en.wikipedia.org/wiki/Laplace%E2%80%93Runge%E2%80%93Lenz_vector">Laplace&ndash;Runge&ndash;Lenz vector</a></dfn></dt>
+</dl>
+<p class="glossary-hatnote"><span class="hatnote navigation-not-searchable selfref">Also abbreviated&nbsp;<strong>LRL vector</strong>.</span></p>
+<dl class="glossary">
+<dd class="glossary">A&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#vector"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; vector">vector</span></a>&nbsp;used chiefly to describe the shape and orientation of the orbit of one astronomical body around another, such as a planet revolving around a star. For two bodies interacting by Newtonian gravity, the LRL vector is a constant of motion, meaning that it is the same no matter where it is calculated on the orbit; equivalently, the LRL vector is said to be conserved.</dd>
+<dt id="laser" class="glossary"><dfn class="glossary"><a title="Laser" href="https://en.wikipedia.org/wiki/Laser">laser</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="law_of_universal_gravitation" class="glossary"><dfn class="glossary"><a title="Newton's law of universal gravitation" href="https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation">law of universal gravitation</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="lc_circuit" class="glossary"><dfn class="glossary"><a title="LC circuit" href="https://en.wikipedia.org/wiki/LC_circuit">LC circuit</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="lenz's_law" class="glossary"><dfn class="glossary"><a title="Lenz's law" href="https://en.wikipedia.org/wiki/Lenz%27s_law">Lenz's law</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="lepton" class="glossary"><dfn class="glossary"><a title="Lepton" href="https://en.wikipedia.org/wiki/Lepton">lepton</a></dfn></dt>
+<dd class="glossary">An elementary particle which does not undergo&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#strong_interaction"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; strong interaction">strong interactions</span></a>&nbsp;but is subject to the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#pauli_exclusion_principle"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; Pauli exclusion principle">Pauli exclusion principle</span></a>. Two main classes of leptons exist: charged leptons (also known as the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electron"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electron">electron</span></a>-like leptons) and neutral leptons (better known as&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#neutrino"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; neutrino">neutrinos</span></a>).</dd>
+<dt id="lever" class="glossary"><dfn class="glossary"><a title="Lever" href="https://en.wikipedia.org/wiki/Lever">lever</a></dfn></dt>
+<dd class="glossary">A type of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#machine"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; machine">machine</span></a>&nbsp;consisting of a beam or rigid rod pivoted at a fixed hinge or fulcrum; one of six classical&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#simple_machine"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; simple machine">simple machines</span></a>.</dd>
+<dt id="light" class="glossary"><dfn class="glossary"><a title="Light" href="https://en.wikipedia.org/wiki/Light">light</a></dfn></dt>
+<dd class="glossary">A form of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electromagnetic_radiation"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electromagnetic radiation">electromagnetic radiation</span></a>&nbsp;that occupies a certain range of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#wavelength"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; wavelength">wavelengths</span></a>&nbsp;within the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electromagnetic_spectrum"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electromagnetic spectrum">electromagnetic spectrum</span></a>. In physics, the term sometimes refers collectively to electromagnetic radiation of any wavelength, in which case light includes&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#gamma_ray"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; gamma ray">gamma rays</span></a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#x-ray"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; X-ray">X-rays</span></a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#microwave"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; microwave">microwaves</span></a>, and&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#radio_wave"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; radio wave">radio waves</span></a>, but in common usage "light" more often refers specifically to&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#visible_light"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; visible light">visible light</span></a>.</dd>
+<dt id="linear_actuator" class="glossary"><dfn class="glossary"><a title="Linear actuator" href="https://en.wikipedia.org/wiki/Linear_actuator">linear actuator</a></dfn></dt>
+<dd class="glossary">A form of&nbsp;<a title="Engine" href="https://en.wikipedia.org/wiki/Engine">motor</a>&nbsp;that generates a&nbsp;<a class="mw-redirect" title="Linear" href="https://en.wikipedia.org/wiki/Linear">linear</a>&nbsp;movement directly.</dd>
+<dt id="linear_algebra" class="glossary"><dfn class="glossary"><a title="Linear algebra" href="https://en.wikipedia.org/wiki/Linear_algebra">linear algebra</a></dfn></dt>
+<dd class="glossary">The branch of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#mathematics"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; mathematics">mathematics</span></a>&nbsp;concerning&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#vector_space"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; vector space">vector spaces</span></a>, often finite or countably infinite dimensional, as well as linear mappings between such spaces.</dd>
+<dt id="line_of_force" class="glossary"><dfn class="glossary"><a title="Line of force" href="https://en.wikipedia.org/wiki/Line_of_force">line of force</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="linear_elasticity" class="glossary"><dfn class="glossary"><a title="Linear elasticity" href="https://en.wikipedia.org/wiki/Linear_elasticity">linear elasticity</a></dfn></dt>
+<dd class="glossary">The mathematical study of how solid objects deform and become internally stressed due to prescribed loading conditions. Linear elasticity is a simplification of the more general&nbsp;<a class="new" title="Nonlinear theory of elasticity (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=Nonlinear_theory_of_elasticity&amp;action=edit&amp;redlink=1">nonlinear theory of elasticity</a>&nbsp;and is a branch of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#continuum_mechanics"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; continuum mechanics">continuum mechanics</span></a>.</dd>
+<dt id="liouville's_theorem" class="glossary"><dfn class="glossary"><a title="Liouville's theorem (conformal mappings)" href="https://en.wikipedia.org/wiki/Liouville%27s_theorem_(conformal_mappings)">Liouville's theorem</a></dfn></dt>
+<dd class="glossary">Phase space volume is conserved.</dd>
+<dt id="liquid" class="glossary"><dfn class="glossary"><a title="Liquid" href="https://en.wikipedia.org/wiki/Liquid">liquid</a></dfn></dt>
+<dd class="glossary">One of four classical&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#state_of_matter"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; state of matter">states of matter</span></a>&nbsp;having a definite&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#volume"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; volume">volume</span></a>&nbsp;but no fixed shape.</dd>
+<dt id="liquid_crystal_(lc)" class="glossary"><dfn class="glossary"><a title="Liquid crystal" href="https://en.wikipedia.org/wiki/Liquid_crystal">liquid crystal</a>&nbsp;(LC)</dfn></dt>
+<dd class="glossary">A matter in a state that has properties between those of a conventional liquid and those of a solid crystal. For instance, an LC may flow like a liquid, but its&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#molecule"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; molecule">molecules</span></a>&nbsp;may be oriented in a crystal-like way.</dd>
+<dt id="longitudinal_wave" class="glossary"><dfn class="glossary"><a title="Longitudinal wave" href="https://en.wikipedia.org/wiki/Longitudinal_wave">longitudinal wave</a></dfn></dt>
+</dl>
+<h2><span id="M" class="mw-headline">M</span></h2>
+<dl class="glossary">
+<dt id="m-theory" class="glossary"><dfn class="glossary"><a title="M-theory" href="https://en.wikipedia.org/wiki/M-theory">M-theory</a></dfn></dt>
+<dd class="glossary">An extension of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#string_theory"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; string theory">string theory</span></a>&nbsp;that attempts to unify seemingly contradictory mathematical formulations and which identifies 11 dimensions.</dd>
+<dt id="mach_number" class="glossary"><dfn class="glossary"><a title="Mach number" href="https://en.wikipedia.org/wiki/Mach_number">Mach number</a></dfn></dt>
+<dd class="glossary">A dimensionless quantity representing the ratio of the speed of an object moving through a fluid to the local speed of sound.</dd>
+<dt id="machine" class="glossary"><dfn class="glossary"><a title="Machine" href="https://en.wikipedia.org/wiki/Machine">machine</a></dfn></dt>
+<dd class="glossary">Any powered tool consisting of one or more parts that is constructed to achieve a particular goal. Machines are usually powered by mechanical, chemical, thermal or electrical means, and are frequently motorised.</dd>
+<dt id="machine_element" class="glossary"><dfn class="glossary"><a title="Machine element" href="https://en.wikipedia.org/wiki/Machine_element">machine element</a></dfn></dt>
+<dd class="glossary">An elementary component of a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#machine"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; machine">machine</span></a>. There are three basic types: structural components, mechanisms and control components.</dd>
+<dt id="maclaurin_series" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Maclaurin series" href="https://en.wikipedia.org/wiki/Maclaurin_series">Maclaurin series</a></dfn></dt>
+<dd class="glossary">A representation of a function as an infinite sum of terms that are calculated from the values of the function's derivatives at a single point.</dd>
+<dt id="magnetic_field" class="glossary"><dfn class="glossary"><a title="Magnetic field" href="https://en.wikipedia.org/wiki/Magnetic_field">magnetic field</a></dfn></dt>
+<dd class="glossary">A mathematical description of the magnetic influence of electric currents and magnetic materials. The magnetic field at any given point is specified by both a direction and a magnitude (or strength); as such it is a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#vector"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; vector">vector</span></a>&nbsp;field.</dd>
+<dt id="magnetism" class="glossary"><dfn class="glossary"><a title="Magnetism" href="https://en.wikipedia.org/wiki/Magnetism">magnetism</a></dfn></dt>
+<dd class="glossary">A property of materials that respond to an applied&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#magnetic_field"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; magnetic field">magnetic field</span></a>.</dd>
+<dt id="magnetostatics" class="glossary"><dfn class="glossary"><a title="Magnetostatics" href="https://en.wikipedia.org/wiki/Magnetostatics">magnetostatics</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="mass" class="glossary"><dfn class="glossary"><a title="Mass" href="https://en.wikipedia.org/wiki/Mass">mass</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="mass_balance" class="glossary"><dfn class="glossary"><a title="Mass balance" href="https://en.wikipedia.org/wiki/Mass_balance">mass balance</a></dfn></dt>
+</dl>
+<p class="glossary-hatnote"><span class="hatnote navigation-not-searchable selfref">Also called&nbsp;<strong>material balance</strong>.</span></p>
+<dl class="glossary">
+<dd class="glossary">An application of the law of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#conservation_of_mass"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; conservation of mass">conservation of mass</span></a>&nbsp;to the analysis of physical systems.</dd>
+<dt id="mass_density" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Mass density" href="https://en.wikipedia.org/wiki/Mass_density">mass density</a></dfn></dt>
+<dd class="glossary">See&nbsp;<em><a href="https://en.wikipedia.org/wiki/Glossary_of_physics#density"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; density">density</span></a></em>.</dd>
+<dt id="mass_flux" class="glossary"><dfn class="glossary"><a title="Mass flux" href="https://en.wikipedia.org/wiki/Mass_flux">mass flux</a></dfn></dt>
+<dd class="glossary">The rate of mass flow per unit area. The common symbols are j, J, &phi;, or &Phi;, sometimes with subscript m to indicate mass is the flowing quantity. Its SI units are kg s<sup>&minus;1</sup> m<sup>&minus;2</sup>.</dd>
+<dt id="mass_moment_of_inertia" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Mass moment of inertia" href="https://en.wikipedia.org/wiki/Mass_moment_of_inertia">mass moment of inertia</a></dfn></dt>
+<dd class="glossary">A property of a distribution of mass in space that measures its resistance to rotational acceleration about an axis.</dd>
+<dt id="mass_number" class="glossary"><dfn class="glossary"><a title="Mass number" href="https://en.wikipedia.org/wiki/Mass_number">mass number</a></dfn></dt>
+</dl>
+<p class="glossary-hatnote"><span class="hatnote navigation-not-searchable selfref">Also called&nbsp;<strong>atomic mass number</strong>&nbsp;or&nbsp;<strong>nucleon number</strong>.</span></p>
+<dl class="glossary">
+<dd class="glossary">The total number of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#proton"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; proton">protons</span></a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#neutron"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; neutron">neutrons</span></a>&nbsp;(together known as&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#nucleon"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; nucleon">nucleons</span></a>) in an atomic nucleus.</dd>
+<dt id="mass_spectrometry" class="glossary"><dfn class="glossary"><a title="Mass spectrometry" href="https://en.wikipedia.org/wiki/Mass_spectrometry">mass spectrometry</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="material_properties" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Material properties" href="https://en.wikipedia.org/wiki/Material_properties">material properties</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="materials_science" class="glossary"><dfn class="glossary"><a title="Materials science" href="https://en.wikipedia.org/wiki/Materials_science">materials science</a></dfn></dt>
+<dd class="glossary">An interdisciplinary field incorporating elements of physics, chemistry, and engineering that is concerned with the design and discovery of new materials, particularly&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#solid"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; solid">solids</span></a>.</dd>
+<dt id="mathematical_physics" class="glossary"><dfn class="glossary"><a title="Mathematical physics" href="https://en.wikipedia.org/wiki/Mathematical_physics">mathematical physics</a></dfn></dt>
+<dd class="glossary">The application of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#mathematics"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; mathematics">mathematics</span></a>&nbsp;to problems in physics and the development of mathematical methods suitable for such applications and for the formulation of physical theories.</dd>
+<dt id="mathematics" class="glossary"><dfn class="glossary"><a title="Mathematics" href="https://en.wikipedia.org/wiki/Mathematics">mathematics</a></dfn></dt>
+<dd class="glossary">The abstract study of topics encompassing quantity, structure, space, change, and other properties.</dd>
+<dt id="matrix" class="glossary"><dfn class="glossary"><a title="Matrix (mathematics)" href="https://en.wikipedia.org/wiki/Matrix_(mathematics)">matrix</a></dfn></dt>
+<dd class="glossary">A rectangular array of numbers, symbols, or expressions arranged in rows and columns. The individual items in a matrix are called its&nbsp;<em>elements</em>&nbsp;or&nbsp;<em>entries</em>.</dd>
+<dt id="matter" class="glossary"><dfn class="glossary"><a title="Matter" href="https://en.wikipedia.org/wiki/Matter">matter</a></dfn></dt>
+<dd class="glossary">Any substance (often a particle) that has rest mass and (usually) also volume.</dd>
+<dt id="maxwell's_equations" class="glossary"><dfn class="glossary"><a title="Maxwell's equations" href="https://en.wikipedia.org/wiki/Maxwell%27s_equations">Maxwell's equations</a></dfn></dt>
+<dd class="glossary">A set of partial differential equations that, together with the Lorentz force law, form the foundation of classical electrodynamics, classical optics, and electric circuits. Maxwell's equations describe how electric and magnetic fields are generated and altered by each other and by charges and currents.</dd>
+<dt id="measure_of_central_tendency" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Measure of central tendency" href="https://en.wikipedia.org/wiki/Measure_of_central_tendency">measure of central tendency</a></dfn></dt>
+<dd class="glossary">A term which relates to the way in which quantitative data tend to cluster around some value. A measure of central tendency is any of a number of ways of specifying this "central value".</dd>
+<dt id="mechanical_energy" class="glossary"><dfn class="glossary"><a title="Mechanical energy" href="https://en.wikipedia.org/wiki/Mechanical_energy">mechanical energy</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="mechanical_filter" class="glossary"><dfn class="glossary"><a title="Mechanical filter" href="https://en.wikipedia.org/wiki/Mechanical_filter">mechanical filter</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="mechanical_equilibrium" class="glossary"><dfn class="glossary"><a title="Mechanical equilibrium" href="https://en.wikipedia.org/wiki/Mechanical_equilibrium">mechanical equilibrium</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="mechanical_wave" class="glossary"><dfn class="glossary"><a title="Mechanical wave" href="https://en.wikipedia.org/wiki/Mechanical_wave">mechanical wave</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="mechanics" class="glossary"><dfn class="glossary"><a title="Mechanics" href="https://en.wikipedia.org/wiki/Mechanics">mechanics</a></dfn></dt>
+<dd class="glossary">The branch of science concerned with the behaviour of physical bodies when subjected to forces or displacements and the subsequent effects of the bodies on their environment.</dd>
+<dt id="melting" class="glossary"><dfn class="glossary"><a title="Melting" href="https://en.wikipedia.org/wiki/Melting">melting</a></dfn></dt>
+</dl>
+<p class="glossary-hatnote"><span class="hatnote navigation-not-searchable selfref">Also called&nbsp;<strong>fusion</strong>.</span></p>
+<dl class="glossary">
+<dd class="glossary">A physical process that results in the phase transition of a substance from a solid to a liquid.</dd>
+<dt id="meson" class="glossary"><dfn class="glossary"><a title="Meson" href="https://en.wikipedia.org/wiki/Meson">meson</a></dfn></dt>
+<dd class="glossary">A type of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#hadron"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; hadron">hadronic</span></a>&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#subatomic_particle"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; subatomic particle">subatomic particle</span></a>&nbsp;composed of one&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#quark"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; quark">quark</span></a>&nbsp;and one&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#antiquark"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; antiquark">antiquark</span></a>&nbsp;bound together by the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#strong_interaction"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; strong interaction">strong interaction</span></a>. All mesons are unstable, with the longest-lived lasting for only a few hundredths of a microsecond.</dd>
+<dt id="modulus_of_elasticity" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Modulus of elasticity" href="https://en.wikipedia.org/wiki/Modulus_of_elasticity">modulus of elasticity</a></dfn></dt>
+<dd class="glossary">The mathematical description of an object's or substance's tendency to be&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#deformation"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; deformation">deformed</span></a>&nbsp;elastically (i.e., non-permanently) when a force is applied to it. The elastic modulus of an object is defined as the slope of its&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#stress%E2%80%93strain_curve"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; stress&ndash;strain curve">stress&ndash;strain curve</span></a>&nbsp;in the elastic deformation region. As such, a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#stiffness"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; stiffness">stiffer</span></a>&nbsp;material will have a higher elastic modulus.</dd>
+<dt id="molar_concentration" class="glossary"><dfn class="glossary"><a title="Molar concentration" href="https://en.wikipedia.org/wiki/Molar_concentration">molar concentration</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="molar_mass" class="glossary"><dfn class="glossary"><a title="Molar mass" href="https://en.wikipedia.org/wiki/Molar_mass">molar mass</a></dfn></dt>
+<dd class="glossary">A physical property of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#matter"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; matter">matter</span></a>&nbsp;defined as the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#mass"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; mass">mass</span></a>&nbsp;of a given substance divided by the amount of substance and expressed in grams per mole.</dd>
+<dt id="molecule" class="glossary"><dfn class="glossary"><a title="Molecule" href="https://en.wikipedia.org/wiki/Molecule">molecule</a></dfn></dt>
+<dd class="glossary">An electrically neutral group of two or more&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#atom"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; atom">atoms</span></a>&nbsp;held together by covalent chemical bonds. Molecules are distinguished from&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#ion"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; ion">ions</span></a>&nbsp;by their lack of electrical charge.</dd>
+<dt id="molecular_physics" class="glossary"><dfn class="glossary"><a title="Molecular physics" href="https://en.wikipedia.org/wiki/Molecular_physics">molecular physics</a></dfn></dt>
+<dd class="glossary">A branch of physics that studies the physical properties of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#molecule"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; molecule">molecules</span></a>&nbsp;and the chemical bonds between&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#atom"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; atom">atoms</span></a>&nbsp;as well as their molecular dynamics. It is closely related to atomic physics and overlaps greatly with theoretical chemistry,&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#physical_chemistry"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; physical chemistry">physical chemistry</span></a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#chemical_physics"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; chemical physics">chemical physics</span></a>.</dd>
+<dt id="moment" class="glossary"><dfn class="glossary"><a title="Moment (physics)" href="https://en.wikipedia.org/wiki/Moment_(physics)">moment</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="moment_of_inertia" class="glossary"><dfn class="glossary"><a title="Moment of inertia" href="https://en.wikipedia.org/wiki/Moment_of_inertia">moment of inertia</a></dfn></dt>
+<dd class="glossary">A property of a distribution of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#mass"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; mass">mass</span></a>&nbsp;in space that measures its resistance to rotational acceleration about an axis.</dd>
+<dt id="monochromatic_light" class="glossary"><dfn class="glossary"><a title="Spectral color" href="https://en.wikipedia.org/wiki/Spectral_color">monochromatic light</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="motion" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Motion (physics)" href="https://en.wikipedia.org/wiki/Motion_(physics)">motion</a></dfn></dt>
+<dd class="glossary">Any change in the position of an object over&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#time"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; time">time</span></a>. Motion can be mathematically described in terms of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#displacement_(vector)"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; displacement (vector)">displacement</span></a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#distance"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; distance">distance</span></a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#velocity"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; velocity">velocity</span></a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#speed"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; speed">speed</span></a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#acceleration"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; acceleration">acceleration</span></a>, and&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#momentum"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; momentum">momentum</span></a>, and is observed by attaching a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#frame_of_reference"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; frame of reference">frame of reference</span></a>&nbsp;to an observer and measuring the change in an object's position relative to that frame. An object's motion cannot change unless it is acted upon by a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#force"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; force">force</span></a>.</dd>
+<dt id="muon" class="glossary"><dfn class="glossary"><a title="Muon" href="https://en.wikipedia.org/wiki/Muon">muon</a></dfn></dt>
+<dd class="glossary">An elementary particle, technically classified as a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#lepton"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; lepton">lepton</span></a>, that is similar to the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electron"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electron">electron</span></a>, with unitary negative electric charge (&minus;1) and a spin of 1&frasl;2. Muons are not believed to have any sub-structure.</dd>
+</dl>
+<h2><span id="N" class="mw-headline">N</span></h2>
+<dl class="glossary">
+<dt id="nanoengineering" class="glossary"><dfn class="glossary"><a title="Nanoengineering" href="https://en.wikipedia.org/wiki/Nanoengineering">nanoengineering</a></dfn></dt>
+<dd class="glossary">The practice of engineering on the nanoscale. Nanoengineering is largely a synonym for&nbsp;<a title="Nanotechnology" href="https://en.wikipedia.org/wiki/Nanotechnology">nanotechnology</a>, but emphasizes the applied rather than the pure science aspects of the field.</dd>
+<dt id="nanotechnology" class="glossary"><dfn class="glossary"><a title="Nanotechnology" href="https://en.wikipedia.org/wiki/Nanotechnology">nanotechnology</a></dfn></dt>
+</dl>
+<p class="glossary-hatnote"><span class="hatnote navigation-not-searchable selfref">Also abbreviated as&nbsp;<strong>nanotech</strong>.</span></p>
+<dl class="glossary">
+<dd class="glossary">The manipulation of matter on an&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#atom"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; atom">atomic</span></a>&nbsp;and&nbsp;<a title="Molecule" href="https://en.wikipedia.org/wiki/Molecule">molecular</a>&nbsp;scale. A more generalized description of nanotechnology is "the manipulation of matter with at least one dimension sized from 1 to 100 nanometers".</dd>
+<dt id="navier&ndash;stokes_equations" class="glossary"><dfn class="glossary"><a title="Navier&ndash;Stokes equations" href="https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations">Navier&ndash;Stokes equations</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="neurophysics" class="glossary"><dfn class="glossary"><a title="Neurophysics" href="https://en.wikipedia.org/wiki/Neurophysics">neurophysics</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="neutrino" class="glossary"><dfn class="glossary"><a title="Neutrino" href="https://en.wikipedia.org/wiki/Neutrino">neutrino</a></dfn></dt>
+<dd class="glossary">A type of electrically neutral&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#subatomic_particle"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; subatomic particle">subatomic particle</span></a>&nbsp;denoted by the Greek letter &nu; (nu). All evidence suggests that neutrinos have mass but that their mass is tiny even by the standards of subatomic particles. Their mass has never been measured accurately.</dd>
+<dt id="neutron" class="glossary"><dfn class="glossary"><a title="Neutron" href="https://en.wikipedia.org/wiki/Neutron">neutron</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="neutron_cross-section" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Neutron cross-section" href="https://en.wikipedia.org/wiki/Neutron_cross-section">neutron cross-section</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="newton_(n)" class="glossary"><dfn class="glossary"><a title="Newton (unit)" href="https://en.wikipedia.org/wiki/Newton_(unit)">newton</a>&nbsp;(N)</dfn></dt>
+<dd class="glossary"></dd>
+<dt id="newton's_laws_of_motion" class="glossary"><dfn class="glossary"><a title="Newton's laws of motion" href="https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion">Newton's laws of motion</a></dfn></dt>
+<dd class="glossary">A set of three physical laws which describe the relationship between the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#force"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; force">forces</span></a>&nbsp;acting on a body and its motion due to those forces. Together they form the basis for&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#classical_mechanics"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; classical mechanics">classical or Newtonian mechanics</span></a>.</dd>
+<dt id="newton's_law_of_universal_gravitation" class="glossary"><dfn class="glossary"><a title="Newton's law of universal gravitation" href="https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation">Newton's law of universal gravitation</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="newtonian_fluid" class="glossary"><dfn class="glossary"><a title="Newtonian fluid" href="https://en.wikipedia.org/wiki/Newtonian_fluid">Newtonian fluid</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="newtonian_mechanics" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Newtonian mechanics" href="https://en.wikipedia.org/wiki/Newtonian_mechanics">Newtonian mechanics</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="normal_force" class="glossary"><dfn class="glossary"><a title="Normal force" href="https://en.wikipedia.org/wiki/Normal_force">normal force</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="''n''th_root" class="glossary"><dfn class="glossary"><a title="Nth root" href="https://en.wikipedia.org/wiki/Nth_root"><em>n</em>th root</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="nuclear_force" class="glossary"><dfn class="glossary"><a title="Nuclear force" href="https://en.wikipedia.org/wiki/Nuclear_force">nuclear force</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="nuclear_physics" class="glossary"><dfn class="glossary"><a title="Nuclear physics" href="https://en.wikipedia.org/wiki/Nuclear_physics">nuclear physics</a></dfn></dt>
+<dd class="glossary">The branch of physics that studies the constituents and interactions of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#nucleus"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; nucleus">atomic nuclei</span></a>.</dd>
+<dt id="nuclear_reaction" class="glossary"><dfn class="glossary"><a title="Nuclear reaction" href="https://en.wikipedia.org/wiki/Nuclear_reaction">nuclear reaction</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="nuclear_transmutation" class="glossary"><dfn class="glossary"><a title="Nuclear transmutation" href="https://en.wikipedia.org/wiki/Nuclear_transmutation">nuclear transmutation</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="nucleon" class="glossary"><dfn class="glossary"><a title="Nucleon" href="https://en.wikipedia.org/wiki/Nucleon">nucleon</a></dfn></dt>
+<dd class="glossary">Either a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#proton"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; proton">proton</span></a>&nbsp;or a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#neutron"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; neutron">neutron</span></a>&nbsp;in its role as a component of an&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#nucleus"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; nucleus">atomic nucleus</span></a>.</dd>
+<dt id="nucleus" class="glossary"><dfn class="glossary"><a title="Atomic nucleus" href="https://en.wikipedia.org/wiki/Atomic_nucleus">nucleus</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="nuclide" class="glossary"><dfn class="glossary"><a title="Nuclide" href="https://en.wikipedia.org/wiki/Nuclide">nuclide</a></dfn></dt>
+</dl>
+<p class="glossary-hatnote"><span class="hatnote navigation-not-searchable selfref">Also spelled&nbsp;<strong>nucleide</strong>.</span></p>
+<dl class="glossary">
+<dd class="glossary">An&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#atomic"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; atomic">atomic</span></a>&nbsp;species characterized by the specific composition of its&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#nucleus"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; nucleus">nucleus</span></a>, i.e. by its number of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#proton"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; proton">protons</span></a>, its number of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#neutron"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; neutron">neutrons</span></a>, and its nuclear&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#energy_level"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; energy level">energy state</span></a>.</dd>
+</dl>
+<h2><span id="O" class="mw-headline">O</span></h2>
+<dl class="glossary">
+<dt id="ohm" class="glossary"><dfn class="glossary"><a title="Ohm" href="https://en.wikipedia.org/wiki/Ohm">Ohm</a></dfn></dt>
+<dd class="glossary">The SI derived unit of electrical resistance.</dd>
+<dt id="ohm's_law" class="glossary"><dfn class="glossary"><a title="Ohm's law" href="https://en.wikipedia.org/wiki/Ohm%27s_law">Ohm's law</a></dfn></dt>
+<dd class="glossary">States that the current through a conductor between two points is directly proportional to the potential difference across the two points.</dd>
+<dt id="optical_tweezers" class="glossary"><dfn class="glossary"><a title="Optical tweezers" href="https://en.wikipedia.org/wiki/Optical_tweezers">optical tweezers</a></dfn></dt>
+<dd class="glossary">An&nbsp;<a class="mw-redirect" title="Optomechanical" href="https://en.wikipedia.org/wiki/Optomechanical">optomechanical</a>&nbsp;device used for the capture, analysis and manipulation of dielectric objects or particles, which operates via the application of force by the electric field of light.</dd>
+<dt id="optically_detected_magnetic_resonance" class="glossary"><dfn class="glossary"><a title="Optically detected magnetic resonance" href="https://en.wikipedia.org/wiki/Optically_detected_magnetic_resonance">optically detected magnetic resonance</a></dfn></dt>
+<dd class="glossary">An optical technique for the initialisation and readout of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#quantum_spin"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; quantum spin">quantum spin</span></a>&nbsp;in some crystal defects.</dd>
+<dt id="optics" class="glossary"><dfn class="glossary"><a title="Optics" href="https://en.wikipedia.org/wiki/Optics">optics</a></dfn></dt>
+<dd class="glossary">The branch of physics which involves the behaviour and properties of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#light"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; light">light</span></a>, including its interactions with matter and the construction of instruments that use or detect it. Optics usually describes the behaviour of visible, ultraviolet, and infrared light; however, because light is one of several forms of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electromagnetic_radiation"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electromagnetic radiation">electromagnetic radiation</span></a>, other forms such as&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#x-ray"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; X-ray">X-rays</span></a>, microwaves, and radio waves exhibit similar properties.</dd>
+</dl>
+<h2><span id="P" class="mw-headline">P</span></h2>
+<dl class="glossary">
+<dt id="paraffin" class="glossary"><dfn class="glossary"><a title="Paraffin wax" href="https://en.wikipedia.org/wiki/Paraffin_wax">paraffin</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="parallel_circuit" class="glossary"><dfn class="glossary"><a title="Series and parallel circuits" href="https://en.wikipedia.org/wiki/Series_and_parallel_circuits">parallel circuit</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="parity" class="glossary"><dfn class="glossary"><a title="Parity (physics)" href="https://en.wikipedia.org/wiki/Parity_(physics)">parity</a></dfn></dt>
+<dd class="glossary">1.&nbsp;&nbsp;(mathematics)</dd>
+<dd class="glossary">2.&nbsp;&nbsp;(physics)</dd>
+<dt id="particle" class="glossary"><dfn class="glossary"><a title="Particle" href="https://en.wikipedia.org/wiki/Particle">particle</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="particle_accelerator" class="glossary"><dfn class="glossary"><a title="Particle accelerator" href="https://en.wikipedia.org/wiki/Particle_accelerator">particle accelerator</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="particle_displacement" class="glossary"><dfn class="glossary"><a title="Particle displacement" href="https://en.wikipedia.org/wiki/Particle_displacement">particle displacement</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="particle_physics" class="glossary"><dfn class="glossary"><a title="Particle physics" href="https://en.wikipedia.org/wiki/Particle_physics">particle physics</a></dfn></dt>
+<dd class="glossary">A branch of physics that studies the nature of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#particle"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; particle">particles</span></a>, which are the constituents of what is usually referred to as&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#matter"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; matter">matter</span></a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#radiation"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; radiation">radiation</span></a>.</dd>
+<dt id="pascal's_law" class="glossary"><dfn class="glossary"><a title="Pascal's law" href="https://en.wikipedia.org/wiki/Pascal%27s_law">Pascal's law</a></dfn></dt>
+<dd class="glossary">A principle in&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#fluid_mechanics"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; fluid mechanics">fluid mechanics</span></a>&nbsp;which states that&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#pressure"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; pressure">pressure</span></a>&nbsp;exerted anywhere in a confined incompressible fluid is transmitted equally in all directions throughout the fluid such that the initial pressure variations remain the same.</dd>
+<dt id="pauli_exclusion_principle" class="glossary"><dfn class="glossary"><a title="Pauli exclusion principle" href="https://en.wikipedia.org/wiki/Pauli_exclusion_principle">Pauli exclusion principle</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="pendulum" class="glossary"><dfn class="glossary"><a title="Pendulum" href="https://en.wikipedia.org/wiki/Pendulum">pendulum</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="periodic_table_of_the_elements" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Periodic table of the elements" href="https://en.wikipedia.org/wiki/Periodic_table_of_the_elements">periodic table of the elements</a></dfn></dt>
+</dl>
+<p class="glossary-hatnote"><span class="hatnote navigation-not-searchable selfref">Also simply called the&nbsp;<strong>periodic table</strong>.</span></p>
+<dl class="glossary">
+<dd class="glossary">A tabular display of the&nbsp;<a title="Chemical element" href="https://en.wikipedia.org/wiki/Chemical_element">chemical elements</a>&nbsp;organised on the basis of their&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#atomic_number"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; atomic number">atomic numbers</span></a>, electron configurations, and recurring chemical properties. Elements are presented in order of increasing atomic number (number of protons).</dd>
+<dt id="phase_(matter)" class="glossary"><dfn class="glossary"><a title="Phase (matter)" href="https://en.wikipedia.org/wiki/Phase_(matter)">phase (matter)</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="phase_(waves)" class="glossary"><dfn class="glossary"><a title="Phase (waves)" href="https://en.wikipedia.org/wiki/Phase_(waves)">phase (waves)</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="phase_equilibrium" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Phase equilibrium" href="https://en.wikipedia.org/wiki/Phase_equilibrium">phase equilibrium</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="phenomenology" class="glossary"><dfn class="glossary"><a title="Phenomenology (physics)" href="https://en.wikipedia.org/wiki/Phenomenology_(physics)">phenomenology</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="phosphorescence" class="glossary"><dfn class="glossary"><a title="Phosphorescence" href="https://en.wikipedia.org/wiki/Phosphorescence">phosphorescence</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="photoelectric_effect" class="glossary"><dfn class="glossary"><a title="Photoelectric effect" href="https://en.wikipedia.org/wiki/Photoelectric_effect">photoelectric effect</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="photon" class="glossary"><dfn class="glossary"><a title="Photon" href="https://en.wikipedia.org/wiki/Photon">photon</a></dfn></dt>
+<dd class="glossary">An elementary particle, the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#quantum"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; quantum">quantum</span></a>&nbsp;of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#light"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; light">light</span></a>&nbsp;and all other forms of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electromagnetic_radiation"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electromagnetic radiation">electromagnetic radiation</span></a>, and the force carrier for the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electromagnetism"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electromagnetism">electromagnetic force</span></a>.</dd>
+<dt id="photonics" class="glossary"><dfn class="glossary"><a title="Photonics" href="https://en.wikipedia.org/wiki/Photonics">photonics</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="physical_chemistry" class="glossary"><dfn class="glossary"><a title="Physical chemistry" href="https://en.wikipedia.org/wiki/Physical_chemistry">physical chemistry</a></dfn></dt>
+<dd class="glossary">The study of macroscopic, atomic, subatomic, and particulate phenomena in chemical systems in terms of laws and concepts of physics.</dd>
+<dt id="physical_constant" class="glossary"><dfn class="glossary"><a title="Physical constant" href="https://en.wikipedia.org/wiki/Physical_constant">physical constant</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="physical_quantity" class="glossary"><dfn class="glossary"><a title="Physical quantity" href="https://en.wikipedia.org/wiki/Physical_quantity">physical quantity</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="physics" class="glossary"><dfn class="glossary"><a title="Physics" href="https://en.wikipedia.org/wiki/Physics">physics</a></dfn></dt>
+<dd class="glossary">The natural science that involves the study of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#matter"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; matter">matter</span></a>&nbsp;and its motion through&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#space"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; space">space</span></a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#time"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; time">time</span></a>, along with related concepts such as&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#energy"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; energy">energy</span></a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#force"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; force">force</span></a>. More broadly, it is the general analysis of&nbsp;<a title="Nature" href="https://en.wikipedia.org/wiki/Nature">nature</a>, conducted in order to understand how the&nbsp;<a title="Universe" href="https://en.wikipedia.org/wiki/Universe">universe</a>&nbsp;behaves.</dd>
+<dt id="piezoelectricity" class="glossary"><dfn class="glossary"><a title="Piezoelectricity" href="https://en.wikipedia.org/wiki/Piezoelectricity">piezoelectricity</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="pion" class="glossary"><dfn class="glossary"><a title="Pion" href="https://en.wikipedia.org/wiki/Pion">pion</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="planck_constant_(h)" class="glossary"><dfn class="glossary"><a title="Planck constant" href="https://en.wikipedia.org/wiki/Planck_constant">Planck constant</a>&nbsp;(h)</dfn></dt>
+</dl>
+<p class="glossary-hatnote"><span class="hatnote navigation-not-searchable selfref">Also called&nbsp;<strong>Planck's constant</strong>.</span></p>
+<dl class="glossary">
+<dd class="glossary">A physical constant that is the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#quantum"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; quantum">quantum</span></a>&nbsp;of action in&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#quantum_mechanics"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; quantum mechanics">quantum mechanics</span></a>.</dd>
+<dt id="planck_units" class="glossary"><dfn class="glossary"><a title="Planck units" href="https://en.wikipedia.org/wiki/Planck_units">Planck units</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="planck's_law" class="glossary"><dfn class="glossary"><a title="Planck's law" href="https://en.wikipedia.org/wiki/Planck%27s_law">Planck's law</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="plasma" class="glossary"><dfn class="glossary"><a title="Plasma (physics)" href="https://en.wikipedia.org/wiki/Plasma_(physics)">plasma</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="plasma_physics" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Plasma physics" href="https://en.wikipedia.org/wiki/Plasma_physics">plasma physics</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="plasticity" class="glossary"><dfn class="glossary"><a title="Plasticity (physics)" href="https://en.wikipedia.org/wiki/Plasticity_(physics)">plasticity</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="pneumatics" class="glossary"><dfn class="glossary"><a title="Pneumatics" href="https://en.wikipedia.org/wiki/Pneumatics">pneumatics</a></dfn></dt>
+<dd class="glossary">The study and control of mechanical force and movement generated by the application of compressed gas.</dd>
+<dt id="positron" class="glossary"><dfn class="glossary"><a title="Positron" href="https://en.wikipedia.org/wiki/Positron">positron</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="potential_energy" class="glossary"><dfn class="glossary"><a title="Potential energy" href="https://en.wikipedia.org/wiki/Potential_energy">potential energy</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="power" class="glossary"><dfn class="glossary"><a title="Power (physics)" href="https://en.wikipedia.org/wiki/Power_(physics)">power</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="pressure" class="glossary"><dfn class="glossary"><a title="Pressure" href="https://en.wikipedia.org/wiki/Pressure">pressure</a></dfn></dt>
+<dd class="glossary">The ratio of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#force"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; force">force</span></a>&nbsp;to the area over which that force is distributed.</dd>
+<dt id="probability" class="glossary"><dfn class="glossary"><a title="Probability" href="https://en.wikipedia.org/wiki/Probability">probability</a></dfn></dt>
+<dd class="glossary">A measure of the expectation that an event will occur or that a statement is true. Probabilities are given a value between 0 (will not occur) and 1 (will occur). The higher the probability of an event, the more certain one can be that the event will occur.</dd>
+<dt id="probability_distribution" class="glossary"><dfn class="glossary"><a title="Probability distribution" href="https://en.wikipedia.org/wiki/Probability_distribution">probability distribution</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="probability_theory" class="glossary"><dfn class="glossary"><a title="Probability theory" href="https://en.wikipedia.org/wiki/Probability_theory">probability theory</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="proton" class="glossary"><dfn class="glossary"><a title="Proton" href="https://en.wikipedia.org/wiki/Proton">proton</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="psi_particle" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Psi particle" href="https://en.wikipedia.org/wiki/Psi_particle">psi particle</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="pulley" class="glossary"><dfn class="glossary"><a title="Pulley" href="https://en.wikipedia.org/wiki/Pulley">pulley</a></dfn></dt>
+<dd class="glossary">A wheel on an axle that is designed to support movement of a cable or belt along its circumference; one of six classical&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#simple_machine"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; simple machine">simple machines</span></a>. Pulleys are used in a variety of ways to lift loads, apply&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#force"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; force">forces</span></a>, and transmit&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#power"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; power">power</span></a>.</dd>
+<dt id="pulse" class="glossary"><dfn class="glossary"><a title="Pulse (physics)" href="https://en.wikipedia.org/wiki/Pulse_(physics)">pulse</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="pulse_wave" class="glossary"><dfn class="glossary"><a title="Pulse wave" href="https://en.wikipedia.org/wiki/Pulse_wave">pulse wave</a></dfn></dt>
+</dl>
+<h2><span id="Q" class="mw-headline">Q</span></h2>
+<dl class="glossary">
+<dt id="quantization" class="glossary"><dfn class="glossary"><a title="Quantization (physics)" href="https://en.wikipedia.org/wiki/Quantization_(physics)">quantization</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="quantum" class="glossary"><dfn class="glossary"><a title="Quantum" href="https://en.wikipedia.org/wiki/Quantum">quantum</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="quantum_chromodynamics" class="glossary"><dfn class="glossary"><a title="Quantum chromodynamics" href="https://en.wikipedia.org/wiki/Quantum_chromodynamics">quantum chromodynamics</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="quantum_electrodynamics" class="glossary"><dfn class="glossary"><a title="Quantum electrodynamics" href="https://en.wikipedia.org/wiki/Quantum_electrodynamics">quantum electrodynamics</a></dfn></dt>
+<dd class="glossary">The relativistic&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#quantum_field_theory"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; quantum field theory">quantum field theory</span></a>&nbsp;of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electrodynamics"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electrodynamics">electrodynamics</span></a>. In essence, it describes how light and matter interact and is the first theory where full agreement between&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#quantum_mechanics"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; quantum mechanics">quantum mechanics</span></a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#special_relativity"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; special relativity">special relativity</span></a>&nbsp;is achieved. QED mathematically describes all phenomena involving electrically charged particles interacting by means of exchange of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#photon"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; photon">photons</span></a>&nbsp;and represents the quantum counterpart of&nbsp;<a title="Classical electromagnetism" href="https://en.wikipedia.org/wiki/Classical_electromagnetism">classical electromagnetism</a>, giving a complete account of matter and light interaction.</dd>
+<dt id="quantum_field_theory" class="glossary"><dfn class="glossary"><a title="Quantum field theory" href="https://en.wikipedia.org/wiki/Quantum_field_theory">quantum field theory</a></dfn></dt>
+<dd class="glossary">A theoretical framework for constructing quantum mechanical models of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#subatomic_particle"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; subatomic particle">subatomic particles</span></a>&nbsp;in&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#particle_physics"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; particle physics">particle physics</span></a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#quasiparticle"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; quasiparticle">quasiparticles</span></a>&nbsp;in&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#condensed_matter_physics"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; condensed matter physics">condensed matter physics</span></a>.</dd>
+<dt id="quantum_gravity" class="glossary"><dfn class="glossary"><a title="Quantum gravity" href="https://en.wikipedia.org/wiki/Quantum_gravity">quantum gravity</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="quantum_mechanics" class="glossary"><dfn class="glossary"><a title="Quantum mechanics" href="https://en.wikipedia.org/wiki/Quantum_mechanics">quantum mechanics</a></dfn></dt>
+<dd class="glossary">A branch of physics dealing with physical phenomena at microscopic scales, where the action is on the order of the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#planck_constant"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; Planck constant">Planck constant</span></a>. Quantum mechanics departs from classical mechanics primarily at the&nbsp;<a title="Quantum realm" href="https://en.wikipedia.org/wiki/Quantum_realm">quantum realm</a>&nbsp;of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#atom"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; atom">atomic</span></a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#subatomic_particle"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; subatomic particle">subatomic</span></a>&nbsp;length scales. Quantum mechanics provides a mathematical description of much of the dual particle-like and wave-like behavior and interactions of energy and matter.</dd>
+<dt id="quantum_number" class="glossary"><dfn class="glossary"><a title="Quantum number" href="https://en.wikipedia.org/wiki/Quantum_number">quantum number</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="quantum_physics" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Quantum physics" href="https://en.wikipedia.org/wiki/Quantum_physics">quantum physics</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="quantum_state" class="glossary"><dfn class="glossary"><a title="Quantum state" href="https://en.wikipedia.org/wiki/Quantum_state">quantum state</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="quark" class="glossary"><dfn class="glossary"><a title="Quark" href="https://en.wikipedia.org/wiki/Quark">quark</a></dfn></dt>
+<dd class="glossary">An elementary particle and a fundamental constituent of matter. Quarks combine to form composite particles called&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#hadron"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; hadron">hadrons</span></a>, the most stable of which are&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#proton"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; proton">protons</span></a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#neutron"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; neutron">neutrons</span></a>, the components of atomic nuclei.</dd>
+<dt id="quasiparticle" class="glossary"><dfn class="glossary"><a title="Quasiparticle" href="https://en.wikipedia.org/wiki/Quasiparticle">quasiparticle</a></dfn></dt>
+<dd class="glossary"></dd>
+</dl>
+<h2><span id="R" class="mw-headline">R</span></h2>
+<dl class="glossary">
+<dt id="radiant_energy" class="glossary"><dfn class="glossary"><a title="Radiant energy" href="https://en.wikipedia.org/wiki/Radiant_energy">radiant energy</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="radiation" class="glossary"><dfn class="glossary"><a title="Radiation" href="https://en.wikipedia.org/wiki/Radiation">radiation</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="radioactive_decay" class="glossary"><dfn class="glossary"><a title="Radioactive decay" href="https://en.wikipedia.org/wiki/Radioactive_decay">radioactive decay</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="radionuclide" class="glossary"><dfn class="glossary"><a title="Radionuclide" href="https://en.wikipedia.org/wiki/Radionuclide">radionuclide</a></dfn></dt>
+</dl>
+<p class="glossary-hatnote"><span class="hatnote navigation-not-searchable selfref">Also called a&nbsp;<strong>radioactive nuclide</strong>,&nbsp;<strong>radioisotope</strong>, or&nbsp;<strong>radioactive isotope</strong>.</span></p>
+<dl class="glossary">
+<dd class="glossary">Any&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#nuclide"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; nuclide">nuclide</span></a>&nbsp;possessing excess nuclear energy to the point that it is unstable. Such excess energy is emitted through any of several processes of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#radioactive_decay"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; radioactive decay">radioactive decay</span></a>, resulting in a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#stable_nuclide"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; stable nuclide">stable nuclide</span></a>&nbsp;or sometimes another unstable radionuclide which can then undergo further decay. Certain radionuclides can occur naturally; many others can be produced artificially in&nbsp;<a title="Nuclear reactor" href="https://en.wikipedia.org/wiki/Nuclear_reactor">nuclear reactors</a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#cyclotron"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; cyclotron">cyclotrons</span></a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#particle_accelerator"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; particle accelerator">particle accelerators</span></a>, or radionuclide generators.</dd>
+<dt id="radius_of_curvature" class="glossary"><dfn class="glossary"><a title="Radius of curvature (optics)" href="https://en.wikipedia.org/wiki/Radius_of_curvature_(optics)">radius of curvature</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="redshift" class="glossary"><dfn class="glossary"><a title="Redshift" href="https://en.wikipedia.org/wiki/Redshift">redshift</a></dfn></dt>
+<dd class="glossary">A phenomenon which occurs when&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#light"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; light">light</span></a>&nbsp;seen coming from an object that is moving away is proportionally increased in&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#wavelength"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; wavelength">wavelength</span></a>&nbsp;or "shifted" to the red end of the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#visible_light"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; visible light">visible light</span></a>&nbsp;spectrum.</dd>
+<dt id="refraction" class="glossary"><dfn class="glossary"><a title="Refraction" href="https://en.wikipedia.org/wiki/Refraction">refraction</a></dfn></dt>
+<dd class="glossary">The change in direction of a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#wave"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; wave">wave</span></a>&nbsp;as it passes from one&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#transmission_medium"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; transmission medium">transmission medium</span></a>&nbsp;to another or as a result of a gradual change in the medium. Though most commonly used in the context of refraction of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#light"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; light">light</span></a>, other waves such as&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#sound"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; sound">sound</span></a>&nbsp;waves and&nbsp;<a title="Wind wave" href="https://en.wikipedia.org/wiki/Wind_wave">fluid waves</a>&nbsp;also experience refraction.</dd>
+<dt id="refractive_index" class="glossary"><dfn class="glossary"><a title="Refractive index" href="https://en.wikipedia.org/wiki/Refractive_index">refractive index</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="relative_atomic_mass" class="glossary"><dfn class="glossary"><a title="Relative atomic mass" href="https://en.wikipedia.org/wiki/Relative_atomic_mass">relative atomic mass</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="relativistic_mechanics" class="glossary"><dfn class="glossary"><a title="Relativistic mechanics" href="https://en.wikipedia.org/wiki/Relativistic_mechanics">relativistic mechanics</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="rigid_body" class="glossary"><dfn class="glossary"><a title="Rigid body" href="https://en.wikipedia.org/wiki/Rigid_body">rigid body</a></dfn></dt>
+<dd class="glossary">An idealization of a solid body in which&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#deformation"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; deformation">deformation</span></a>&nbsp;is neglected. In other words, the distance between any two given points of a rigid body remains constant in time regardless of the external forces exerted on it. Even though such an object cannot physically exist due to relativity, objects can normally be assumed to be perfectly rigid if they are not moving near the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#speed_of_light"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; speed of light">speed of light</span></a>.</dd>
+<dt id="rotational_energy" class="glossary"><dfn class="glossary"><a title="Rotational energy" href="https://en.wikipedia.org/wiki/Rotational_energy">rotational energy</a></dfn></dt>
+</dl>
+<p class="glossary-hatnote"><span class="hatnote navigation-not-searchable selfref">Also called&nbsp;<strong>angular kinetic energy</strong>.</span></p>
+<dl class="glossary">
+<dd class="glossary">The&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#kinetic_energy"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; kinetic energy">kinetic energy</span></a>&nbsp;due to the rotation of an object and forms part of its total kinetic energy.</dd>
+<dt id="rotational_speed" class="glossary"><dfn class="glossary"><a title="Rotational speed" href="https://en.wikipedia.org/wiki/Rotational_speed">rotational speed</a></dfn></dt>
+</dl>
+<p class="glossary-hatnote"><span class="hatnote navigation-not-searchable selfref">Also called&nbsp;<strong>speed of revolution</strong>.</span></p>
+<dl class="glossary">
+<dd class="glossary">The number of complete rotations or revolutions a rotating body makes per unit time.</dd>
+<dt id="rydberg_formula" class="glossary"><dfn class="glossary"><a title="Rydberg formula" href="https://en.wikipedia.org/wiki/Rydberg_formula">Rydberg formula</a></dfn></dt>
+<dd class="glossary">A formula used in atomic physics to describe the wavelengths of spectral lines of many chemical elements.</dd>
+</dl>
+<h2><span id="S" class="mw-headline">S</span></h2>
+<dl class="glossary">
+<dt id="scalar" class="glossary"><dfn class="glossary"><a title="Scalar (physics)" href="https://en.wikipedia.org/wiki/Scalar_(physics)">scalar</a></dfn></dt>
+<dd class="glossary">Any simple physical quantity that can be described by a single number (as opposed to&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#vector"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; vector">vectors</span></a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#tensor"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; tensor">tensors</span></a>, etc., which are described by several numbers such as magnitude and direction) and is unchanged by coordinate system rotations or translations (in Newtonian mechanics) or by Lorentz transformations or central-time translations (in relativity).</dd>
+<dt id="scattering" class="glossary"><dfn class="glossary"><a title="Scattering" href="https://en.wikipedia.org/wiki/Scattering">scattering</a></dfn></dt>
+<dd class="glossary">The general physical process by which some forms of radiation, such as light, sound, or moving particles, are forced to deviate from a straight&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#trajectory"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; trajectory">trajectory</span></a>&nbsp;by one or more localised non-uniformities in the medium through which they pass.</dd>
+<dt id="science" class="glossary"><dfn class="glossary"><a title="Science" href="https://en.wikipedia.org/wiki/Science">science</a></dfn></dt>
+<dd class="glossary">A systematic enterprise that builds and organises knowledge in the form of testable explanations and predictions about the universe.</dd>
+<dt id="screw" class="glossary"><dfn class="glossary"><a title="Screw (simple machine)" href="https://en.wikipedia.org/wiki/Screw_(simple_machine)">screw</a></dfn></dt>
+<dd class="glossary">A mechanism that converts rotational motion to linear motion, and a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#torque"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; torque">torque</span></a>&nbsp;(rotational force) to a linear force; one of six classical&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#simple_machine"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; simple machine">simple machines</span></a>.</dd>
+<dt id="second_law_of_thermodynamics" class="glossary"><dfn class="glossary"><a title="Second law of thermodynamics" href="https://en.wikipedia.org/wiki/Second_law_of_thermodynamics">second law of thermodynamics</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="seebeck_effect" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Seebeck effect" href="https://en.wikipedia.org/wiki/Seebeck_effect">Seebeck effect</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="series_circuit" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Series and parallel circuit" href="https://en.wikipedia.org/wiki/Series_and_parallel_circuit">series circuit</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="shadow_matter" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Shadow matter" href="https://en.wikipedia.org/wiki/Shadow_matter">shadow matter</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="shear_modulus" class="glossary"><dfn class="glossary"><a title="Shear modulus" href="https://en.wikipedia.org/wiki/Shear_modulus">shear modulus</a></dfn></dt>
+</dl>
+<p class="glossary-hatnote"><span class="hatnote navigation-not-searchable selfref">Also called&nbsp;<strong>modulus of rigidity</strong>.</span></p>
+<dl class="glossary">
+<dd class="glossary"></dd>
+<dt id="shear_strength" class="glossary"><dfn class="glossary"><a title="Shear strength" href="https://en.wikipedia.org/wiki/Shear_strength">shear strength</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="shear_stress" class="glossary"><dfn class="glossary"><a title="Shear stress" href="https://en.wikipedia.org/wiki/Shear_stress">shear stress</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="shortwave_radiation" class="glossary"><dfn class="glossary"><a title="Shortwave radiation" href="https://en.wikipedia.org/wiki/Shortwave_radiation">shortwave radiation</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="schr&ouml;dinger_equation" class="glossary"><dfn class="glossary"><a title="Schr&ouml;dinger equation" href="https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation">Schr&ouml;dinger equation</a></dfn></dt>
+<dd class="glossary">A mathematical equation which describes the time evolution of wave functions in&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#quantum_mechanics"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; quantum mechanics">quantum mechanics</span></a>.</dd>
+<dt id="simple_harmonic_motion" class="glossary"><dfn class="glossary"><a title="Simple harmonic motion" href="https://en.wikipedia.org/wiki/Simple_harmonic_motion">simple harmonic motion</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="simple_machine" class="glossary"><dfn class="glossary"><a title="Simple machine" href="https://en.wikipedia.org/wiki/Simple_machine">simple machine</a></dfn></dt>
+<dd class="glossary">A mechanical device that changes the direction or magnitude of a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#force"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; force">force</span></a>. In general, a set of six classical simple machines identified by Renaissance scientists drawing from Greek texts on technology are collectively defined as the simplest mechanisms that can provide mechanical advantage (also called leverage).</dd>
+<dt id="siphon" class="glossary"><dfn class="glossary"><a title="Siphon" href="https://en.wikipedia.org/wiki/Siphon">siphon</a></dfn></dt>
+<dd class="glossary">A tube in an inverted U shape that causes a liquid to flow uphill without pumps, powered by the fall of the liquid as it flows down the tube under the pull of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#gravity"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; gravity">gravity</span></a>. The term may also more generally refer to a wide variety of devices involving the flow of liquids through tubes.</dd>
+<dt id="snell's_law" class="glossary"><dfn class="glossary"><a title="Snell's law" href="https://en.wikipedia.org/wiki/Snell%27s_law">Snell's law</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="solar_cell" class="glossary"><dfn class="glossary"><a title="Solar cell" href="https://en.wikipedia.org/wiki/Solar_cell">solar cell</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="solid" class="glossary"><dfn class="glossary"><a title="Solid" href="https://en.wikipedia.org/wiki/Solid">solid</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="solid_mechanics" class="glossary"><dfn class="glossary"><a title="Solid mechanics" href="https://en.wikipedia.org/wiki/Solid_mechanics">solid mechanics</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="solid-state_physics" class="glossary"><dfn class="glossary"><a title="Solid-state physics" href="https://en.wikipedia.org/wiki/Solid-state_physics">solid-state physics</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="solubility" class="glossary"><dfn class="glossary"><a title="Solubility" href="https://en.wikipedia.org/wiki/Solubility">solubility</a></dfn></dt>
+<dd class="glossary">The tendency of a solid, liquid, or gaseous chemical substance (called a&nbsp;<em>solute</em>) to dissolve in another solid, liquid, or gaseous substance (called a&nbsp;<em>solvent</em>) to form a homogeneous solution of the solute in the solvent. The solubility of a solute fundamentally depends on the specific solvent as well as on&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#temperature"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; temperature">temperature</span></a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#pressure"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; pressure">pressure</span></a>.</dd>
+<dt id="sound" class="glossary"><dfn class="glossary"><a title="Sound" href="https://en.wikipedia.org/wiki/Sound">sound</a></dfn></dt>
+<dd class="glossary">A mechanical&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#wave"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; wave">wave</span></a>&nbsp;that is an oscillation of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#pressure"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; pressure">pressure</span></a>&nbsp;transmitted through a solid, liquid, or gas and composed of frequencies within the range of human hearing.</dd>
+<dt id="special_relativity" class="glossary"><dfn class="glossary"><a title="Special relativity" href="https://en.wikipedia.org/wiki/Special_relativity">special relativity</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="specific_activity" class="glossary"><dfn class="glossary"><a title="Specific activity" href="https://en.wikipedia.org/wiki/Specific_activity">specific activity</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="speed" class="glossary"><dfn class="glossary"><a title="Speed" href="https://en.wikipedia.org/wiki/Speed">speed</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="speed_of_light_(c)" class="glossary"><dfn class="glossary"><a title="Speed of light" href="https://en.wikipedia.org/wiki/Speed_of_light">speed of light</a>&nbsp;(c)</dfn></dt>
+<dd class="glossary">A universal physical constant defined as exactly 299,792,458 metres per second, a figure that is exact because the length of the metre is defined from this constant and the international standard for time. When not otherwise qualified, the term "speed of light" usually refers to the speed of light in a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#vacuum"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; vacuum">vacuum</span></a>&nbsp;as opposed to the speed of light through some physical medium.</dd>
+<dt id="speed_of_sound" class="glossary"><dfn class="glossary"><a title="Speed of sound" href="https://en.wikipedia.org/wiki/Speed_of_sound">speed of sound</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="spherical_aberration" class="glossary"><dfn class="glossary"><a title="Spherical aberration" href="https://en.wikipedia.org/wiki/Spherical_aberration">spherical aberration</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="spin_quantum_number" class="glossary"><dfn class="glossary"><a title="Spin quantum number" href="https://en.wikipedia.org/wiki/Spin_quantum_number">spin quantum number</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="stable_isotope_ratio" class="glossary"><dfn class="glossary"><a title="Stable isotope ratio" href="https://en.wikipedia.org/wiki/Stable_isotope_ratio">stable isotope ratio</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="stable_nuclide" class="glossary"><dfn class="glossary"><a title="Stable nuclide" href="https://en.wikipedia.org/wiki/Stable_nuclide">stable nuclide</a></dfn></dt>
+<dd class="glossary">Any&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#nuclide"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; nuclide">nuclide</span></a>&nbsp;that is not radioactive and does not spontaneously undergo&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#radioactive_decay"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; radioactive decay">radioactive decay</span></a>, as opposed to a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#radionuclide"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; radionuclide">radionuclide</span></a>. When such nuclides are referred to in relation to specific elements, they are usually termed&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#stable_isotope_ratio"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; stable isotope ratio">stable isotopes</span></a>.</dd>
+<dt id="standard_atomic_weight" class="glossary"><dfn class="glossary"><a title="Standard atomic weight" href="https://en.wikipedia.org/wiki/Standard_atomic_weight">standard atomic weight</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="standard_model" class="glossary"><dfn class="glossary"><a title="Standard Model" href="https://en.wikipedia.org/wiki/Standard_Model">Standard Model</a></dfn></dt>
+<dd class="glossary">The theory of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#particle_physics"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; particle physics">particle physics</span></a>&nbsp;which describes three of the four known&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#fundamental_forces"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; fundamental forces">fundamental forces</span></a>&nbsp;(the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electromagnetism"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electromagnetism">electromagnetic force</span></a>, the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#weak_interaction"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; weak interaction">weak force</span></a>, and the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#strong_interaction"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; strong interaction">strong force</span></a>, but not the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#gravitation"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; gravitation">gravitational force</span></a>) and classifies all known&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#elementary_particle"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; elementary particle">elementary particles</span></a>.</dd>
+<dt id="standing_wave" class="glossary"><dfn class="glossary"><a title="Standing wave" href="https://en.wikipedia.org/wiki/Standing_wave">standing wave</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="state_of_matter" class="glossary"><dfn class="glossary"><a title="State of matter" href="https://en.wikipedia.org/wiki/State_of_matter">state of matter</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="statics" class="glossary"><dfn class="glossary"><a title="Statics" href="https://en.wikipedia.org/wiki/Statics">statics</a></dfn></dt>
+<dd class="glossary">The branch of mechanics concerned with the analysis of loads (<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#force"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; force">force</span></a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#torque"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; torque">torque</span></a>, or "moment") on physical systems in static equilibrium, that is, in a state where the relative positions of subsystems do not vary over time, or where components and structures are at a constant&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#velocity"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; velocity">velocity</span></a>.</dd>
+<dt id="statistical_mechanics" class="glossary"><dfn class="glossary"><a title="Statistical mechanics" href="https://en.wikipedia.org/wiki/Statistical_mechanics">statistical mechanics</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="stiffness" class="glossary"><dfn class="glossary"><a title="Stiffness" href="https://en.wikipedia.org/wiki/Stiffness">stiffness</a></dfn></dt>
+<dd class="glossary">The rigidity of an object &mdash; the extent to which it resists&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#deformation"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; deformation">deformation</span></a>&nbsp;in response to an applied&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#force"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; force">force</span></a>.</dd>
+<dt id="strain" class="glossary"><dfn class="glossary"><a title="Deformation (mechanics)" href="https://en.wikipedia.org/wiki/Deformation_(mechanics)">strain</a></dfn></dt>
+<dd class="glossary">The transformation of a body from a reference configuration to a current configuration.[1] A configuration is a set containing the positions of all particles of the body.</dd>
+<dt id="strain_hardening" class="glossary"><dfn class="glossary"><a title="Work hardening" href="https://en.wikipedia.org/wiki/Work_hardening">strain hardening</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="strength_of_materials" class="glossary"><dfn class="glossary"><a title="Strength of materials" href="https://en.wikipedia.org/wiki/Strength_of_materials">strength of materials</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="stress" class="glossary"><dfn class="glossary"><a title="Stress (mechanics)" href="https://en.wikipedia.org/wiki/Stress_(mechanics)">stress</a></dfn></dt>
+<dd class="glossary">1.&nbsp;&nbsp;An applied&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#force"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; force">force</span></a>&nbsp;or system of forces that tends to&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#strain"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; strain">strain</span></a>&nbsp;or&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#deformation"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; deformation">deform</span></a>&nbsp;a physical body.</dd>
+<dd class="glossary">2.&nbsp;&nbsp;A measure of the internal forces acting within a deformable body.</dd>
+<dd class="glossary">3.&nbsp;&nbsp;A quantitative measure of the average force per unit area of a surface within a body on which internal forces act.</dd>
+<dt id="stress&ndash;strain_curve" class="glossary"><dfn class="glossary"><a title="Stress&ndash;strain curve" href="https://en.wikipedia.org/wiki/Stress%E2%80%93strain_curve">stress&ndash;strain curve</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="string_duality" class="glossary"><dfn class="glossary"><a title="String duality" href="https://en.wikipedia.org/wiki/String_duality">string duality</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="string_theory" class="glossary"><dfn class="glossary"><a title="String theory" href="https://en.wikipedia.org/wiki/String_theory">string theory</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="structural_load" class="glossary"><dfn class="glossary"><a title="Structural load" href="https://en.wikipedia.org/wiki/Structural_load">structural load</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="subatomic_particle" class="glossary"><dfn class="glossary"><a title="Subatomic particle" href="https://en.wikipedia.org/wiki/Subatomic_particle">subatomic particle</a></dfn></dt>
+<dd class="glossary">Any particle that is smaller than an&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#atom"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; atom">atom</span></a>.</dd>
+<dt id="sublimation" class="glossary"><dfn class="glossary"><a title="Sublimation (phase transition)" href="https://en.wikipedia.org/wiki/Sublimation_(phase_transition)">sublimation</a></dfn></dt>
+<dd class="glossary">The process of transformation directly from the solid phase to the gas phase without passing through an intermediate liquid phase. Sublimation is an endothermic phase transition that occurs at temperatures and pressures below a substance's triple point in its phase diagram.</dd>
+<dt id="superconductivity" class="glossary"><dfn class="glossary"><a title="Superconductivity" href="https://en.wikipedia.org/wiki/Superconductivity">superconductivity</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="superconductor" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Superconductor" href="https://en.wikipedia.org/wiki/Superconductor">superconductor</a></dfn></dt>
+<dd class="glossary">A phenomenon of exactly zero electrical resistance and expulsion of magnetic fields occurring in certain materials when cooled below a characteristic critical temperature.</dd>
+<dt id="superhard_material" class="glossary"><dfn class="glossary"><a title="Superhard material" href="https://en.wikipedia.org/wiki/Superhard_material">superhard material</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="superposition_principle" class="glossary"><dfn class="glossary"><a title="Superposition principle" href="https://en.wikipedia.org/wiki/Superposition_principle">superposition principle</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="supersymmetry_(susy)" class="glossary"><dfn class="glossary"><a title="Supersymmetry" href="https://en.wikipedia.org/wiki/Supersymmetry">supersymmetry</a>&nbsp;(SUSY)</dfn></dt>
+<dd class="glossary"></dd>
+<dt id="surface_tension" class="glossary"><dfn class="glossary"><a title="Surface tension" href="https://en.wikipedia.org/wiki/Surface_tension">surface tension</a></dfn></dt>
+</dl>
+<h2><span id="T" class="mw-headline">T</span></h2>
+<dl class="glossary">
+<dt id="temperature" class="glossary"><dfn class="glossary"><a title="Temperature" href="https://en.wikipedia.org/wiki/Temperature">temperature</a></dfn></dt>
+<dd class="glossary">A physical property of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#matter"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; matter">matter</span></a>&nbsp;that quantitatively expresses the common notions of hot and cold.</dd>
+<dt id="tensile_modulus" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Tensile Modulus" href="https://en.wikipedia.org/wiki/Tensile_Modulus">tensile modulus</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="tensile_strength" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Tensile strength" href="https://en.wikipedia.org/wiki/Tensile_strength">tensile strength</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="tesla_(t)" class="glossary"><dfn class="glossary"><a title="Tesla (unit)" href="https://en.wikipedia.org/wiki/Tesla_(unit)">tesla</a>&nbsp;(T)</dfn></dt>
+<dd class="glossary"></dd>
+<dt id="test_particle" class="glossary"><dfn class="glossary"><a title="Test particle" href="https://en.wikipedia.org/wiki/Test_particle">test particle</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="theoretical_physics" class="glossary"><dfn class="glossary"><a title="Theoretical physics" href="https://en.wikipedia.org/wiki/Theoretical_physics">theoretical physics</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="theory_of_everything" class="glossary"><dfn class="glossary"><a title="Theory of everything" href="https://en.wikipedia.org/wiki/Theory_of_everything">theory of everything</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="theory_of_relativity" class="glossary"><dfn class="glossary"><a title="Theory of relativity" href="https://en.wikipedia.org/wiki/Theory_of_relativity">theory of relativity</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="thermal_conduction" class="glossary"><dfn class="glossary"><a title="Thermal conduction" href="https://en.wikipedia.org/wiki/Thermal_conduction">thermal conduction</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="thermal_equilibrium" class="glossary"><dfn class="glossary"><a title="Thermal equilibrium" href="https://en.wikipedia.org/wiki/Thermal_equilibrium">thermal equilibrium</a></dfn></dt>
+<dd class="glossary">A state in which there is no net flow of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#heat"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; heat">thermal energy</span></a>&nbsp;between two physical systems when the systems are connected by a path permeable to heat. A system may also be said to be in thermal equilibrium with itself if the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#temperature"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; temperature">temperature</span></a>&nbsp;within the system is spatially and temporally uniform. Systems in&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#thermodynamic_equilibrium"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; thermodynamic equilibrium">thermodynamic equilibrium</span></a>&nbsp;are always in thermal equilibrium, but the converse is not always true.</dd>
+<dt id="thermal_radiation" class="glossary"><dfn class="glossary"><a title="Thermal radiation" href="https://en.wikipedia.org/wiki/Thermal_radiation">thermal radiation</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="thermionic_emission" class="glossary"><dfn class="glossary"><a title="Thermionic emission" href="https://en.wikipedia.org/wiki/Thermionic_emission">thermionic emission</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="thermodynamic_equilibrium" class="glossary"><dfn class="glossary"><a title="Thermodynamic equilibrium" href="https://en.wikipedia.org/wiki/Thermodynamic_equilibrium">thermodynamic equilibrium</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="thermodynamic_free_energy" class="glossary"><dfn class="glossary"><a title="Thermodynamic free energy" href="https://en.wikipedia.org/wiki/Thermodynamic_free_energy">thermodynamic free energy</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="thermodynamics" class="glossary"><dfn class="glossary"><a title="Thermodynamics" href="https://en.wikipedia.org/wiki/Thermodynamics">thermodynamics</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="thermometer" class="glossary"><dfn class="glossary"><a title="Thermometer" href="https://en.wikipedia.org/wiki/Thermometer">thermometer</a></dfn></dt>
+<dd class="glossary">An instrument used to measure&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#temperature"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; temperature">temperature</span></a>.</dd>
+<dt id="third_law_of_thermodynamics" class="glossary"><dfn class="glossary"><a title="Third law of thermodynamics" href="https://en.wikipedia.org/wiki/Third_law_of_thermodynamics">third law of thermodynamics</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="threshold_frequency" class="glossary"><dfn class="glossary">threshold frequency</dfn></dt>
+<dd class="glossary"></dd>
+<dt id="torque" class="glossary"><dfn class="glossary"><a title="Torque" href="https://en.wikipedia.org/wiki/Torque">torque</a></dfn></dt>
+</dl>
+<p class="glossary-hatnote"><span class="hatnote navigation-not-searchable selfref">Also called&nbsp;<strong>moment</strong>&nbsp;or&nbsp;<strong>moment of force</strong>.</span></p>
+<dl class="glossary">
+<dd class="glossary">The tendency of a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#force"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; force">force</span></a>&nbsp;to rotate an object about an axis, fulcrum, or pivot. Just as a force is a push or a pull, a torque can be thought of as a twist to an object.</dd>
+<dt id="total_internal_reflection" class="glossary"><dfn class="glossary"><a title="Total internal reflection" href="https://en.wikipedia.org/wiki/Total_internal_reflection">total internal reflection</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="toughness" class="glossary"><dfn class="glossary"><a title="Toughness" href="https://en.wikipedia.org/wiki/Toughness">toughness</a></dfn></dt>
+<dd class="glossary">The ability of a material to absorb&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#energy"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; energy">energy</span></a>&nbsp;and plastically deform without fracturing. Material toughness is defined as the amount of energy per unit volume that a material can absorb before rupturing. It is also defined as the resistance to fracture of a material when&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#stress"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; stress">stressed</span></a>.</dd>
+<dt id="trajectory" class="glossary"><dfn class="glossary"><a title="Trajectory" href="https://en.wikipedia.org/wiki/Trajectory">trajectory</a></dfn></dt>
+<dd class="glossary">The path that a moving object follows through&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#space"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; space">space</span></a>&nbsp;as a function of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#time"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; time">time</span></a>.</dd>
+<dt id="transducer" class="glossary"><dfn class="glossary"><a title="Transducer" href="https://en.wikipedia.org/wiki/Transducer">transducer</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="transmission_medium" class="glossary"><dfn class="glossary"><a title="Transmission medium" href="https://en.wikipedia.org/wiki/Transmission_medium">transmission medium</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="transverse_wave" class="glossary"><dfn class="glossary"><a title="Transverse wave" href="https://en.wikipedia.org/wiki/Transverse_wave">transverse wave</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="trigonometry" class="glossary"><dfn class="glossary"><a title="Trigonometry" href="https://en.wikipedia.org/wiki/Trigonometry">trigonometry</a></dfn></dt>
+<dd class="glossary">A branch of&nbsp;<a title="Mathematics" href="https://en.wikipedia.org/wiki/Mathematics">mathematics</a>&nbsp;that studies triangles and the relationships between their sides and the angles between these sides.</dd>
+<dt id="trimean" class="glossary"><dfn class="glossary"><a title="Trimean" href="https://en.wikipedia.org/wiki/Trimean">trimean</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="triple_point" class="glossary"><dfn class="glossary"><a title="Triple point" href="https://en.wikipedia.org/wiki/Triple_point">triple point</a></dfn></dt>
+<dd class="glossary">The&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#temperature"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; temperature">temperature</span></a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#pressure"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; pressure">pressure</span></a>&nbsp;at which the three phases (gas, liquid, and solid) of a given substance coexist in&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#thermodynamic_equilibrium"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; thermodynamic equilibrium">thermodynamic equilibrium</span></a>.</dd>
+<dt id="truncated_mean" class="glossary"><dfn class="glossary"><a title="Truncated mean" href="https://en.wikipedia.org/wiki/Truncated_mean">truncated mean</a></dfn></dt>
+</dl>
+<h2><span id="U" class="mw-headline">U</span></h2>
+<dl class="glossary">
+<dt id="uncertainty_principle" class="glossary"><dfn class="glossary"><a title="Uncertainty principle" href="https://en.wikipedia.org/wiki/Uncertainty_principle">uncertainty principle</a></dfn></dt>
+<dd class="glossary">Any of a variety of mathematical inequalities asserting a fundamental limit to the precision with which certain pairs of physical properties of a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#particle"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; particle">particle</span></a>, such as position&nbsp;<em>x</em>&nbsp;and momentum&nbsp;<em>p</em>, can be known simultaneously.</dd>
+<dt id="uniform_motion" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Uniform motion" href="https://en.wikipedia.org/wiki/Uniform_motion">uniform motion</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="uniform_circular_motion" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Uniform circular motion" href="https://en.wikipedia.org/wiki/Uniform_circular_motion">uniform circular motion</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="unit_vector" class="glossary"><dfn class="glossary"><a title="Unit vector" href="https://en.wikipedia.org/wiki/Unit_vector">unit vector</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="utility_frequency" class="glossary"><dfn class="glossary"><a title="Utility frequency" href="https://en.wikipedia.org/wiki/Utility_frequency">utility frequency</a></dfn></dt>
+<dd class="glossary">The frequency of the oscillations of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#alternating_current"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; alternating current">alternating current</span></a>&nbsp;(AC) in an electric power grid transmitted from a power plant to the end-user.</dd>
+</dl>
+<h2><span id="V" class="mw-headline">V</span></h2>
+<dl class="glossary">
+<dt id="vacuum" class="glossary"><dfn class="glossary"><a title="Vacuum" href="https://en.wikipedia.org/wiki/Vacuum">vacuum</a></dfn></dt>
+<dd class="glossary">An area of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#space"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; space">space</span></a>&nbsp;which contains no&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#matter"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; matter">matter</span></a>.</dd>
+<dt id="valence_electron" class="glossary"><dfn class="glossary"><a title="Valence electron" href="https://en.wikipedia.org/wiki/Valence_electron">valence electron</a></dfn></dt>
+<dd class="glossary">An&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electron"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electron">electron</span></a>&nbsp;that is associated with an&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#atom"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; atom">atom</span></a>&nbsp;and can participate in the formation of a&nbsp;<a title="Chemical bond" href="https://en.wikipedia.org/wiki/Chemical_bond">chemical bond</a>.</dd>
+<dt id="valence_shell" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Valence shell" href="https://en.wikipedia.org/wiki/Valence_shell">valence shell</a></dfn></dt>
+<dd class="glossary">The outermost electron shell of an&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#atom"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; atom">atom</span></a>.</dd>
+<dt id="valley_of_stability" class="glossary"><dfn class="glossary"><a title="Valley of stability" href="https://en.wikipedia.org/wiki/Valley_of_stability">valley of stability</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="van_de_graaff_generator" class="glossary"><dfn class="glossary"><a title="Van de Graaff generator" href="https://en.wikipedia.org/wiki/Van_de_Graaff_generator">Van de Graaff generator</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="variable_capacitor" class="glossary"><dfn class="glossary"><a title="Variable capacitor" href="https://en.wikipedia.org/wiki/Variable_capacitor">variable capacitor</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="variable_resistor" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Variable resistor" href="https://en.wikipedia.org/wiki/Variable_resistor">variable resistor</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="vector" class="glossary"><dfn class="glossary"><a title="Vector (mathematics and physics)" href="https://en.wikipedia.org/wiki/Vector_(mathematics_and_physics)">vector</a></dfn></dt>
+<dd class="glossary">Any quantity that has both magnitude and direction.</dd>
+<dt id="vector_space" class="glossary"><dfn class="glossary"><a title="Vector space" href="https://en.wikipedia.org/wiki/Vector_space">vector space</a></dfn></dt>
+<dd class="glossary">A mathematical structure formed by a collection of elements called&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#vector"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; vector">vectors</span></a>, which may be added together and multiplied ("scaled") by numbers called&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#scalar"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; scalar">scalars</span></a>.</dd>
+<dt id="velocity" class="glossary"><dfn class="glossary"><a title="Velocity" href="https://en.wikipedia.org/wiki/Velocity">velocity</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="virtual_image" class="glossary"><dfn class="glossary"><a title="Virtual image" href="https://en.wikipedia.org/wiki/Virtual_image">virtual image</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="virtual_particle" class="glossary"><dfn class="glossary"><a title="Virtual particle" href="https://en.wikipedia.org/wiki/Virtual_particle">virtual particle</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="viscoelasticity" class="glossary"><dfn class="glossary"><a title="Viscoelasticity" href="https://en.wikipedia.org/wiki/Viscoelasticity">viscoelasticity</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="viscosity" class="glossary"><dfn class="glossary"><a title="Viscosity" href="https://en.wikipedia.org/wiki/Viscosity">viscosity</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="visible_light" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Visible light" href="https://en.wikipedia.org/wiki/Visible_light">visible light</a></dfn></dt>
+<dd class="glossary">A form of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electromagnetic_radiation"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electromagnetic radiation">electromagnetic radiation</span></a>&nbsp;generally defined as the range of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#wavelength"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; wavelength">wavelengths</span></a>&nbsp;visible to the average human eye.</dd>
+<dt id="volt_(v)" class="glossary"><dfn class="glossary"><a title="Volt" href="https://en.wikipedia.org/wiki/Volt">volt</a>&nbsp;(V)</dfn></dt>
+<dd class="glossary">The&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#sI"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; SI">SI</span></a>&nbsp;derived unit for&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electric_potential"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electric potential">electric potential</span></a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#voltage"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; voltage">electric potential difference</span></a>, and&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electromotive_force"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electromotive force">electromotive force</span></a>, defined as the difference in electric potential between two points of a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electrical_conductor"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electrical conductor">conducting</span></a>&nbsp;wire when an&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electric_current"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electric current">electric current</span></a>&nbsp;of one&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#ampere"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; ampere">ampere</span></a>&nbsp;dissipates one&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#watt"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; watt">watt</span></a>&nbsp;of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#power"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; power">power</span></a>&nbsp;between those two points.</dd>
+<dt id="volta_potential" class="glossary"><dfn class="glossary"><a title="Volta potential" href="https://en.wikipedia.org/wiki/Volta_potential">Volta potential</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="voltage" class="glossary"><dfn class="glossary"><a title="Voltage" href="https://en.wikipedia.org/wiki/Voltage">voltage</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="voltmeter" class="glossary"><dfn class="glossary"><a title="Voltmeter" href="https://en.wikipedia.org/wiki/Voltmeter">voltmeter</a></dfn></dt>
+<dd class="glossary">An instrument used for measuring the difference in electrical potential between two points in an electric circuit. Analog voltmeters move a pointer across a scale in proportion to the voltage of the circuit.</dd>
+<dt id="volt_per_meter" class="glossary"><dfn class="glossary"><a title="Electric field" href="https://en.wikipedia.org/wiki/Electric_field">volt per meter</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="volume" class="glossary"><dfn class="glossary"><a title="Volume" href="https://en.wikipedia.org/wiki/Volume">volume</a></dfn></dt>
+</dl>
+<h2><span id="W" class="mw-headline">W</span></h2>
+<dl class="glossary">
+<dt id="w_and_z_bosons" class="glossary"><dfn class="glossary"><a title="W and Z bosons" href="https://en.wikipedia.org/wiki/W_and_Z_bosons">W and Z bosons</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="watt_(w)" class="glossary"><dfn class="glossary"><a title="Watt" href="https://en.wikipedia.org/wiki/Watt">watt</a>&nbsp;(W)</dfn></dt>
+<dd class="glossary">A derived unit of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#power"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; power">power</span></a>&nbsp;in the International System of Units (SI) defined as one joule per second. The watt measures the rate of energy conversion or transfer.</dd>
+<dt id="wave" class="glossary"><dfn class="glossary"><a title="Wave" href="https://en.wikipedia.org/wiki/Wave">wave</a></dfn></dt>
+<dd class="glossary">A disturbance or oscillation that travels through&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#spacetime"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; spacetime">spacetime</span></a>&nbsp;accompanied by a transfer of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#energy"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; energy">energy</span></a>.</dd>
+<dt id="wave_equation" class="glossary"><dfn class="glossary"><a title="Wave equation" href="https://en.wikipedia.org/wiki/Wave_equation">wave equation</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="wave_function" class="glossary"><dfn class="glossary"><a title="Wave function" href="https://en.wikipedia.org/wiki/Wave_function">wave function</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="wave_function_collapse" class="glossary"><dfn class="glossary"><a title="Wave function collapse" href="https://en.wikipedia.org/wiki/Wave_function_collapse">wave function collapse</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="wave&ndash;particle_duality" class="glossary"><dfn class="glossary"><a title="Wave&ndash;particle duality" href="https://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality">wave&ndash;particle duality</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="wavelength" class="glossary"><dfn class="glossary"><a title="Wavelength" href="https://en.wikipedia.org/wiki/Wavelength">wavelength</a></dfn></dt>
+<dd class="glossary">A measure of the distance traversed by a single spatial period of a sinusoidal&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#wave"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; wave">wave</span></a>, i.e. the distance over which the wave's shape repeats.</dd>
+<dt id="weak_interaction" class="glossary"><dfn class="glossary"><a title="Weak interaction" href="https://en.wikipedia.org/wiki/Weak_interaction">weak interaction</a></dfn></dt>
+</dl>
+<p class="glossary-hatnote"><span class="hatnote navigation-not-searchable selfref">Also called the&nbsp;<strong>weak force</strong>&nbsp;or&nbsp;<strong>weak nuclear force</strong>.</span></p>
+<dl class="glossary">
+<dd class="glossary">One of the four fundamental forces of nature, along with the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#strong_nuclear_force"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; strong nuclear force">strong nuclear force</span></a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electromagnetism"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electromagnetism">electromagnetism</span></a>, and&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#gravitation"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; gravitation">gravitation</span></a>. It is responsible for the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#radioactive_decay"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; radioactive decay">radioactive decay</span></a>&nbsp;of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#subatomic_particle"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; subatomic particle">subatomic particles</span></a>&nbsp;and initiates the process known as&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#fusion"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; fusion">hydrogen fusion</span></a>&nbsp;in stars.</dd>
+<dt id="weber_(wb)" class="glossary"><dfn class="glossary"><a title="Weber (unit)" href="https://en.wikipedia.org/wiki/Weber_(unit)">weber</a>&nbsp;(Wb)</dfn></dt>
+<dd class="glossary"></dd>
+<dt id="wedge" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Wedge (mechanical device)" href="https://en.wikipedia.org/wiki/Wedge_(mechanical_device)">wedge</a></dfn></dt>
+<dd class="glossary">A triangular round tool in the form a compound and portable inclined plane; one of six classical&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#simple_machine"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; simple machine">simple machines</span></a>.</dd>
+<dt id="weight" class="glossary"><dfn class="glossary"><a title="Weight" href="https://en.wikipedia.org/wiki/Weight">weight</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="wheel_and_axle" class="glossary"><dfn class="glossary"><a title="Wheel and axle" href="https://en.wikipedia.org/wiki/Wheel_and_axle">wheel and axle</a></dfn></dt>
+<dd class="glossary">A wheel attached to an axle so that these two parts rotate together in which a force is transferred from one to the other; one of six classical&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#simple_machine"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; simple machine">simple machines</span></a>.</dd>
+<dt id="white_body" class="glossary"><dfn class="glossary">white body</dfn></dt>
+<dd class="glossary">A hypothetical idealized physical body that reflects all incident&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electromagnetic_radiation"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electromagnetic radiation">electromagnetic radiation</span></a>&nbsp;completely and uniformly in all directions; the opposite of a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#black_body"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; black body">black body</span></a>.</dd>
+<dt id="wind" class="glossary"><dfn class="glossary"><a title="Wind" href="https://en.wikipedia.org/wiki/Wind">wind</a></dfn></dt>
+<dd class="glossary">The flow of gases on a large scale.</dd>
+<dt id="wind_shear" class="glossary"><dfn class="glossary"><a title="Wind shear" href="https://en.wikipedia.org/wiki/Wind_shear">wind shear</a></dfn></dt>
+</dl>
+<p class="glossary-hatnote"><span class="hatnote navigation-not-searchable selfref">Also called&nbsp;<strong><a title="Wind gradient" href="https://en.wikipedia.org/wiki/Wind_gradient">wind gradient</a></strong>.</span></p>
+<dl class="glossary">
+<dd class="glossary">A difference in wind speed and direction over a relatively short distance in the atmosphere. Wind shear can be broken down into vertical and horizontal components, with horizontal wind shear seen across fronts and near the coast, and vertical shear typically near the surface, though also at higher levels in the atmosphere.</dd>
+<dt id="work" class="glossary"><dfn class="glossary"><a title="Work (physics)" href="https://en.wikipedia.org/wiki/Work_(physics)">work</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="work_function" class="glossary"><dfn class="glossary"><a title="Work function" href="https://en.wikipedia.org/wiki/Work_function">work function</a></dfn></dt>
+<dd class="glossary"></dd>
+</dl>
+<h2><span id="X" class="mw-headline">X</span></h2>
+<dl class="glossary">
+<dt id="x-ray" class="glossary"><dfn class="glossary"><a title="X-ray" href="https://en.wikipedia.org/wiki/X-ray">X-ray</a></dfn></dt>
+<dd class="glossary">A high-energy&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#photon"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; photon">photon</span></a>&nbsp;(between 100&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electron_volt"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electron volt">eV</span></a>&nbsp;and 100 keV) with a wavelength shorter than that of ultraviolet radiation and longer than that of gamma radiation.</dd>
+</dl>
+<h2><span id="Y" class="mw-headline">Y</span></h2>
+<dl class="glossary">
+<dt id="young&rsquo;s_modulus" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Young&rsquo;s modulus" href="https://en.wikipedia.org/wiki/Young%E2%80%99s_modulus">Young&rsquo;s modulus</a></dfn></dt>
+<dd class="glossary">A measure of the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#stiffness"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; stiffness">stiffness</span></a>&nbsp;of a solid material which defines the relationship between mechanical&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#stress"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; stress">stress</span></a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#strain"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; strain">strain</span></a>.</dd>
+</dl>
+<h2><span id="Z" class="mw-headline">Z</span></h2>
+<dl class="glossary">
+<dt id="zeeman_effect" class="glossary"><dfn class="glossary"><a title="" href="https://en.wikipedia.org/wiki/Zeeman_effect">Zeeman effect</a></dfn></dt>
+<dd class="glossary">The effect of splitting a spectral line into several components in the presence of a static magnetic field by the lifting of degeneracy in electronic states.</dd>
+</dl>
