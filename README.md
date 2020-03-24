@@ -6,6 +6,7 @@
 <ul>
 <li class="toclevel-1 tocsection-1"><a href="#What_type_of_subject_is_physics?"><span class="toctext">What&nbsp;type&nbsp;of subject is physics?</span></a></li>
 <li class="toclevel-1 tocsection-2"><a href="#Branches_of_physics"><span class="toctext">Branches of physics</span></a></li>
+ <li class="toclevel-1 tocsection-3"><a href="#General_concepts_of_physics"><span class="toctext">General concepts of physics</span></a></li> 
 </ul>
 </br>
 <h2><span id="What_type_of_subject_is_physics?" class="mw-headline">What&nbsp;type&nbsp;of subject is physics?</span></h2>
