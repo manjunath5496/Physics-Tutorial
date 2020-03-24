@@ -709,3 +709,144 @@ where:
 <dt id="dyne" class="glossary"><dfn class="glossary"><a title="Dyne" href="https://en.wikipedia.org/wiki/Dyne">dyne</a></dfn></dt>
 <dd class="glossary"></dd>
 </dl>
+<h2><span id="E" class="mw-headline">E</span></h2>
+<dl class="glossary">
+<dt id="econophysics" class="glossary"><dfn class="glossary"><a title="Econophysics" href="https://en.wikipedia.org/wiki/Econophysics">econophysics</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="elastic_collision" class="glossary"><dfn class="glossary"><a title="Elastic collision" href="https://en.wikipedia.org/wiki/Elastic_collision">elastic collision</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="elastic_energy" class="glossary"><dfn class="glossary"><a title="Elastic energy" href="https://en.wikipedia.org/wiki/Elastic_energy">elastic energy</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="elastic_instability" class="glossary"><dfn class="glossary"><a title="Elastic instability" href="https://en.wikipedia.org/wiki/Elastic_instability">elastic instability</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="elastic_modulus" class="glossary"><dfn class="glossary"><a title="Elastic modulus" href="https://en.wikipedia.org/wiki/Elastic_modulus">elastic modulus</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="elasticity" class="glossary"><dfn class="glossary"><a title="Elasticity (physics)" href="https://en.wikipedia.org/wiki/Elasticity_(physics)">elasticity</a></dfn></dt>
+<dd class="glossary">The tendency of a material to return to its original shape after it is&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#deformation"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; deformation">deformed</span></a>.</dd>
+<dt id="electric_charge" class="glossary"><dfn class="glossary"><a title="Electric charge" href="https://en.wikipedia.org/wiki/Electric_charge">electric charge</a></dfn></dt>
+<dd class="glossary">A physical property of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#matter"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; matter">matter</span></a>&nbsp;that causes it to experience a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#force"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; force">force</span></a>&nbsp;when near other electrically charged matter. There are two types of electric charge: positive and negative.</dd>
+<dt id="electric_circuit" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Electric circuit" href="https://en.wikipedia.org/wiki/Electric_circuit">electric circuit</a></dfn></dt>
+<dd class="glossary">An&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electrical_network"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electrical network">electrical network</span></a>&nbsp;consisting of a closed loop, giving a return path for the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#current"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; current">current</span></a>.</dd>
+<dt id="electric_current" class="glossary"><dfn class="glossary"><a title="Electric current" href="https://en.wikipedia.org/wiki/Electric_current">electric current</a></dfn></dt>
+<dd class="glossary">A flow of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electric_charge"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electric charge">electric charge</span></a>&nbsp;through a conductive medium.</dd>
+<dt id="electric_displacement_field" class="glossary"><dfn class="glossary"><a title="Electric displacement field" href="https://en.wikipedia.org/wiki/Electric_displacement_field">electric displacement field</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="electric_field" class="glossary"><dfn class="glossary"><a title="Electric field" href="https://en.wikipedia.org/wiki/Electric_field">electric field</a></dfn></dt>
+<dd class="glossary">The region of space surrounding electrically charged particles and time-varying magnetic fields. The electric field depicts the force exerted on other electrically charged objects by the electrically charged particle the field is surrounding.</dd>
+<dt id="electric_field_gradient" class="glossary"><dfn class="glossary"><a title="Electric field gradient" href="https://en.wikipedia.org/wiki/Electric_field_gradient">electric field gradient</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="electric_field_intensity" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Electric intensity" href="https://en.wikipedia.org/wiki/Electric_intensity">electric field intensity</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="electric_generator" class="glossary"><dfn class="glossary"><a title="Electric generator" href="https://en.wikipedia.org/wiki/Electric_generator">electric generator</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="electric_motor" class="glossary"><dfn class="glossary"><a title="Electric motor" href="https://en.wikipedia.org/wiki/Electric_motor">electric motor</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="electric_potential" class="glossary"><dfn class="glossary"><a title="Electric potential" href="https://en.wikipedia.org/wiki/Electric_potential">electric potential</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="electric_power" class="glossary"><dfn class="glossary"><a title="Electric power" href="https://en.wikipedia.org/wiki/Electric_power">electric power</a></dfn></dt>
+<dd class="glossary">The rate at which electric energy is transferred by an&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electric_circuit"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electric circuit">electric circuit</span></a>.</dd>
+<dt id="electrical_conductor" class="glossary"><dfn class="glossary"><a title="Electrical conductor" href="https://en.wikipedia.org/wiki/Electrical_conductor">electrical conductor</a></dfn></dt>
+<dd class="glossary">Any material which contains movable&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electric_charge"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electric charge">electric charges</span></a>&nbsp;and therefore can conduct an&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electric_current"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electric current">electric current</span></a>&nbsp;under the influence of an&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electric_field"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electric field">electric field</span></a>.</dd>
+<dt id="electrical_insulator" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Electrical insulator" href="https://en.wikipedia.org/wiki/Electrical_insulator">electrical insulator</a></dfn></dt>
+<dd class="glossary">Any material whose internal&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electric_charge"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electric charge">electric charges</span></a>&nbsp;do not flow freely and which therefore does not conduct an&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electric_current"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electric current">electric current</span></a>&nbsp;under the influence of an&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electric_field"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electric field">electric field</span></a>.</dd>
+<dt id="electrical_potential_energy" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Electrical potential energy" href="https://en.wikipedia.org/wiki/Electrical_potential_energy">electrical potential energy</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="electrical_and_electronics_engineering" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Electrical and electronics engineering" href="https://en.wikipedia.org/wiki/Electrical_and_electronics_engineering">electrical and electronics engineering</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="electrical_network" class="glossary"><dfn class="glossary"><a title="Electrical network" href="https://en.wikipedia.org/wiki/Electrical_network">electrical network</a></dfn></dt>
+<dd class="glossary">An interconnection of electrical elements such as resistors, inductors, capacitors, voltage sources, current sources and switches.</dd>
+<dt id="electrical_resistance" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Electrical resistance" href="https://en.wikipedia.org/wiki/Electrical_resistance">electrical resistance</a></dfn></dt>
+<dd class="glossary">The opposition to the passage of an&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electric_current"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electric current">electric current</span></a>&nbsp;through an electrical element.</dd>
+<dt id="electricity" class="glossary"><dfn class="glossary"><a title="Electricity" href="https://en.wikipedia.org/wiki/Electricity">electricity</a></dfn></dt>
+<dd class="glossary">The set of physical phenomena associated with the presence and flow of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electric_charge"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electric charge">electric charge</span></a>.</dd>
+<dt id="electro-optic_effect" class="glossary"><dfn class="glossary"><a title="Electro-optic effect" href="https://en.wikipedia.org/wiki/Electro-optic_effect">electro-optic effect</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="electrochemical_cell" class="glossary"><dfn class="glossary"><a title="Electrochemical cell" href="https://en.wikipedia.org/wiki/Electrochemical_cell">electrochemical cell</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="electrodynamics" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Electrodynamics" href="https://en.wikipedia.org/wiki/Electrodynamics">electrodynamics</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="electrolytic_cell" class="glossary"><dfn class="glossary"><a title="Electrolytic cell" href="https://en.wikipedia.org/wiki/Electrolytic_cell">electrolytic cell</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="electromagnet" class="glossary"><dfn class="glossary"><a title="Electromagnet" href="https://en.wikipedia.org/wiki/Electromagnet">electromagnet</a></dfn></dt>
+<dd class="glossary">A type of magnet in which the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#magnetic_field"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; magnetic field">magnetic field</span></a>&nbsp;is produced by the flow of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electric_current"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electric current">electric current</span></a>.</dd>
+<dt id="electromagnetic_field" class="glossary"><dfn class="glossary"><a title="Electromagnetic field" href="https://en.wikipedia.org/wiki/Electromagnetic_field">electromagnetic field</a></dfn></dt>
+</dl>
+<p class="glossary-hatnote"><span class="hatnote navigation-not-searchable selfref">Also abbreviated&nbsp;<strong>EM field</strong>&nbsp;or&nbsp;<strong>EMF</strong>.</span></p>
+<dl class="glossary">
+<dd class="glossary">A physical field produced by moving electrically charged objects.</dd>
+<dt id="electromagnetic_induction" class="glossary"><dfn class="glossary"><a title="Electromagnetic induction" href="https://en.wikipedia.org/wiki/Electromagnetic_induction">electromagnetic induction</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="electromagnetic_radiation" class="glossary"><dfn class="glossary"><a title="Electromagnetic radiation" href="https://en.wikipedia.org/wiki/Electromagnetic_radiation">electromagnetic radiation</a></dfn></dt>
+</dl>
+<p class="glossary-hatnote"><span class="hatnote navigation-not-searchable selfref">Also abbreviated&nbsp;<strong>EM radiation</strong>&nbsp;or&nbsp;<strong>EMR</strong>.</span></p>
+<dl class="glossary">
+<dd class="glossary">A form of energy emitted and absorbed by charged particles, which exhibits wave-like behavior as it travels through space.</dd>
+<dt id="electromagnetic_spectrum" class="glossary"><dfn class="glossary"><a title="Electromagnetic spectrum" href="https://en.wikipedia.org/wiki/Electromagnetic_spectrum">electromagnetic spectrum</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="electromagnetic_wave_equation" class="glossary"><dfn class="glossary"><a title="Electromagnetic wave equation" href="https://en.wikipedia.org/wiki/Electromagnetic_wave_equation">electromagnetic wave equation</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="electromagnetism" class="glossary"><dfn class="glossary"><a title="Electromagnetism" href="https://en.wikipedia.org/wiki/Electromagnetism">electromagnetism</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="electromechanics" class="glossary"><dfn class="glossary"><a title="Electromechanics" href="https://en.wikipedia.org/wiki/Electromechanics">electromechanics</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="electromotive_force_('&#96;UNIQ--math-000000B3-QINU&#96;')" class="glossary"><dfn class="glossary"><a title="Electromotive force" href="https://en.wikipedia.org/wiki/Electromotive_force">electromotive force</a>&nbsp;</dfn></dt>
+</dl>
+<p class="glossary-hatnote"><span class="hatnote navigation-not-searchable selfref">Also abbreviated&nbsp;<strong>emf</strong>.</span></p>
+<dl class="glossary">
+<dd class="glossary">The electrical intensity or "pressure" developed by a source of electrical energy such as a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#battery"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; battery">battery</span></a>&nbsp;or&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electric_generator"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electric generator">generator</span></a>&nbsp;and measured in&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#volt"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; volt">volts</span></a>. Any device that converts other forms of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#energy"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; energy">energy</span></a>&nbsp;into electrical energy provides electromotive force as its output.</dd>
+<dt id="electron" class="glossary"><dfn class="glossary"><a title="Electron" href="https://en.wikipedia.org/wiki/Electron">electron</a></dfn></dt>
+<dd class="glossary">A&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#subatomic_particle"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; subatomic particle">subatomic particle</span></a>&nbsp;with a negative&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#elementary_charge"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; elementary charge">elementary</span></a>&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electric_charge"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electric charge">electric charge</span></a>.</dd>
+<dt id="electron_capture" class="glossary"><dfn class="glossary"><a title="Electron capture" href="https://en.wikipedia.org/wiki/Electron_capture">electron capture</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="electron_cloud" class="glossary"><dfn class="glossary"><a title="Atomic orbital" href="https://en.wikipedia.org/wiki/Atomic_orbital">electron cloud</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="electron_pair" class="glossary"><dfn class="glossary"><a title="Electron pair" href="https://en.wikipedia.org/wiki/Electron_pair">electron pair</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="electron_paramagnetic_resonance" class="glossary"><dfn class="glossary"><a title="Electron paramagnetic resonance" href="https://en.wikipedia.org/wiki/Electron_paramagnetic_resonance">electron paramagnetic resonance</a></dfn></dt>
+</dl>
+<p class="glossary-hatnote"><span class="hatnote navigation-not-searchable selfref">Also called&nbsp;<strong>electron spin resonance (ESR)</strong>&nbsp;and&nbsp;<strong>electron magnetic resonance (EMR)</strong>.</span></p>
+<dl class="glossary">
+<dd class="glossary">A method for studying materials with unpaired&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electron"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electron">electrons</span></a>&nbsp;which makes use of the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#zeeman_effect"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; Zeeman effect">Zeeman effect</span></a>. It shares some basic principles with&nbsp;<a title="Nuclear magnetic resonance" href="https://en.wikipedia.org/wiki/Nuclear_magnetic_resonance">nuclear magnetic resonance</a>&nbsp;(NMR).</dd>
+<dt id="electronvolt_(ev)" class="glossary"><dfn class="glossary"><a title="Electronvolt" href="https://en.wikipedia.org/wiki/Electronvolt">electronvolt</a>&nbsp;(eV)</dfn></dt>
+<dd class="glossary">A unit of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#energy"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; energy">energy</span></a>&nbsp;equal to approximately 1.6&times;10<sup>&minus;19</sup>&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#joule"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; joule">joule</span></a>. By definition, it is the amount of energy gained by the charge of a single&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electron"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electron">electron</span></a>&nbsp;moved across an electric potential difference of one&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#volt"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; volt">volt</span></a>.</dd>
+<dt id="electronegativity" class="glossary"><dfn class="glossary"><a title="Electronegativity" href="https://en.wikipedia.org/wiki/Electronegativity">electronegativity</a></dfn></dt>
+<dd class="glossary">A chemical property that describes the tendency of an atom or a functional group to attract electrons (or electron density) towards itself.</dd>
+<dt id="electronics" class="glossary"><dfn class="glossary"><a title="Electronics" href="https://en.wikipedia.org/wiki/Electronics">electronics</a></dfn></dt>
+<dd class="glossary">A field that deals with&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electric_circuit"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electric circuit">electrical circuits</span></a>&nbsp;that involve active electrical components such as vacuum tubes, transistors, diodes and integrated circuits, and associated passive interconnection technologies.</dd>
+<dt id="electrostatics" class="glossary"><dfn class="glossary"><a title="Electrostatics" href="https://en.wikipedia.org/wiki/Electrostatics">electrostatics</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="electrostriction" class="glossary"><dfn class="glossary"><a title="Electrostriction" href="https://en.wikipedia.org/wiki/Electrostriction">electrostriction</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="elementary_charge" class="glossary"><dfn class="glossary"><a title="Elementary charge" href="https://en.wikipedia.org/wiki/Elementary_charge">elementary charge</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="elementary_particle" class="glossary"><dfn class="glossary"><a title="Elementary particle" href="https://en.wikipedia.org/wiki/Elementary_particle">elementary particle</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="emission_spectrum" class="glossary"><dfn class="glossary"><a title="Emission spectrum" href="https://en.wikipedia.org/wiki/Emission_spectrum">emission spectrum</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="emissivity" class="glossary"><dfn class="glossary"><a title="Emissivity" href="https://en.wikipedia.org/wiki/Emissivity">emissivity</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="energy" class="glossary"><dfn class="glossary"><a title="Energy" href="https://en.wikipedia.org/wiki/Energy">energy</a></dfn></dt>
+<dd class="glossary">The ability to do&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#work"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; work">work</span></a>.</dd>
+<dt id="energy_level" class="glossary"><dfn class="glossary"><a title="Energy level" href="https://en.wikipedia.org/wiki/Energy_level">energy level</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="endothermic" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Endothermic" href="https://en.wikipedia.org/wiki/Endothermic">endothermic</a></dfn></dt>
+<dd class="glossary">An adjective used to refer to a process or reaction in which a system absorbs&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#energy"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; energy">energy</span></a>&nbsp;from its surroundings, usually in the form of heat but also in the form of light, electricity, or sound. Contrast&nbsp;<em><a href="https://en.wikipedia.org/wiki/Glossary_of_physics#exothermic"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; exothermic">exothermic</span></a></em>.</dd>
+<dt id="engineering_physics" class="glossary"><dfn class="glossary"><a title="Engineering physics" href="https://en.wikipedia.org/wiki/Engineering_physics">engineering physics</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="enthalpy" class="glossary"><dfn class="glossary"><a title="Enthalpy" href="https://en.wikipedia.org/wiki/Enthalpy">enthalpy</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="entropy" class="glossary"><dfn class="glossary"><a title="Entropy" href="https://en.wikipedia.org/wiki/Entropy">entropy</a></dfn></dt>
+<dd class="glossary">A quantity which describes the randomness of a substance or system.</dd>
+<dt id="equilibrant_force" class="glossary"><dfn class="glossary"><a title="Equilibrant force" href="https://en.wikipedia.org/wiki/Equilibrant_force">equilibrant force</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="equipartition" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Equipartition" href="https://en.wikipedia.org/wiki/Equipartition">equipartition</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="escape_velocity" class="glossary"><dfn class="glossary"><a title="Escape velocity" href="https://en.wikipedia.org/wiki/Escape_velocity">escape velocity</a></dfn></dt>
+<dd class="glossary">The&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#velocity"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; velocity">velocity</span></a>&nbsp;at which the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#kinetic_energy"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; kinetic energy">kinetic energy</span></a>&nbsp;plus the gravitational&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#potential_energy"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; potential energy">potential energy</span></a>&nbsp;of an object is zero. It is the speed needed to "escape" from a gravitational field without further propulsion.</dd>
+<dt id="excited_state" class="glossary"><dfn class="glossary"><a title="Excited state" href="https://en.wikipedia.org/wiki/Excited_state">excited state</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="exothermic" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Exothermic" href="https://en.wikipedia.org/wiki/Exothermic">exothermic</a></dfn></dt>
+<dd class="glossary">An adjective used to refer to a process or reaction that releases&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#energy"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; energy">energy</span></a>&nbsp;from a system, usually in the form of heat but also in the form of light, electricity, or sound. Contrast&nbsp;<em><a href="https://en.wikipedia.org/wiki/Glossary_of_physics#endothermic"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; endothermic">endothermic</span></a></em>.</dd>
+<dt id="experimental_physics" class="glossary"><dfn class="glossary"><a title="Experimental physics" href="https://en.wikipedia.org/wiki/Experimental_physics">experimental physics</a></dfn></dt>
+<dd class="glossary"></dd>
+</dl>
