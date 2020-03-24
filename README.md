@@ -932,3 +932,48 @@ where:
 <dt id="fusion" class="glossary"><dfn class="glossary"><a title="Nuclear fusion" href="https://en.wikipedia.org/wiki/Nuclear_fusion">fusion</a></dfn></dt>
 <dd class="glossary">A nuclear reaction in which two or more atomic nuclei join together, or "fuse", to form a single heavier nucleus.</dd>
 </dl>
+<h2><span id="G" class="mw-headline">G</span></h2>
+<dl class="glossary">
+<dt id="gamma_ray" class="glossary"><dfn class="glossary"><a title="Gamma ray" href="https://en.wikipedia.org/wiki/Gamma_ray">gamma ray</a></dfn></dt>
+<dd class="glossary">A form of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#electromagnetic_radiation"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; electromagnetic radiation">electromagnetic radiation</span></a>&nbsp;of high frequency and therefore high energy.</dd>
+<dt id="gas" class="glossary"><dfn class="glossary"><a title="Gas" href="https://en.wikipedia.org/wiki/Gas">gas</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="general_relativity" class="glossary"><dfn class="glossary"><a title="General relativity" href="https://en.wikipedia.org/wiki/General_relativity">general relativity</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="geophysics" class="glossary"><dfn class="glossary"><a title="Geophysics" href="https://en.wikipedia.org/wiki/Geophysics">geophysics</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="gluon" class="glossary"><dfn class="glossary"><a title="Gluon" href="https://en.wikipedia.org/wiki/Gluon">gluon</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="graham's_law_of_diffusion" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Graham's law of diffusion" href="https://en.wikipedia.org/wiki/Graham%27s_law_of_diffusion">Graham's law of diffusion</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="gravitation" class="glossary"><dfn class="glossary"><a class="mw-redirect" title="Gravitation" href="https://en.wikipedia.org/wiki/Gravitation">gravitation</a></dfn></dt>
+</dl>
+<p class="glossary-hatnote"><span class="hatnote navigation-not-searchable selfref">Also called&nbsp;<strong>gravity</strong>.</span></p>
+<dl class="glossary">
+<dd class="glossary">A natural phenomenon by which physical bodies attract each other with a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#force"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; force">force</span></a>&nbsp;proportional to their&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#mass"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; mass">masses</span></a>.</dd>
+<dt id="gravitational_constant_(g)" class="glossary"><dfn class="glossary"><a title="Gravitational constant" href="https://en.wikipedia.org/wiki/Gravitational_constant">gravitational constant</a>&nbsp;(G)</dfn></dt>
+</dl>
+<p class="glossary-hatnote"><span class="hatnote navigation-not-searchable selfref">Also called the&nbsp;<strong>universal gravitational constant</strong>&nbsp;and&nbsp;<strong>Newton's constant</strong>.</span></p>
+<dl class="glossary">
+<dd class="glossary">A physical constant involved in the calculation of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#gravitation"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; gravitation">gravitational force</span></a>&nbsp;between two bodies.</dd>
+<dt id="gravitational_energy" class="glossary"><dfn class="glossary"><a title="Gravitational energy" href="https://en.wikipedia.org/wiki/Gravitational_energy">gravitational energy</a></dfn></dt>
+<dd class="glossary">The&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#potential_energy"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; potential energy">potential energy</span></a>&nbsp;associated with the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#gravitational_field"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; gravitational field">gravitational field</span></a>.</dd>
+<dt id="gravitational_field" class="glossary"><dfn class="glossary"><a title="Gravitational field" href="https://en.wikipedia.org/wiki/Gravitational_field">gravitational field</a></dfn></dt>
+<dd class="glossary">A model used to explain the influence that a massive body extends into the space around itself, producing a force on another massive body. Thus, a gravitational field is used to explain gravitational phenomena. It is measured in newtons per kilogram (N/kg).</dd>
+<dt id="gravitational_potential" class="glossary"><dfn class="glossary"><a title="Gravitational potential" href="https://en.wikipedia.org/wiki/Gravitational_potential">gravitational potential</a></dfn></dt>
+<dd class="glossary">The gravitational potential at a location is equal to the&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#work"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; work">work</span></a>&nbsp;(<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#energy"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; energy">energy</span></a>&nbsp;transferred) per unit&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#mass"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; mass">mass</span></a>&nbsp;that is done by the force of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#gravitation"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; gravitation">gravity</span></a>&nbsp;to move an object to a fixed reference location.</dd>
+<dt id="gravitational_wave" class="glossary"><dfn class="glossary"><a title="Gravitational wave" href="https://en.wikipedia.org/wiki/Gravitational_wave">gravitational wave</a></dfn></dt>
+<dd class="glossary">A ripple in the curvature of&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#spacetime"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; spacetime">spacetime</span></a>&nbsp;that propagates as a&nbsp;<a href="https://en.wikipedia.org/wiki/Glossary_of_physics#wave"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; wave">wave</span></a>&nbsp;and is generated in certain gravitational interactions, travelling outward from their source.</dd>
+<dt id="graviton" class="glossary"><dfn class="glossary"><a title="Graviton" href="https://en.wikipedia.org/wiki/Graviton">graviton</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="gravity" class="glossary"><dfn class="glossary"><a title="Gravity" href="https://en.wikipedia.org/wiki/Gravity">gravity</a></dfn></dt>
+<dd class="glossary">See&nbsp;<em><a href="https://en.wikipedia.org/wiki/Glossary_of_physics#gravitation"><span id="" class="glossary-link-internal" title="See entry on this page at &sect; gravitation">gravitation</span></a></em>.</dd>
+<dt id="ground" class="glossary"><dfn class="glossary"><a title="Ground (electricity)" href="https://en.wikipedia.org/wiki/Ground_(electricity)">ground</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="ground_reaction_force" class="glossary"><dfn class="glossary"><a title="Ground reaction force" href="https://en.wikipedia.org/wiki/Ground_reaction_force">ground reaction force</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="ground_state" class="glossary"><dfn class="glossary"><a title="Ground state" href="https://en.wikipedia.org/wiki/Ground_state">ground state</a></dfn></dt>
+<dd class="glossary"></dd>
+<dt id="group_velocity" class="glossary"><dfn class="glossary"><a title="Group velocity" href="https://en.wikipedia.org/wiki/Group_velocity">group velocity</a></dfn></dt>
+<dd class="glossary"></dd>
+</dl>
