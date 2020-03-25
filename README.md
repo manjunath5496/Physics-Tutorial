@@ -1957,7 +1957,7 @@ The Collected Papers of Albert Einstein, Vol.11</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(138).pdf" style="text-decoration:none;">"Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(139).pdf" style="text-decoration:none;">The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(140).pdf" style="text-decoration:none;">QED: The Strange Theory of Light and Matter  </a></li>
-
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(141).pdf" style="text-decoration:none;">A Dictionary of Physics </a></li>
 
 
 
