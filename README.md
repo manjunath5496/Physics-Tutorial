@@ -1824,7 +1824,7 @@ where:
  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(52).pdf" style="text-decoration:none;">Handbook of Metal Physics</a></li> 
 <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(53).pdf" style="text-decoration:none;">Solid-State Physics: Introduction to the Theory</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(54).pdf" style="text-decoration:none;">A Guide to Physics Problems: Part 2: Thermodynamics, Statistical Physics, and Quantum Mechanics</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(55).pdf" style="text-decoration:none;">Big data, artificial intelligence, machine learning and data protection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(55).pdf" style="text-decoration:none;">Ideas and Opinions</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(56).pdf" style="text-decoration:none;">Astronomy and Astrophysics in the New Millennium</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(57).pdf" style="text-decoration:none;">Physics Multiple Choice Questions Answers Fully Solved</a></li>
@@ -1890,31 +1890,31 @@ The Handy Physics Answer Book</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(93).pdf" style="text-decoration:none;">Physics for the IB Diploma</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(94).rar" style="text-decoration:none;">Glencoe Physics: Principles and Problems</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(95).pdf" style="text-decoration:none;">Multidimensional Particle Swarm Optimization for Machine Learning and Pattern Recognition</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(95).pdf" style="text-decoration:none;">A Universe from Nothing: Why There Is Something Rather than Nothing</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(96).pdf" style="text-decoration:none;">Neural Networks and Deep Learning</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(97).pdf" style="text-decoration:none;">Gaussian Processes for Machine Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(96).pdf" style="text-decoration:none;"> A Briefer History of Time</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(97).pdf" style="text-decoration:none;">Atom: An Odyssey from the Big Bang to Life on Earth ... and Beyond</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(98).pdf" style="text-decoration:none;">How Smart Machines Think</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(99).pdf" style="text-decoration:none;">Quantum Machine Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(98).pdf" style="text-decoration:none;">Atomic Theory And The Description Of Nature</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(99).pdf" style="text-decoration:none;">Black Holes and Baby Universes and Other Essays</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(100).pdf" style="text-decoration:none;">TensorFlow for Machine Intelligence</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(101).pdf" style="text-decoration:none;">A collection of Data Science Interview Questions Solved in Python and Spark</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(100).pdf" style="text-decoration:none;">Black Holes and Time Warps – Einstein's Outrageous Legacy</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(101).pdf" style="text-decoration:none;">Einstein and the Quantum: The Quest of the Valiant Swabian</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(102).pdf" style="text-decoration:none;">Real-World Machine Learning</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(103).pdf" style="text-decoration:none;">The Internet of things: do-it-yourself projects with Arduino, Raspberry Pi, and BeagleBone Black</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(102).pdf" style="text-decoration:none;">Einstein's Cosmos: How Albert Einstein's Vision Transformed Our Understanding of Space and Time</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(103).pdf" style="text-decoration:none;">Einstein's Dice and Schrödinger's Cat</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(104).pdf" style="text-decoration:none;">Machine Learning for Adaptive Many-Core Machines – A Practical Approach</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(105).pdf" style="text-decoration:none;">Natural Language Processing in Action</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(104).pdf" style="text-decoration:none;">Einstein's Miraculous Year: Five Papers That Changed the Face of Physics</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(105).pdf" style="text-decoration:none;">Fear of Physics: A Guide for the Perplexed</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(106).pdf" style="text-decoration:none;">Statistical Reinforcement Learning: Modern Machine Learning Approaches</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(107).pdf" style="text-decoration:none;">Unity 2017 Game AI Programming</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(106).pdf" style="text-decoration:none;">God's Equation: Einstein, Relativity, and the Expanding Universe</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(107).pdf" style="text-decoration:none;">Hawking on the Big Bang and Black Holes</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(108).pdf" style="text-decoration:none;">Building Machine Learning Projects with TensorFlow</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(108).pdf" style="text-decoration:none;">Hiding in the Mirror: The Quest for Alternate Realities, from Plato to String Theory (by way of Alicei n Wonderland, Einstein, and The Twilight Zone)</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(109).pdf" style="text-decoration:none;">Frontiers in Massive Data Analysis</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(110).pdf" style="text-decoration:none;">Machine Learning Yearning</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(111).pdf" style="text-decoration:none;">Advances in Soft Computing and Machine Learning in Image Processing</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(109).pdf" style="text-decoration:none;">How to Think Like Einstein: Simple Ways to Break the Rules and Discover Your Hidden Genius</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(110).pdf" style="text-decoration:none;">Hyperspace: A Scientific Odyssey Through Parallel Universes, Time Warps, And The Tenth Dimension</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(111).pdf" style="text-decoration:none;">The large scale structure of space-time</a></li>
 
 
 
