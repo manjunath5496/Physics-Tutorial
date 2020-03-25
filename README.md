@@ -1930,11 +1930,12 @@ The Handy Physics Answer Book</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(120).pdf" style="text-decoration:none;">The Born Einstein Letters </a></li>
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(121).pdf" style="text-decoration:none;">Quantum man: Richard Feynman's life in science</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(116).pdf" style="text-decoration:none;">Quantum: Einstein, Bohr, and the Great Debate about the Nature of Reality</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(117).pdf" style="text-decoration:none;">Relativity: The Special and General Theory</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(121).pdf" style="text-decoration:none;">
+The Collected Papers of Albert Einstein, Vol.11</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(122).pdf" style="text-decoration:none;">The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(123).pdf" style="text-decoration:none;">The Fabric of the Cosmos: Space, Time, and the Texture of Reality</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(118).pdf" style="text-decoration:none;">Six Not-So-Easy Pieces: Einstein's Relativity, Symmetry, and Space-Time</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(124).pdf" style="text-decoration:none;">Six Not-So-Easy Pieces: Einstein's Relativity, Symmetry, and Space-Time</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(119).pdf" style="text-decoration:none;">A Brief History of Time</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(120).pdf" style="text-decoration:none;">The Born Einstein Letters </a></li>
 
