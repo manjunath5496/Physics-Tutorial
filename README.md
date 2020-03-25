@@ -1801,24 +1801,24 @@ where:
  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(36).pdf" style="text-decoration:none;">Quantum Physics (UCSD Physics 130)</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(37).pdf" style="text-decoration:none;">Physics: NCERT Exemplar Problems and Solutions</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(38).pdf" style="text-decoration:none;">Machine Learning in Action</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(38).pdf" style="text-decoration:none;">Solutions to I E Irodov's Problems in General Physics, Vol.1</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(39).pdf" style="text-decoration:none;">Master Machine Learning Algorithms: Discover How They Work and Implement Them From Scratch</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(39).pdf" style="text-decoration:none;"> Schaum's Outline of Theory and Problems of College Physics</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(40).pdf" style="text-decoration:none;">Mastering Apache Spark 2.x</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(41).pdf" style="text-decoration:none;">AI for Data Science: Artificial Intelligence Frameworks and Functionality for Deep Learning, Optimization, and Beyond</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(42).pdf" style="text-decoration:none;">Mastering TensorFlow 1.x</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(40).pdf" style="text-decoration:none;">1000 Solved Problems in Modern Physics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(41).pdf" style="text-decoration:none;">Tensors for Physics</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(42).pdf" style="text-decoration:none;">Advanced Solid State Physics</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(43).pdf" style="text-decoration:none;">MATLAB Deep Learning: With Machine Learning, Neural Networks and Artificial Intelligence</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(44).pdf" style="text-decoration:none;">MATLAB Machine Learning</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(45).pdf" style="text-decoration:none;">Monetizing Machine Learning: Quickly Turn Python ML Ideas into Web Applications on the Serverless Cloud</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(43).pdf" style="text-decoration:none;">Solutions to I E Irodov's Problems in General Physics, Vol.2</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(44).pdf" style="text-decoration:none;"> Physics Olympiad: 1993 Multiple Choice Screening Test</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(45).pdf" style="text-decoration:none;">Quantum Physics For Dummies</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(46).pdf" style="text-decoration:none;">Practical Machine Learning and Image Processing For Facial Recognition, Object Detection, and Pattern Recognition Using Python</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(47).pdf" style="text-decoration:none;">Practical Machine Learning with H2O</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(48).pdf" style="text-decoration:none;">Practical Machine Learning with Python: A Problem-Solver's Guide to Building Real-World Intelligent Systems</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(46).pdf" style="text-decoration:none;">AP Physics C – Practice Workbook – Book 1, Mechanics</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(47).pdf" style="text-decoration:none;">O Level Physics Topical Revision Notes</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(48).pdf" style="text-decoration:none;">Physics and Engineering of Radiation Detection</a></li>  
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(49).pdf" style="text-decoration:none;">Python for Probability, Statistics, and Machine Learning</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(50).pdf" style="text-decoration:none;">Scala for Machine Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(49).pdf" style="text-decoration:none;">Physics Olympiad: Basic to Advanced Exercises</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(50).pdf" style="text-decoration:none;">Connecting Quarks with the Cosmos: Eleven Science Questions for the New Century</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(51).pdf" style="text-decoration:none;">Statistical and Machine-Learning Data Mining: Techniques for Better Predictive Modeling and Analysis of Big Data</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(52).pdf" style="text-decoration:none;">The Hundred-Page Machine Learning Book</a></li> 
