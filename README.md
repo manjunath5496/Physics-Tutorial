@@ -1884,12 +1884,12 @@ The Handy Physics Answer Book</a></li>
 
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(90).pdf" style="text-decoration:none;">AP Physics 2 – Practice Workbook – Book 2: Electricity, Magnetism, Fluids, Thermodynamics, Optics and Modern Physics</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(91).pdf" style="text-decoration:none;">Machine Learning Mastery With Python: Understand Your Data, Create Accurate Models and Work Projects End-To-End</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(91).pdf" style="text-decoration:none;">Schaum's Outline of Theory and Problems of Applied Physics</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(92).pdf" style="text-decoration:none;">Machine Learning with AWS</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(93).pdf" style="text-decoration:none;">Machine Learning: A Practical Approach on the Statistical Learning Theory</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(92).pdf" style="text-decoration:none;">Group Theory In Physics</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(93).pdf" style="text-decoration:none;">Physics for the IB Diploma</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(94).pdf" style="text-decoration:none;">Mathematical Methodologies in Pattern Recognition and Machine Learning</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(94).rar" style="text-decoration:none;">Glencoe Physics: Principles and Problems</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(95).pdf" style="text-decoration:none;">Multidimensional Particle Swarm Optimization for Machine Learning and Pattern Recognition</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(96).pdf" style="text-decoration:none;">Neural Networks and Deep Learning</a></li>                              
