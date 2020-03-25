@@ -1935,11 +1935,20 @@ The Collected Papers of Albert Einstein, Vol.11</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(122).pdf" style="text-decoration:none;">The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(123).pdf" style="text-decoration:none;">The Fabric of the Cosmos: Space, Time, and the Texture of Reality</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(124).pdf" style="text-decoration:none;">Six Not-So-Easy Pieces: Einstein's Relativity, Symmetry, and Space-Time</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(119).pdf" style="text-decoration:none;">A Brief History of Time</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(120).pdf" style="text-decoration:none;">The Born Einstein Letters </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(124).pdf" style="text-decoration:none;">The Future of the Mind: The Scientific Quest to Understand, Enhance, and Empower the Mind</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(125).pdf" style="text-decoration:none;">The Grand Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(126).pdf" style="text-decoration:none;">The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos </a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(127).pdf" style="text-decoration:none;">The Nature of Space and Time</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(128).pdf" style="text-decoration:none;">The Quantum Moment: How Planck, Bohr, Einstein, and Heisenberg Taught Us to Love Uncertainty</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(129).pdf" style="text-decoration:none;">The Road to Reality: A Complete Guide to the Laws of the Universe </a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(130).pdf" style="text-decoration:none;">The Theory of Everything</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(131).pdf" style="text-decoration:none;">The Ultimate Quotable Einstein </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(132).pdf" style="text-decoration:none;">The Universe in a Nutshell</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(133).pdf" style="text-decoration:none;">The World As I See It</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(134).pdf" style="text-decoration:none;">Uncertainty: Einstein, Heisenberg, Bohr, and the Struggle for the Soul of Science </a></li>
 
 
 
