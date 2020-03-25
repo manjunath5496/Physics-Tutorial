@@ -1950,6 +1950,15 @@ The Collected Papers of Albert Einstein, Vol.11</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(133).pdf" style="text-decoration:none;">The World As I See It</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(134).pdf" style="text-decoration:none;">Uncertainty: Einstein, Heisenberg, Bohr, and the Struggle for the Soul of Science </a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(135).pdf" style="text-decoration:none;">Feynman Integral Calculus</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(136).pdf" style="text-decoration:none;">Perfectly Reasonable Deviations from the Beaten Track</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(137).pdf" style="text-decoration:none;">Feynman Lectures on Computation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(138).pdf" style="text-decoration:none;">"Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(139).pdf" style="text-decoration:none;">The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(140).pdf" style="text-decoration:none;">QED: The Strange Theory of Light and Matter  </a></li>
+
+
 
 
 </ul>
