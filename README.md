@@ -1883,6 +1883,39 @@ The Handy Physics Answer Book</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(89).pdf" style="text-decoration:none;">Science for Ninth Class (Part – 1) Physics</a></li>
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(90).pdf" style="text-decoration:none;">AP Physics 2 – Practice Workbook – Book 2: Electricity, Magnetism, Fluids, Thermodynamics, Optics and Modern Physics</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(91).pdf" style="text-decoration:none;">Machine Learning Mastery With Python: Understand Your Data, Create Accurate Models and Work Projects End-To-End</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(92).pdf" style="text-decoration:none;">Machine Learning with AWS</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(93).pdf" style="text-decoration:none;">Machine Learning: A Practical Approach on the Statistical Learning Theory</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(94).pdf" style="text-decoration:none;">Mathematical Methodologies in Pattern Recognition and Machine Learning</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(95).pdf" style="text-decoration:none;">Multidimensional Particle Swarm Optimization for Machine Learning and Pattern Recognition</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(96).pdf" style="text-decoration:none;">Neural Networks and Deep Learning</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(97).pdf" style="text-decoration:none;">Gaussian Processes for Machine Learning</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(98).pdf" style="text-decoration:none;">How Smart Machines Think</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(99).pdf" style="text-decoration:none;">Quantum Machine Learning</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(100).pdf" style="text-decoration:none;">TensorFlow for Machine Intelligence</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(101).pdf" style="text-decoration:none;">A collection of Data Science Interview Questions Solved in Python and Spark</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(102).pdf" style="text-decoration:none;">Real-World Machine Learning</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(103).pdf" style="text-decoration:none;">The Internet of things: do-it-yourself projects with Arduino, Raspberry Pi, and BeagleBone Black</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(104).pdf" style="text-decoration:none;">Machine Learning for Adaptive Many-Core Machines – A Practical Approach</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(105).pdf" style="text-decoration:none;">Natural Language Processing in Action</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(106).pdf" style="text-decoration:none;">Statistical Reinforcement Learning: Modern Machine Learning Approaches</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(107).pdf" style="text-decoration:none;">Unity 2017 Game AI Programming</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(108).pdf" style="text-decoration:none;">Building Machine Learning Projects with TensorFlow</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(109).pdf" style="text-decoration:none;">Frontiers in Massive Data Analysis</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(110).pdf" style="text-decoration:none;">Machine Learning Yearning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/pyh(111).pdf" style="text-decoration:none;">Advances in Soft Computing and Machine Learning in Image Processing</a></li>
+
 
 
 
