@@ -1967,7 +1967,7 @@ The Collected Papers of Albert Einstein, Vol.11</a></li>
 
 </br>
 
-<h2 id ="Physicists">20 Physicists Who Revolutionised Our Understanding of The World </h2>
+<h2 id ="Physicists">20 Physicists Who Revolutionised Our Understanding of The World </h2></br>
 
 <p><strong>[1] <a href="https://en.wikipedia.org/wiki/Galileo_Galilei">Galileo Galilei</a></strong></p>
 <p>Birth: Feb. 15, 1564, Pisa [Italy]</p>
