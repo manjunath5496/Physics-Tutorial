@@ -1735,7 +1735,10 @@ where:
 <dd class="glossary">The effect of splitting a spectral line into several components in the presence of a static magnetic field by the lifting of degeneracy in electronic states.</dd>
 </dl>
 </br>
-
+<ul>
+<li><a href="https://manjunath5496.github.io/physics-quiz/index.html">Physics Quiz</a></li>
+</ul>
+</br>
 <h2 id ="Books">Books </h2>
 <ul>
 
