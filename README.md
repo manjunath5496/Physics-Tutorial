@@ -1974,6 +1974,23 @@ The Collected Papers of Albert Einstein, Vol.11</a></li>
 <p>Death: Jan. 8, 1642, Arcetri, near Florence</p>
 <p>Known for: the New Science</p>
 <p><strong>&nbsp;</strong></p>
+
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(128).pdf">Two New Sciences</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(129).pdf">Discoveries and opinions of Galileo</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(130).pdf">Delphi Collected Works of Galileo Galilei</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(131).pdf">Dialogue Concerning the Two Chief World Systems</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(132).pdf">The Assayer</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(133).pdf">On Sunspots</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(134).pdf">The Sidereal Messenger</a></li>
+</ul>
+
+</br>
+
+
+
 <p><strong>[2] <a href="https://en.wikipedia.org/wiki/Isaac_Newton">Sir Isaac Newton</a></strong></p>
 <p>Birth: Dec. 25, 1642 [Jan. 4, 1643, New Style], Woolsthorpe, Lincolnshire, England</p>
 <p>Death: March 20 [March 31], 1727, London</p>
