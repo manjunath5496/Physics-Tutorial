@@ -9,6 +9,8 @@
  <li class="toclevel-1 tocsection-3"><a href="#General_concepts_of_physics"><span class="toctext">General concepts of physics</span></a></li> 
   <li class="toclevel-1 tocsection-4"><a href="#Glossary of physics"><span class="toctext">Glossary of physics</span></a></li>
    <li class="toclevel-1 tocsection-5"><a href="#Books"><span class="toctext">Books</span></a></li>
+  <li class="toclevel-1 tocsection-6"><a href="#Physicists"><span class="toctext">20 Physicists Who Revolutionised Our Understanding of The World</span></a></li>
+ 
 </ul>
 </br>
 <h2><span id="What_type_of_subject_is_physics?" class="mw-headline">What&nbsp;type&nbsp;of subject is physics?</span></h2>
@@ -1965,7 +1967,7 @@ The Collected Papers of Albert Einstein, Vol.11</a></li>
 
 </br>
 
-
+<h2 id ="Physicists">20 Physicists Who Revolutionised Our Understanding of The World </h2>
 
 
 
