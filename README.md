@@ -2053,31 +2053,101 @@ The Collected Papers of Albert Einstein, Vol.11</a></li>
 <p>Death: July 4, 1934, near Sallanches, France</p>
 <p>Known for: Radioactivity</p>
 <p>&nbsp;</p>
+
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(244).pdf">Radium and the New Concepts in Chemistry [Nobel Lecture]</a></li>
+</ul>
+
+</br>
 <p><strong>[7]<a href="https://en.wikipedia.org/wiki/J._J._Thomson"> Joseph J. Thomson</a></strong></p>
 <p>Birth: December 18, 1856, Cheetham Hill, Manchester, Lancashire, England, United Kingdom</p>
 <p>Death: August 30, 1940, Cambridge, Cambridgeshire, England, UK</p>
 <p>Known for: the Discovery of the Electron</p>
 <p>&nbsp;</p>
+
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(260).pdf">Applications of dynamics to physics and chemistry</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(261).rar">Conduction of electricity through gases</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(262).pdf">The Corpuscular Theory of Matter</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(263).pdf">Electricity and Matter</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(264).pdf">Elements of the Mathematical Theory of Electricity and Magnetism</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(265).pdf">On the Light Thrown by Recent Investigations on Electricity on the Relation Between Matter and Ether</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(266).pdf">Rays of Positive Electricity and their Application to Chemical Analysis</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(267).pdf">A Text-Book of Physics</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(268).pdf">Carriers of negative electricity [Nobel Lecture]</a></li>
+</ul>
+</br>
+
 <p><strong>[8] <a href="https://en.wikipedia.org/wiki/Max_Planck">Max Planck</a></strong></p>
 <p>Birth: April 23, 1858, Kiel, Schleswig [Germany]</p>
 <p>Death: Oct. 4, 1947, G&ouml;ttingen, West Germany</p>
 <p>Known for: the Quanta</p>
 <p>&nbsp;</p>
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(15).pdf">Scientific Autobiography and other papers</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(16).pdf">Treatise on Thermodynamics</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(17).pdf">Eight lectures on theoretical physics, delivered at Columbia University in 1909</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(18).pdf">The Philosophy of Physics</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(19).pdf">The Universe In The Light Of Modern Physics</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(20).pdf">Where Is Science Going?</a></li>
+</ul>
+</br>
+
 <p><strong>[9] <a href="https://en.wikipedia.org/wiki/Albert_Einstein">Albert Einstein</a></strong></p>
 <p>Birth: March 14, 1879, Ulm, Wurttemberg, Germany</p>
 <p>Death: April 18, 1955, Princeton, N.J., U.S.</p>
 <p>Known for: Twentieth-Century Science</p>
 <p>&nbsp;</p>
+
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(5).pdf">The Meaning of Relativity</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(6).pdf">The Evolution of Physics</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(7).pdf">Ideas and Opinions</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(8).pdf">The World as I See It</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(9).pdf">Out of My Later Years: The Scientist, Philosopher and Man Portrayed Through His Own Words</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(10).pdf">Relativity: The Special and the General Theory</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(11).pdf">On the electrodynamics of moving bodies</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(12).pdf">The Collected Papers of Albert Einstein</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(212).pdf">Fundamental ideas and problems of the theory of relativity [Nobel Lecture]</a></li>
+</ul>
+</br>
+
 <p><strong>[10] <a href="https://en.wikipedia.org/wiki/Ernest_Rutherford">Ernest Rutherford</a></strong></p>
 <p>Birth: Aug. 30, 1871, Spring Grove, N.Z.</p>
 <p>Death: Oct. 19, 1937, Cambridge, Cambridgeshire, England</p>
 <p>Known for: the Structure of the Atom</p>
 <p>&nbsp;</p>
+
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(144).pdf">Radiations from Radioactive Substances</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(145).pdf">Radioactive substances and their radiations</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(146).pdf">Radioactive Transformations</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(229).pdf">The Chemical Nature of the Alpha Particles from Radioactive Substances [Nobel Lecture]</a></li>
+</ul>
+</br>
 <p><strong>[11] <a href="https://en.wikipedia.org/wiki/Niels_Bohr">Niels Bohr</a></strong></p>
 <p>Birth: Oct. 7, 1885, Copenhagen, Denmark</p>
 <p>Death: Nov. 18, 1962, Copenhagen</p>
 <p>Known for: the Atom</p>
 <p>&nbsp;</p>
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(13).pdf">The Theory of Spectra and Atomic Constitution</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(14).pdf">Atomic Physics and Human Knowledge</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(213).pdf">The structure of the atom [Nobel Lecture]</a></li>
+</ul>
+</br>
 <p><strong>[12] <a href="https://en.wikipedia.org/wiki/Wolfgang_Pauli">Wolfgang Pauli</a></strong></p>
 <p>Birth: 25 April 1900, Vienna, Austria-Hungary</p>
 <p>Death: 15 December 1958 (aged 58), Zurich, Switzerland</p>
@@ -2088,31 +2158,103 @@ The Collected Papers of Albert Einstein, Vol.11</a></li>
 <p>Death: Jan. 4, 1961, Vienna</p>
 <p>Known for: Wave Mechanics</p>
 <p>&nbsp;</p>
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(222).pdf">Collected Papers on Wave Mechanics</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(223).pdf">Statistical Thermodynamics</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(224).pdf">Expanding Universes</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(225).pdf">My View of the World</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(226).pdf">Space-Time Structure</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(227).pdf">WHAT IS LIFE?</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(228).pdf">The fundamental idea of wave mechanics [Nobel Lecture]</a></li>
+</ul>
+</br>
 <p><strong>[14] <a href="https://en.wikipedia.org/wiki/Paul_Dirac">Paul Adrien Maurice Dirac</a></strong></p>
 <p>Birth: Aug. 8, 1902, Bristol, Gloucestershire, England</p>
 <p>Death: Oct. 20, 1984, Tallahassee, Florida, USA</p>
 <p>Known for: Quantum Electrodynamics</p>
 <p>&nbsp;</p>
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(233).pdf">Lectures on Quantum Mechanics</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(234).pdf">The Quantum Theory of the Electron</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(235).pdf">Theory of electrons and positrons [Nobel Lecture]</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(236).pdf">General Theory of Relativity</a></li>
+</ul>
+</br>
+
 <p><strong>[15] <a href="https://en.wikipedia.org/wiki/Werner_Heisenberg">Werner Heisenberg</a></strong></p>
 <p>Birth: December, 1901, W&uuml;rzburg, Bavaria, German Empire</p>
 <p>Death: 1 February 1976, Munich, Bavaria, West Germany</p>
 <p>Known for: Quantum Theory</p>
 <p>&nbsp;</p>
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(102).pdf">Physics and Beyond: Encounters and Conversations</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(103).pdf">Physics and Philosophy: The Revolution in Modern Science</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(104).pdf">Science and Synthesis: An International Colloquium organized by Unesco on the Tenth Anniversary of the Death of Albert Einstein and Teilhard de Chardin</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(105).pdf">The Physical Principles of the Quantum Theory</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(106).pdf">On Modern Physics</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(107).pdf">Philosophic Problems of Nuclear Science</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(220).pdf">The development of quantum mechanics [Nobel Lecture]</a></li>
+</ul>
+</br>
 <p><strong>[16] <a href="https://en.wikipedia.org/wiki/Enrico_Fermi">Enrico Fermi</a></strong></p>
 <p>Birth: Sept. 29, 1901, Rome, Italy</p>
 <p>Death: Nov. 28, 1954, Chicago, Ill., U.S.</p>
 <p>Known for: Statistical mechanics</p>
 <p>&nbsp;</p>
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(277).pdf">Elementary Particles</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(273).pdf">Artificial radioactivity produced by neutron bombardment [Nobel Lecture]</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(274).pdf">Molecules, crystals, and quantum statistics</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(275).pdf">Nuclear Physics: A Course Given by Enrico Fermi at the University of Chicago</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(276).pdf">Thermodynamics</a></li>
+</ul>
+</br>
 <p><strong>[17] <a href="https://en.wikipedia.org/wiki/J._Robert_Oppenheimer">J. Robert Oppenheimer</a></strong></p>
 <p>Birth: April 22, 1904, New York, N.Y., U.S.</p>
 <p>Death: Feb. 18, 1967, Princeton, N.J.</p>
 <p>Known for: the Atomic Era</p>
 <p>&nbsp;</p>
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(190).pdf">Science and Synthesis</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(191).pdf">Science and the Common Understanding</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(192).pdf">Atom and Void: Essays on Science and Community</a></li>
+</ul>
+
+</br>
 <p><strong>[18] <a href="https://en.wikipedia.org/wiki/Richard_Feynman">Richard P. Feynman</a></strong></p>
 <p>Birth: May 11, 1918, New York, N.Y., U.S.</p>
 <p>Death: Feb. 15, 1988, Los Angeles, California</p>
 <p>Known for: Quantum Electrodynamics</p>
 <p>&nbsp;</p>
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(28).pdf">Feynman Lectures On Computation</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(29).pdf">The Feynman Lectures on Physics, Volume III</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(30).pdf">Feynman's Tips on Physics: A Problem-solving Supplement to the Feynman Lectures on Physics</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(31).pdf">Perfectly Reasonable Deviations from the Beaten Track</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(32).pdf">QED: The Strange Theory of Light and Matter</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(33).pdf">Quantum Mechanics and Path Integrals</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(34).pdf">Six Not-So-Easy Pieces: Einstein's Relativity, Symmetry, and Space-Time</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(35).pdf">Statistical Mechanics: A Set Of Lectures</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(36).pdf">Surely you're Joking Mr Feynman: Adventures of a Curious Character</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(37).pdf">The Feynman Lectures on Physics, Volume I</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(38).pdf">The Meaning of It All</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(39).pdf">The Pleasure of Finding Things Out</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(40).pdf">What Do You Care What Other People Think?</a></li>
+</ul>
+</br>
+
 <p><strong>[19] <a href="https://en.wikipedia.org/wiki/Murray_Gell-Mann">Murray Gell-Mann</a></strong></p>
 <p>Birth: September 15, 1929, Manhattan, New York City, U.S.</p>
 <p>Death: May 24, 2019 (aged 89), Santa Fe, New Mexico, U.S.</p>
