@@ -2311,4 +2311,23 @@ The Collected Papers of Albert Einstein, Vol.11</a></li>
 <p>Known for: Galaxy rotation problem, dark matter, Rubin&ndash;Ford effect</p>
 <p>&nbsp;</p>
 
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/tst(398).pdf">Rotation Curves of Spiral Galaxies </a></li>
+<li><a href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/tst(399).pdf">Dark Matter in the Universe</a></li>
+
+ 
+ 
+ 
+ 
+ 
+</ul>
+</br>
+
+
+
+
+
+
 
