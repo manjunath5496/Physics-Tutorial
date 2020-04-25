@@ -2157,15 +2157,15 @@ The Collected Papers of Albert Einstein, Vol.11</a></li>
 <p><strong>Publications:</strong></p>
 <hr />
 <ul>
-<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(387).pdf">Thermodynamics and the Kinetic Theory of Gases: Volume 3 </a></li>
-<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(388).pdf">General Principles of Quantum Mechanics</a></li>
-<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(389).pdf">Meson Theory Of Nuclear Forces</a></li>
+<li><a href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/tst(387).pdf">Thermodynamics and the Kinetic Theory of Gases: Volume 3 </a></li>
+<li><a href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/tst(388).pdf">General Principles of Quantum Mechanics</a></li>
+<li><a href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/tst(389).pdf">Meson Theory Of Nuclear Forces</a></li>
  
- <li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(390).pdf">Exclusion principle and quantum mechanics [Nobel Lecture]</a></li>
-<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(391).pdf">Physical Chemistry in the Service of Medicine</a></li>
-<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(392).pdf">Theory Of Relativity</a></li>
+ <li><a href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/tst(390).pdf">Exclusion principle and quantum mechanics [Nobel Lecture]</a></li>
+<li><a href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/tst(391).pdf">Physical Chemistry in the Service of Medicine</a></li>
+<li><a href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/tst(392).pdf">Theory Of Relativity</a></li>
  
- <li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(393).pdf">Writings on Physics and Philosophy</a></li>
+ <li><a href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/tst(393).pdf">Writings on Physics and Philosophy</a></li>
  
  
  
