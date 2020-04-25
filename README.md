@@ -2032,6 +2032,17 @@ The Collected Papers of Albert Einstein, Vol.11</a></li>
 <p>Death: Nov. 5, 1879, Cambridge, Cambridgeshire, England</p>
 <p>Known for: the Electromagnetic Field</p>
 <p>&nbsp;</p>
+
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(88).pdf">Matter and Motion</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(89).pdf">A Treatise on Electricity and Magnetism</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(90).pdf">A Dynamical Theory of the Electromagnetic Field</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(91).pdf">Theory of Heat</a></li>
+</ul>
+</br>
+
 <p><strong>[5] <a href="https://en.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen">Wilhelm R&ouml;ntgen</a></strong></p>
 <p>Birth: 27 March 1845, Lennep, Prussia, German Confederation</p>
 <p>Death: 10 February 1923 (aged 77), Munich, Bavaria, Germany</p>
