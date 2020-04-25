@@ -1996,6 +1996,16 @@ The Collected Papers of Albert Einstein, Vol.11</a></li>
 <p>Death: March 20 [March 31], 1727, London</p>
 <p>Known for: the Newtonian Revolution</p>
 <p>&nbsp;</p>
+
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(1).pdf">The method of fluxions and infinite series : with its application to the geometry of curve-lines</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(2).pdf">A new theory of light and colours</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(3).rar">Opticks: or, A Treatise of the Reflexions, Refractions, Inflexions and Colours of Light</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(4).pdf">The Principia: Mathematical Principles of Natural Philosophy</a></li>
+</ul>
+</br>
 <p><strong>[3] <a href="https://en.wikipedia.org/wiki/Michael_Faraday">Michael Faraday</a></strong></p>
 <p>Birth: Sept. 22, 1791, Newington, Surrey, England</p>
 <p>Death: Aug. 25, 1867, Hampton Court</p>
