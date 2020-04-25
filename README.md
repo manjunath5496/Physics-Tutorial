@@ -2289,6 +2289,22 @@ The Collected Papers of Albert Einstein, Vol.11</a></li>
 <p>Death: May 24, 2019 (aged 89), Santa Fe, New Mexico, U.S.</p>
 <p>Known for: Quark Hypothesis</p>
 <p>&nbsp;</p>
+
+
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/tst(394).pdf">50 Years of Quarks</a></li>
+<li><a href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/tst(395).pdf">Interview with Murray Gell-Mann</a></li>
+<li><a href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/tst(396).pdf">The Eightfold Way</a></li>
+ 
+ <li><a href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/tst(397).pdf">The Quark and the Jaguar: Adventures in the Simple and the Complex</a></li>
+
+</ul>
+</br>
+
+
+
 <p><strong>[20] <a href="https://en.wikipedia.org/wiki/Vera_Rubin">Vera Rubin</a></strong></p>
 <p>Birth: July 23, 1928, Philadelphia, Pennsylvania.</p>
 <p>Death: December 25, 2016 (aged 88), Princeton, New Jersey</p>
