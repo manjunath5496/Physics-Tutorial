@@ -1969,6 +1969,105 @@ The Collected Papers of Albert Einstein, Vol.11</a></li>
 
 <h2 id ="Physicists">20 Physicists Who Revolutionised Our Understanding of The World </h2>
 
-
+<p><strong>[1] <a href="https://en.wikipedia.org/wiki/Galileo_Galilei">Galileo Galilei</a></strong></p>
+<p>Birth: Feb. 15, 1564, Pisa [Italy]</p>
+<p>Death: Jan. 8, 1642, Arcetri, near Florence</p>
+<p>Known for: the New Science</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>[2] <a href="https://en.wikipedia.org/wiki/Isaac_Newton">Sir Isaac Newton</a></strong></p>
+<p>Birth: Dec. 25, 1642 [Jan. 4, 1643, New Style], Woolsthorpe, Lincolnshire, England</p>
+<p>Death: March 20 [March 31], 1727, London</p>
+<p>Known for: the Newtonian Revolution</p>
+<p>&nbsp;</p>
+<p><strong>[3] <a href="https://en.wikipedia.org/wiki/Michael_Faraday">Michael Faraday</a></strong></p>
+<p>Birth: Sept. 22, 1791, Newington, Surrey, England</p>
+<p>Death: Aug. 25, 1867, Hampton Court</p>
+<p>Known for: the Classical Field Theory</p>
+<p>&nbsp;</p>
+<p><strong><br /> <strong>[4] <a href="https://en.wikipedia.org/wiki/James_Clerk_Maxwell">James Clerk Maxwell</a></strong></strong></p>
+<p>Birth: June 13, 1831, Edinburgh, Scotland</p>
+<p>Death: Nov. 5, 1879, Cambridge, Cambridgeshire, England</p>
+<p>Known for: the Electromagnetic Field</p>
+<p>&nbsp;</p>
+<p><strong>[5] <a href="https://en.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen">Wilhelm R&ouml;ntgen</a></strong></p>
+<p>Birth: 27 March 1845, Lennep, Prussia, German Confederation</p>
+<p>Death: 10 February 1923 (aged 77), Munich, Bavaria, Germany</p>
+<p>Known for: Discovery of X-rays</p>
+<p>&nbsp;</p>
+<p><strong>[6] <a href="https://en.wikipedia.org/wiki/Marie_Curie">Marie Curie</a></strong></p>
+<p>Birth: Nov. 7, 1867, Warsaw, Poland, Russian Empire</p>
+<p>Death: July 4, 1934, near Sallanches, France</p>
+<p>Known for: Radioactivity</p>
+<p>&nbsp;</p>
+<p><strong>[7]<a href="https://en.wikipedia.org/wiki/J._J._Thomson"> Joseph J. Thomson</a></strong></p>
+<p>Birth: December 18, 1856, Cheetham Hill, Manchester, Lancashire, England, United Kingdom</p>
+<p>Death: August 30, 1940, Cambridge, Cambridgeshire, England, UK</p>
+<p>Known for: the Discovery of the Electron</p>
+<p>&nbsp;</p>
+<p><strong>[8] <a href="https://en.wikipedia.org/wiki/Max_Planck">Max Planck</a></strong></p>
+<p>Birth: April 23, 1858, Kiel, Schleswig [Germany]</p>
+<p>Death: Oct. 4, 1947, G&ouml;ttingen, West Germany</p>
+<p>Known for: the Quanta</p>
+<p>&nbsp;</p>
+<p><strong>[9] <a href="https://en.wikipedia.org/wiki/Albert_Einstein">Albert Einstein</a></strong></p>
+<p>Birth: March 14, 1879, Ulm, Wurttemberg, Germany</p>
+<p>Death: April 18, 1955, Princeton, N.J., U.S.</p>
+<p>Known for: Twentieth-Century Science</p>
+<p>&nbsp;</p>
+<p><strong>[10] <a href="https://en.wikipedia.org/wiki/Ernest_Rutherford">Ernest Rutherford</a></strong></p>
+<p>Birth: Aug. 30, 1871, Spring Grove, N.Z.</p>
+<p>Death: Oct. 19, 1937, Cambridge, Cambridgeshire, England</p>
+<p>Known for: the Structure of the Atom</p>
+<p>&nbsp;</p>
+<p><strong>[11] <a href="https://en.wikipedia.org/wiki/Niels_Bohr">Niels Bohr</a></strong></p>
+<p>Birth: Oct. 7, 1885, Copenhagen, Denmark</p>
+<p>Death: Nov. 18, 1962, Copenhagen</p>
+<p>Known for: the Atom</p>
+<p>&nbsp;</p>
+<p><strong>[12] <a href="https://en.wikipedia.org/wiki/Wolfgang_Pauli">Wolfgang Pauli</a></strong></p>
+<p>Birth: 25 April 1900, Vienna, Austria-Hungary</p>
+<p>Death: 15 December 1958 (aged 58), Zurich, Switzerland</p>
+<p>Known for: the work on spin theory and quantum theory, as well as his discovery of the 1925 Pauli exclusion principle.</p>
+<p>&nbsp;</p>
+<p><strong>[13] <a href="https://en.wikipedia.org/wiki/Erwin_Schrodinger">Erwin Schrodinger</a></strong></p>
+<p>Birth: Aug. 12, 1887, Vienna, Austria</p>
+<p>Death: Jan. 4, 1961, Vienna</p>
+<p>Known for: Wave Mechanics</p>
+<p>&nbsp;</p>
+<p><strong>[14] <a href="https://en.wikipedia.org/wiki/Paul_Dirac">Paul Adrien Maurice Dirac</a></strong></p>
+<p>Birth: Aug. 8, 1902, Bristol, Gloucestershire, England</p>
+<p>Death: Oct. 20, 1984, Tallahassee, Florida, USA</p>
+<p>Known for: Quantum Electrodynamics</p>
+<p>&nbsp;</p>
+<p><strong>[15] <a href="https://en.wikipedia.org/wiki/Werner_Heisenberg">Werner Heisenberg</a></strong></p>
+<p>Birth: December, 1901, W&uuml;rzburg, Bavaria, German Empire</p>
+<p>Death: 1 February 1976, Munich, Bavaria, West Germany</p>
+<p>Known for: Quantum Theory</p>
+<p>&nbsp;</p>
+<p><strong>[16] <a href="https://en.wikipedia.org/wiki/Enrico_Fermi">Enrico Fermi</a></strong></p>
+<p>Birth: Sept. 29, 1901, Rome, Italy</p>
+<p>Death: Nov. 28, 1954, Chicago, Ill., U.S.</p>
+<p>Known for: Statistical mechanics</p>
+<p>&nbsp;</p>
+<p><strong>[17] <a href="https://en.wikipedia.org/wiki/J._Robert_Oppenheimer">J. Robert Oppenheimer</a></strong></p>
+<p>Birth: April 22, 1904, New York, N.Y., U.S.</p>
+<p>Death: Feb. 18, 1967, Princeton, N.J.</p>
+<p>Known for: the Atomic Era</p>
+<p>&nbsp;</p>
+<p><strong>[18] <a href="https://en.wikipedia.org/wiki/Richard_Feynman">Richard P. Feynman</a></strong></p>
+<p>Birth: May 11, 1918, New York, N.Y., U.S.</p>
+<p>Death: Feb. 15, 1988, Los Angeles, California</p>
+<p>Known for: Quantum Electrodynamics</p>
+<p>&nbsp;</p>
+<p><strong>[19] <a href="https://en.wikipedia.org/wiki/Murray_Gell-Mann">Murray Gell-Mann</a></strong></p>
+<p>Birth: September 15, 1929, Manhattan, New York City, U.S.</p>
+<p>Death: May 24, 2019 (aged 89), Santa Fe, New Mexico, U.S.</p>
+<p>Known for: Quark Hypothesis</p>
+<p>&nbsp;</p>
+<p><strong>[20] <a href="https://en.wikipedia.org/wiki/Vera_Rubin">Vera Rubin</a></strong></p>
+<p>Birth: July 23, 1928, Philadelphia, Pennsylvania.</p>
+<p>Death: December 25, 2016 (aged 88), Princeton, New Jersey</p>
+<p>Known for: Galaxy rotation problem, dark matter, Rubin&ndash;Ford effect</p>
+<p>&nbsp;</p>
 
 
