@@ -1610,7 +1610,7 @@
 </tbody>
 </table>
 </br>
-<p><strong><span id="parent-fieldname-title" class="">Assignments:</span></strong></p>
+<p><strong><span id="parent-fieldname-title" class="">Assignments: problem sets (no solutions)</span></strong></p>
 <ul>
 <li>Problem Set 1 (<a href="ps1.pdf">PDF</a>)</li>
 <li>Problem Set 2 (<a href="ps2.pdf">PDF</a>)</li>
