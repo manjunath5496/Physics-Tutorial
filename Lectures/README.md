@@ -336,3 +336,40 @@
 </table>
 </br>
 <p>The full course notes are also available for <a href="MIT8_01F16_TableOfContents.pdf">download (PDF - 12.4MB)</a>.</p>
+</br>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">REVIEW&nbsp;PROBLEMS</th>
+<th scope="col">PRACTICE&nbsp;EXAMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>&nbsp;</td>
+<td>(<a href="1pract.pdf">PDF</a>)</td>
+<td>(<a href="1pract_sols.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>(<a href="text_probs2.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2pract.pdf">PDF</a>)</td>
+<td>(<a href="2pract_sols.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>(<a href="text_probs3.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3pract.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="pr3sols2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>(<a href="text_probs_final.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="final_pract.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="final_pract_sol.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
