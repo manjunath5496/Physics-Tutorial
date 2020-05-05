@@ -37,6 +37,7 @@
     <li class="title"><a href="#course36">Statistical Mechanics II: Statistical Physics of Fields</a></li>
      <li class="title"><a href="#course37">Quantum Information Science</a></li>
     <li class="title"><a href="#course38">Astrophysics II</a></li>
+ <li class="title"><a href="#course39">Applied Geometric Algebra</a></li>
 </ul>
 </br>
 
@@ -3696,5 +3697,10 @@
 </tr>
 </tbody>
 </table>
+</br>
+
+<h2 id ="course39">Applied Geometric Algebra </h2>
+
+<p>The complete set of lecture notes is also available as a single file. (<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MITRES_8_001_lec_complete.pdf">PDF - 2.7MB</a>)</p>
 </br>
 
