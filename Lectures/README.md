@@ -1609,4 +1609,17 @@
 </tr>
 </tbody>
 </table>
-
+</br>
+<p><strong><span id="parent-fieldname-title" class="">Assignments:</span></strong></p>
+<p>&nbsp;</p>
+<ul>
+<li>Problem Set 1 (<a href="ps1.pdf">PDF</a>)</li>
+<li>Problem Set 2 (<a href="ps2.pdf">PDF</a>)</li>
+<li>Problem Set 3 (<a href="ps3.pdf">PDF</a>)</li>
+<li>Problem Set 4 (<a href="ps4.pdf">PDF</a>)</li>
+<li>Problem Set 5 (<a href="ps5.pdf">PDF</a>)</li>
+<li>Problem Set 6 (<a href="ps6.pdf">PDF</a>)</li>
+<li>Problem Set 7 (<a href="ps7.pdf">PDF</a>)</li>
+<li>Problem Set 8 (<a href="ps8.pdf">PDF</a>)</li>
+<li>Problem Set 9 (<a href="ps9.pdf">PDF</a>)</li>
+</ul>
