@@ -32,6 +32,7 @@
    <li class="title"><a href="#course31">Introduction to Plasma Physics I</a></li>
     <li class="title"><a href="#course32">Relativistic Quantum Field Theory I</a></li>
      <li class="title"><a href="#course33">Relativistic Quantum Field Theory II</a></li>
+      <li class="title"><a href="#course34">Relativistic Quantum Field Theory III</a></li>
 </ul>
 </br>
 
@@ -3250,6 +3251,25 @@
 </table>
 
 </br>
+
+
+<h2 id ="course34">Relativistic Quantum Field Theory III</h2>
+
+<ul>
+<li>Root Concepts of the Standard Model&nbsp;(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/chap1.pdf">PDF</a>)</li>
+<li>Abelian Gauge Symmetry&nbsp;(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/chap2.pdf">PDF</a>)</li>
+<li>Grand Unified Theory&nbsp;(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/chap3.pdf">PDF</a>)</li>
+<li>Renormalization&nbsp;(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/chap4.pdf">PDF</a>)</li>
+<li>Anomalies&nbsp;(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/chap5.pdf">PDF</a>)</li>
+<li>Conversion of Anomalies&nbsp;(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/chap6.pdf">PDF</a>)</li>
+<li>Chiral Symmetry&nbsp;(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/chap7.pdf">PDF</a>)</li>
+<li>Meson Mass Matrix&nbsp;(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/chap8.pdf">PDF</a>)</li>
+<li>Resolution of U<sub>A</sub>(1)&nbsp;(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/chap9.pdf">PDF</a>)</li>
+<li>Strong P, T Problem&nbsp;(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/chap10.pdf">PDF</a>)</li>
+<li>Lattice Gauge&nbsp;(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/chap11.pdf">PDF</a>)</li>
+</ul>
+</br>
+
 
 
 
