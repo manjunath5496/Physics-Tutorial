@@ -3715,3 +3715,28 @@
 </br>
 <h2 id ="course41">The Early Universe</h2>
 
+<ul>
+<li><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/ANCN7vr9FVk.pdf">Lecture 1: Inflationary Cosmology: Is Our Universe Part of a Multiverse? Part I</a></li>
+<li><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4OinSH6sAUo.pdf">Lecture 2: Inflationary Cosmology: Is Our Universe Part of a Multiverse? Part II</a></li>
+ 
+<li><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/tJ2AJJMcQXs.pdf">Lecture 3: The Doppler Effect and Special Relativity</a></li>
+<li><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/wuPEmfon9lg.pdf">Lecture 4: The Kinematics of the Homogeneous Expanding Universe</a></li>
+ 
+ 
+ <li><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/45RQrWHzovU.pdf">Lecture 5: Cosmological Redshift and the Dynamics of Homogeneous Expansion, Part I</a></li>
+<li><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/vKLqWj0FRyc.pdf">Lecture 6: The Dynamics of Homogeneous Expansion, Part II</a></li>
+ 
+<li><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/m00PjHTq6jU.pdf">Lecture 7: The Dynamics of Homogeneous Expansion, Part III</a></li>
+<li><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/OtJFD9HNnoc.pdf">Lecture 8: The Dynamics of Homogeneous Expansion, Part IV</a></li>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+</ul>
+
+
+
