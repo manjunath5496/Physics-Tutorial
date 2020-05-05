@@ -335,3 +335,4 @@
 </tbody>
 </table>
 </br>
+<p>The full course notes are also available for <a href="MIT8_01F16_TableOfContents.pdf">download (PDF - 12.4MB)</a>.</p>
