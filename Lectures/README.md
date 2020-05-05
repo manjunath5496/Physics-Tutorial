@@ -38,6 +38,7 @@
      <li class="title"><a href="#course37">Quantum Information Science</a></li>
     <li class="title"><a href="#course38">Astrophysics II</a></li>
  <li class="title"><a href="#course39">Applied Geometric Algebra</a></li>
+  <li class="title"><a href="#course40">Reducing the Danger of Nuclear Weapons and Proliferation</a></li>
 </ul>
 </br>
 
@@ -3703,4 +3704,13 @@
 
 <p>The complete set of lecture notes is also available as a single file. (<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MITRES_8_001_lec_complete.pdf">PDF - 2.7MB</a>)</p>
 </br>
+
+<h2 id ="course40">Reducing the Danger of Nuclear Weapons and Proliferation</h2>
+
+<ul>
+<li><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MITRES_8-004IAP15_Narang.pdf">South Asia Under the Shadow of Nuclear Weapons (PDF - 1.2MB)</a></li>
+<li><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MITRES_8-004IAP15_Bernst.pdf">Reducing the Danger of Nuclear Weapons and Proliferation (PDF)</a></li>
+</ul>
+</br>
+
 
