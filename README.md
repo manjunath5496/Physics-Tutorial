@@ -1740,6 +1740,7 @@ where:
 </br>
 <ul>
 <li><a href="https://manjunath5496.github.io/physics-quiz/index.html">Physics Quiz</a></li>
+ <li><a href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/Lectures/README.md">MIT Lecture Notes</a></li>
 </ul>
 </br>
 <h2 id ="Books">Books </h2>
