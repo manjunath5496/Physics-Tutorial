@@ -31,6 +31,7 @@
   <li class="title"><a href="#course30">Introduction to Nuclear and Particle Physics</a></li>
    <li class="title"><a href="#course31">Introduction to Plasma Physics I</a></li>
     <li class="title"><a href="#course32">Relativistic Quantum Field Theory I</a></li>
+     <li class="title"><a href="#course33">Relativistic Quantum Field Theory II</a></li>
 </ul>
 </br>
 
@@ -3121,5 +3122,136 @@
 </ul>
 
 </br>
+<h2 id ="course33">Relativistic Quantum Field Theory II</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Non-Abelian Gauge Theories</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Symmetries, Lie Groups and Lie Algebras</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_324F10_Lecture1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The Gauge Principle (Quantum Electrodynamics Revisited)</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_324F10_Lecture2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Non-Abelian Generalizations: Yang-Mills Theory</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_324F10_Lecture3.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Non-Abelian Generalizations: Yang-Mills Theory (cont.)</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_324F10_Lecture4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Quantization of Non-Abelian Gauge Theories</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_324F10_Lecture5.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Becchi-Rouet-Stora-Tyutin (BRST) Symmetry, Physical States and Unitarity</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_324F10_Lecture6.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>General Aspects</strong></td>
+</tr>
+<tr class="row">
+<td>Field and Mass Renormalizations</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_324F10_Lecture7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>An Explicit Example</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_324F10_Lecture8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Removing Ultraviolet Divergences</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_324F10_Lecture9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Unstable Particles and Resonances</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_324F10_Lecture10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>S-Matrix Elements and LSZ Reduction</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_324F10_Lecture11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>General Aspects of QED</strong></td>
+</tr>
+<tr class="row">
+<td>Renormalized Lagrangian</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_324F10_Lecture12.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Renormalized Lagrangian (cont.)</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_324F10_Lecture13.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Vertex Function</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_324F10_Lecture14.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Anomalous Magnetic Moment</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_324F10_Lecture15.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Vacuum Polarization</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_324F10_Lecture16.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>General Renormalization Theory</strong></td>
+</tr>
+<tr class="row">
+<td>Degrees of Divergences</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_324F10_Lecture17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Cancellation of Divergences</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_324F10_Lecture18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Cancellation of Divergences (cont.)</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_324F10_Lecture19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Renormalization Group</strong></td>
+</tr>
+<tr class="row">
+<td>Wilson's Approach to Field Theories</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_324F10_Lecture20.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Renormalization Group Flow</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_324F10_Lecture21.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Renormalization Group Flow (cont.)</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_324F10_Lecture22.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Renormalization Group Flow (cont.); Beta-Functions from the Traditional Approach</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_324F10_Lecture23.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Beta-Functions from the Traditional Approach (cont.)</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_324F10_Lecture24.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Beta-Functions from the Traditional Approach (cont.)</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_324F10_Lecture25.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Beta-Functions from the Traditional Approach (cont.)</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_324F10_Lecture26.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
 
 
