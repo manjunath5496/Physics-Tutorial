@@ -26,6 +26,7 @@
    <li class="title"><a href="#course25">Cosmology</a></li>
    <li class="title"><a href="#course26">String Theory and Holographic Duality</a></li>
    <li class="title"><a href="#course27">Effective Field Theory</a></li>
+    <li class="title"><a href="#course28">Strongly Correlated Systems in Condensed Matter Physics</a></li>
 </ul>
 </br>
 
@@ -3032,3 +3033,27 @@
 </div>
 <p><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_851S13_Appendix.pdf">Appendix (PDF)</a></p>
 </br>
+<h2 id ="course28">Strongly Correlated Systems in Condensed Matter Physics </h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Coherent States (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Squeezed States (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/lec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Second Quantization (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/lec3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Bose Condensation (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/lec45.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Superfluidity, Vortices, Finite Temperature Effects (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/lec6.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+
+
