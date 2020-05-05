@@ -1622,3 +1622,23 @@
 <li>Problem Set 8 (<a href="ps8.pdf">PDF</a>)</li>
 <li>Problem Set 9 (<a href="ps9.pdf">PDF</a>)</li>
 </ul>
+</br>
+<p><strong>Exams and solutions</strong></p>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">QUIZ</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Quiz 1 (<a href="quiz1_2006_qns.pdf">PDF</a>)</td>
+<td>(<a href="quiz1_2006_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alte-row">
+<td>Quiz 2 (<a href="quiz2_2006_qns.pdf">PDF</a>)</td>
+<td>(<a href="quiz2_2006_sol.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
