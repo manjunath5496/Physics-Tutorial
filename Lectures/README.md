@@ -1726,47 +1726,38 @@
 <table style="width: 1025px;" summary="See table caption for summary.">
 <tbody>
 <tr class="row">
-<td style="width: 665px;">[B&amp;B] Chapter 3: Probability</td>
 <td style="width: 227px;"><a href="MIT8_044S13_ProbabilityCh1.pdf">Probability Notes, Chapter 1, One Random Variable (PDF)</a></td>
 <td style="width: 69px;"><a href="MIT8_044S13_L1.pdf"><span class="nobr">Lecture 1 (PDF)</span></a></td>
 </tr>
 <tr class="alt-row">
-<td style="width: 665px;">&nbsp;No Readings</td>
 <td style="width: 227px;"><a href="MIT8_044S13_ProbabilityCh2.pdf">Probability Notes, Chapter 2, Two Random Variables (PDF)</a></td>
 <td style="width: 69px;"><a href="MIT8_044S13_L2.pdf">Lecture 2 (PDF)</a></td>
 </tr>
 <tr class="row">
-<td style="width: 665px;">&nbsp;No Readings</td>
 <td style="width: 227px;"><a href="MIT8_044S13_ProbabilityCh3.pdf">Probability Notes, Chapter 3, Functions of a Random Variable (PDF)</a></td>
 <td style="width: 69px;"><a href="MIT8_044S13_L3.pdf">Lecture 3 (PDF)</a></td>
 </tr>
 <tr class="alt-row">
-<td style="width: 665px;">&nbsp;No Readings</td>
 <td style="width: 227px;"><a href="MIT8_044S13_ProbabilityCh4.pdf">Probability Notes, Chapter 4, Sums of Random Variables (PDF)</a></td>
 <td style="width: 69px;"><a href="MIT8_044S13_L4.pdf">Lecture 4 (PDF)</a></td>
 </tr>
 <tr class="row">
-<td style="width: 665px;">Zemansky, Mark Waldo, and Richard Dittman. "Temperature." Chapter 1 in&nbsp;<em>Heat and Thermodynamics: An Intermediate Textbook</em>. 5th ed. Ko&Igrave;&sbquo;gakusha, 1968.[B&amp;B] Chapter 6: Partial Derivatives, and Chapter 7: Exact Differentials</td>
 <td style="width: 227px;"><a href="MIT8_044S13_notes.def.pdf">Thermodynamic Systems Definitions (PDF)</a></td>
 <td style="width: 69px;"><a href="MIT8_044S13_L5.pdf">Lecture 5 (PDF)</a></td>
 </tr>
 <tr class="alt-row">
-<td style="width: 665px;">[B&amp;B] Appendix C.6: Energy, and Appendix C.7: Isothermal and Adiabatic Processes</td>
 <td style="width: 227px;">&nbsp;</td>
 <td style="width: 69px;"><a href="MIT8_044S13_L6.pdf">Lecture 6 (PDF)</a></td>
 </tr>
 <tr class="row">
-<td style="width: 665px;">[B&amp;B] Appendix C. 8: Volume of a Hypersphere</td>
 <td style="width: 227px;"><a href="MIT8_044S13_mcrocanoncl.pdf">Development and Use of the Microcanonical Ensemble (PDF)</a></td>
 <td style="width: 69px;"><a href="MIT8_044S13_L7.pdf">Lecture 7 (PDF)</a></td>
 </tr>
 <tr class="alt-row">
-<td style="width: 665px;">[B&amp;B] Section 4.1&ndash;4.5: Statistical Definition of Temperature</td>
 <td style="width: 227px;"><a href="MIT8_044S13_mcrocanoncl.pdf">Development and Use of the Microcanonical Ensemble (PDF) (cont.)</a></td>
 <td style="width: 69px;"><a href="MIT8_044S13_L8.pdf">Lecture 8 (PDF)</a></td>
 </tr>
 <tr class="row">
-<td style="width: 665px;">No Readings</td>
 <td style="width: 227px;">
 <p><a href="MIT8_044S13_mcrocanoncl.pdf">Development and Use of the Microcanonical Ensemble (PDF) (cont.)<br /></a></p>
 <p><a href="MIT8_044S13_notes.inters.pdf">Interstitial Atoms: An example using the Microcanonical Ensemble Example (PDF)</a></p>
@@ -1774,17 +1765,14 @@
 <td style="width: 69px;"><a href="MIT8_044S13_L9.pdf">Lecture 9 (PDF)</a></td>
 </tr>
 <tr class="alt-row">
-<td style="width: 665px;">[B&amp;B] Chapter 16: Thermodynamic Potentials</td>
 <td style="width: 227px;"><a href="MIT8_044S13_notes.Max.pdf">Notes on the Derivation and Use of the Maxwell Relations (PDF)</a></td>
 <td style="width: 69px;"><a href="MIT8_044S13_L10.pdf"><span class="nobr">Lecture 10 (PDF)</span></a></td>
 </tr>
 <tr class="row">
-<td style="width: 665px;">[B&amp;B] Chapter 13: Heat Engines and the Second Law</td>
 <td style="width: 227px;">&nbsp;</td>
 <td style="width: 69px;"><a href="MIT8_044S13_L11.pdf">Lecture 11 (PDF)</a></td>
 </tr>
 <tr class="alt-row">
-<td style="width: 665px;">[B&amp;B] Chapter 13: Heat Engines and the Second Law (cont.)</td>
 <td style="width: 227px;">
 <p><a href="MIT8_044S13_Canonical.pdf">Notes on the Derivation of the Canonical Ensemble (PDF)</a></p>
 <p><a href="MIT8_044S13_mcrocanoncl.pdf">Development and Use of the Microcanonical Ensemble (PDF) (cont.)</a></p>
@@ -1792,30 +1780,25 @@
 <td style="width: 69px;"><a href="MIT8_044S13_L12.pdf">Lecture 12 (PDF)</a></td>
 </tr>
 <tr class="row">
-<td style="width: 665px;">No Readings</td>
 <td style="width: 227px;"><a href="MIT8_044S13_mcrocanoncl.pdf">Development and Use of the Microcanonical Ensemble (PDF) (cont.)</a></td>
 <td style="width: 69px;"><a href="MIT8_044S13_L13.pdf">Lecture 13 (PDF)</a></td>
 </tr>
 <tr class="alt-row">
-<td style="width: 665px;">
-<p>[B&amp;B] Section 20.2: Obtaining the Functions of State, and Section 21.6: Heat Capacity of a Diatomic Gas</p>
+<td style="width: 227px;">&nbsp;
+<p>Section 20.2: Obtaining the Functions of State, and Section 21.6: Heat Capacity of a Diatomic Gas</p>
 <p>Strickler, S. J. "<a href="Strickler.pdf">Electronic Partition Function Paradox</a>."<em>&nbsp;Journal of Chemical Education</em>&nbsp;43, no. 7 (1996): 364.</p>
 </td>
-<td style="width: 227px;">&nbsp;</td>
 <td style="width: 69px;"><span class="nobr"><a href="MIT8_044S13_L14.pdf">Lecture 14 (PDF - 3.2MB)</a></span></td>
 </tr>
 <tr class="row">
-<td style="width: 665px;">[B&amp;B] Section 23.1&ndash;23.7: Black Body Radiation</td>
 <td style="width: 227px;">&nbsp;</td>
 <td style="width: 69px;"><a href="MIT8_044S13_L15.pdf">Lecture 15 (PDF)</a></td>
 </tr>
 <tr class="alt-row">
-<td style="width: 665px;">No Readings</td>
 <td style="width: 227px;">&nbsp;</td>
 <td style="width: 69px;"><a href="MIT8_044S13_L16.pdf">Lecture 16 (PDF)</a></td>
 </tr>
 <tr class="row">
-<td style="width: 665px;">[Huang] Appendix A on Identical Particles</td>
 <td style="width: 227px;">
 <p><a href="MIT8_044S13_notes.Raman.pdf">Notes on the Indistinguishable Particle Effects in Rotational Raman Scattering (PDF)</a></p>
 <p><a href="MIT8_044S13_ExctStatHe.pdf">An Example of Quantum Statistics in a Two Particle System (PDF)</a></p>
@@ -1823,27 +1806,22 @@
 <td style="width: 69px;"><a href="MIT8_044S13_L17.pdf">Lecture 17 (PDF)</a></td>
 </tr>
 <tr class="alt-row">
-<td style="width: 665px;">[B&amp;B] Section 22.1&ndash;22.5: Chemical Potential and Grand Canonical Ensemble</td>
 <td style="width: 227px;">&nbsp;</td>
 <td style="width: 69px;"><a href="MIT8_044S13_L18.pdf">Lecture 18 (PDF)</a></td>
 </tr>
 <tr class="row">
-<td style="width: 665px;">[B&amp;B] Section 21.1: Density of States; Section 30.2 Fermi Gas</td>
 <td style="width: 227px;">&nbsp;</td>
 <td style="width: 69px;"><a href="MIT8_044S13_L19.pdf">Lecture 19 (PDF)</a></td>
 </tr>
 <tr class="alt-row">
-<td style="width: 665px;">[B&amp;B] Section 36.1&ndash;36.4: Compact Stellar Objects</td>
 <td style="width: 227px;">&nbsp;</td>
 <td style="width: 69px;"><span class="nobr"><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_044S13_L20.pdf">Lecture 20 (PDF - 6.1MB)</a></span></td>
 </tr>
 <tr class="row">
-<td style="width: 665px;">No Readings</td>
 <td style="width: 227px;">&nbsp;</td>
 <td style="width: 69px;"><a href="MIT8_044S13_L21.pdf">Lecture 21 (PDF - 1.1MB)</a></td>
 </tr>
 <tr class="alt-row">
-<td style="width: 665px;">[B&amp;B] Section 30.3&ndash;30.4: Bose Gas and BEC</td>
 <td style="width: 227px;">&nbsp;</td>
 <td style="width: 69px;"><a href="MIT8_044S13_L22.pdf">Lecture 22 (PDF - 2.3MB)</a></td>
 </tr>
