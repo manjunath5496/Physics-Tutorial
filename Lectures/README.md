@@ -3724,26 +3724,33 @@
 <li><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/vKLqWj0FRyc.pdf">Lecture 6: The Dynamics of Homogeneous Expansion, Part II</a></li>
 <li><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/m00PjHTq6jU.pdf">Lecture 7: The Dynamics of Homogeneous Expansion, Part III</a></li>
 <li><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/OtJFD9HNnoc.pdf">Lecture 8: The Dynamics of Homogeneous Expansion, Part IV</a></li>
- 
- 
- 
  <li><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/U9n-Y_ZC-2M.pdf">Lecture 9: The Dynamics of Homogeneous Expansion, Part V</a></li>
 <li><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/YfbXB_MSkSY.pdf">Lecture 10: Introduction to Non-Euclidean Spaces</a></li>
- 
 <li><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/ARuzDX55Xnk.pdf">Lecture 11: Non-Euclidean Spaces: Closed Universes</a></li>
 <li><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/dBhMcn7UDs0.pdf">Lecture 12: Non-Euclidean Spaces: Open Universes and the Spacetime Metric</a></li>
- 
- 
  <li><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/eUYIcR1VGns.pdf">Lecture 13: Non-Euclidean Spaces: Spacetime Metric and Geodesic Equation</a></li>
 <li><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/-yIKKST-_Mw.pdf">Lecture 14: The Geodesic Equation</a></li>
- 
 <li><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/moyD_yeviMY.pdf">Lecture 15: Black-Body Radiation and the Early History of the Universe, Part I</a></li>
 <li><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/6b83DypBeYg.pdf">Lecture 16: Black-Body Radiation and the Early History of the Universe, Part II</a></li>
  
  
  
  
-</ul>
+ 
+ <li><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/KY91PsqCy_8.pdf">Lecture 17: Black-Body Radiation and the Early History of the Universe, Part III</a></li>
+<li><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MKPswx4hjec.pdf">Lecture 18: Cosmic Microwave Background Spectrum and the Cosmological Constant, Part I</a></li>
+ 
+<li><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/U_Ot1PTuUv4.pdf">Lecture 19: The Cosmological Constant, Part II</a></li>
+<li><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/RgScJ20EnW8.pdf">Lecture 20: Supernovae Ia and Vacuum Energy Density</a></li>
+ 
+ 
+ <li><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/PK1KNojfvMQ.pdf">Lecture 21: Problems of the Conventional (Non-inflationary) Hot Big Bang Model</a></li>
+<li><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/seBwiL9InII.pdf">Lecture 22: The Higgs Field and the Cosmological Magnetic Monopole Problem</a></li>
+ 
+<li><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/PsfyE1-s9Rs.pdf">Lecture 23: Inflation</a></li>
 
+ 
+</ul>
+</br>
 
 
