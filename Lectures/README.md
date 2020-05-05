@@ -733,4 +733,134 @@
 </tr>
 </tbody>
 </table>
+</br>
+<p> <strong>Assignments: problem sets (no solutions) </strong> </p>
+
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Group problem (<a href="ic_w01d1_1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Group problem (<a href="ic_w01d2_1.pdf">PDF</a>)</p>
+<p>Group: Line of charge (<a href="ic_w01d2_2.pdf">PDF</a>)</p>
+<p>Group: Uniformly charged disk (<a href="ic_w01d2_3.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Group problem: Superposition (<a href="ic_w02d1_1.pdf">PDF</a>)</p>
+<p>Group problem: E from V (<a href="ic_w02d1_2.pdf">PDF</a>)</p>
+<p>Group problem: Build it (<a href="ic_w02d1_3.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Group problem: Charge slab (<a href="ic_w03d2_1.pdf">PDF</a>)</p>
+<p>Group problem: Charge slab (<a href="ic_w03d2_2.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Group problem: Spherical shells (<a href="ic_w04d1_1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Partially filled capacitor (<a href="ic_w04d2_1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Group problem: B field from coil of radius R (<a href="ic_w05d1_1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Group problem: Non-uniform cylindrical wire (<a href="ic_w06d1_1.pdf">PDF</a>)</p>
+<p>Group problem: Current sheet (<a href="ic_w06d1_2.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Group problem: Current loop (<a href="ic_w07d1_1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Group problem: Circuit (<a href="ic_w07d2_1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col3">
+<p>Group problem: Changing area (<a href="ic_w09d1_1.pdf">PDF</a>)</p>
+<p>Group problem: Generator (<a href="ic_w09d1_2.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Group problem: Solenoid (<a href="ic_w09d2_1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Group problem: Coaxial cable (<a href="ic_w10d1_1.pdf">PDF</a>)</p>
+<p>Group problem: Circuits (<a href="ic_w10d1_2.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Group problem (<a href="ic_w12d2_1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Superposition principle (<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="ic_w13d1_1.pdf">PDF</a>)</p>
+<p>Group problem: Plane waves (<a href="ic_w13d1_2.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Group problem: Inductor (<a href="ic_w13d2_1.pdf">PDF</a>)</p>
+<p>Group problem: Capacitor (<a href="ic_w13d2_2.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Group problem: B field generation (<a href="ic_w14d1_1.pdf">PDF</a>)</p>
+<p>Group problem: Energy in wave (<a href="ic_w14d1_2.pdf">PDF</a>)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 class="subhead">&nbsp;</h2>
+<div class="maintabletemplate">
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Coordinate systems; Gradients; Line and surface integrals&nbsp;<span class="nobr">(<a href="solving01.pdf">PDF - 1.4 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Continuous charge distributions (<a href="solving02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Gauss's law (<a href="solving03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Capacitors (<a href="solving04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Ampere's law (<a href="solving05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Magnetic fields: Force and torque on a current loop (<a href="solving06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Mutual inductance and transformers; Inductors (<a href="solving07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>RC and RL circuits (<a href="solving08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Driven LRC circuits (<a href="solving09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>EM radiation (<a href="solving10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Interference (<a href="solving11.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+
 
