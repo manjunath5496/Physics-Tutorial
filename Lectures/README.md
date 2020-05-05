@@ -2355,9 +2355,28 @@
 </tr>
 </tbody>
 </table>
-
-
-
+</br>
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>
+<p>2004 Midterm (<a href="midterm04_prac.pdf" data-smd-id="s104">PDF</a>)</p>
+<p>2005 Midterm (<a href="midterm_05.pdf" data-smd-id="s105">PDF</a>)</p>
+<p>Solutions (<a href="midterm_05_sols.pdf" data-smd-id="s106">PDF</a>)</p>
+</td>
+<td>2007 Test 1 (<a href="midterm_07.pdf" data-smd-id="s107">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Review notes (<a href="8251test2review.pdf" data-smd-id="s108">PDF</a>)</td>
+<td>2007 Test 2 (<a href="test2_07p.pdf" data-smd-id="s109">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Practice problems (<a href="practice.pdf" data-smd-id="s110">PDF</a>)</td>
+<td>2007 Final exam (<a href="final_07.pdf" data-smd-id="s111">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
 
