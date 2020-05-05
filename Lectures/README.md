@@ -20,7 +20,7 @@
  <li class="title"><a href="#course19">Quantum Theory II</a></li>
   <li class="title"><a href="#course20">Theory of Solids I</a></li>
    <li class="title"><a href="#course21">Theory of Solids II</a></li>
-    <li class="title"><a href="#course22">Organic Chemistry I</a></li>
+    <li class="title"><a href="#course22">Particle Physics II</a></li>
      <li class="title"><a href="#course23">Advanced Chemical Experimentation and Instrumentation</a></li>
     <li class="title"><a href="#course24">Biological Engineering Design</a></li>
    <li class="title"><a href="#course25">Biological Chemistry I</a></li>
@@ -2713,5 +2713,48 @@
 </table>
 </br>
 
-
-
+<h2 id ="course22">Particle Physics II</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td headers="tbl344id0_1">Fundamental Building Blocks and their Interactions (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl344id0_1">Symmetries and Quarks; Discoveries of the J, Upsilon (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/lec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl344id0_1">Gluons, Particle-antiparticle, Gluons inside Nucleons (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/lec3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl344id0_1">Dirac Formalism, Chirality, Helicity, Why Higgs? (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/lec4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl344id0_1">Local Gauge Transformation (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/lec5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl344id0_1">Solutions of the Dirac Equation (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/lec6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl344id0_1">Matrix, Decays, Cross Sections and Radiative Corrections (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/lec7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl344id0_1">Polarization, Propagator, Interaction Matrix, Cross Sections and Unitarity Bounds (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/lec8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl344id0_1">Unitarity Bound Violation and "New" Particles (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/lec9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl344id0_1">Bottom-up Approach: Unitarity Bounds, "New" Particles and their Coupling Constants (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl344id0_1">Unitarity Bounds, Higgs, its Coupling Constants and Limit on its Mass (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl344id0_1">Electro-weak Interactions (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl344id0_1">Review (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/lec13.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
