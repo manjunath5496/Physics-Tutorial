@@ -2085,4 +2085,20 @@
 </tr>
 </tbody>
 </table>
-
+</br>
+<table class="tablewidth75" style="width: 402px;" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td style="width: 106px;"><a href="MIT8_07F12_quiz1.pdf">Quiz 1 (PDF)</a></td>
+<td style="width: 132px;">&nbsp;<a href="MIT8_07F12_quizsol1.pdf">Quiz 1 Solution (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td style="width: 106px;"><a href="MIT8_07F12_quiz2.pdf">Quiz 2 (PDF)</a></td>
+<td style="width: 132px;">&nbsp;<a href="MIT8_07F12_quizsol2.pdf">Quiz 2 Solution (PDF)</a></td>
+</tr>
+<tr class="row">
+<td style="width: 106px;"><a href="MIT8_07F12_finalexam.pdf">Final Exam (PDF)</a></td>
+<td style="width: 132px;"><a href="MIT8_07F12_formsheetfinal.pdf">Final Formula Sheet (PDF)</a></td>
+</tr>
+</tbody>
+</table>
