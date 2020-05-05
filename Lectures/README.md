@@ -3,7 +3,7 @@
  <li class="title"><a href="#course2">Physics II: Electricity and Magnetism</a></li> 
   <li class="title"><a href="#course3">Physics II: Electricity and Magnetism with an Experimental Focus </a></li> 
   <li class="title"><a href="#course4">Physics III: Vibrations and Waves </a></li>
-   <li class="title"><a href="#course5">Physical Chemistry </a></li>
+   <li class="title"><a href="#course5">Physics III </a></li>
   <li class="title"><a href="#course6">Physical Chemistry II </a></li>
    <li class="title"><a href="#course7">Computational Quantum Mechanics of Molecular and Extended Systems </a></li>
     <li class="title"><a href="#course8">Kinetics of Chemical Reactions </a></li>
@@ -28,6 +28,8 @@
    <li class="title"><a href="#course27">Thermodynamics and Kinetics</a></li>
 </ul>
 </br>
+
+
 <h2 id ="course1">Classical Mechanics </h2>
 <table class="tablewidth100" summary="See table caption for summary.">
 <tbody>
@@ -1091,7 +1093,30 @@
 <li><a href="MIT8_03SCF16_PracticeFinalExam3.pdf" data-smd-id="s164">Practice Final Exam 3 (PDF)</a></li>
 <li><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s165" /><a href="MIT8_03SCF16_PracticeFinalExam3_Solutions.pdf" data-smd-id="s166">Practice Final Exam 3 Solution (PDF)</a></li>
 </ul>
+</br>
 
+<h2 id ="course5">Physics III </h2>
 
-
-
+<ul>
+<li>Lecture 1: Introduction to Vibrations and Waves: Course Overview (<a href="Lec1.pdf" data-smd-id="s104">PDF</a>)</li>
+<li>Lecture 2: Simple Harmonic Motion (<a href="lec2.pdf" data-smd-id="s105">PDF</a>)</li>
+<li>Lecture 3: Harmonically Driven Damped Harmonic Oscillator (<a href="lec3.pdf" data-smd-id="s106">PDF</a>)</li>
+<li>Lecture 4: Complete Solution to the Harmonically Driven Oscillator (<a href="lec4.pdf" data-smd-id="s107">PDF</a>)</li>
+<li>Lecture 5: Coupled Oscillators (<a href="lec5.pdf" data-smd-id="s108">PDF</a>)</li>
+<li>Lecture 6: Driven Coupled Oscillators (<a href="lec6.pdf" data-smd-id="s109">PDF</a>)</li>
+<li>Lecture 7: The Wave Equation, Solutions to the Wave Equation (<a href="lec7.pdf" data-smd-id="s110">PDF</a>)</li>
+<li>Lecture 8: Boundary Conditions Applied to Pulses and Waves (<a href="lec8.pdf" data-smd-id="s111">PDF</a>)</li>
+<li>Lecture 9: Wave Equation in 2D and 3D, Time-independent Fourier Analysis (<a href="lec9.pdf" data-smd-id="s112">PDF</a>)</li>
+<li>Lecture 10: Fourier Analysis (<a href="lec10.pdf" data-smd-id="s113">PDF</a>)</li>
+<li>Lecture 11: Fourier Analysis with Traveling Waves, Dispersion (<a href="lec11.pdf" data-smd-id="s114">PDF</a>)</li>
+<li>Lecture 12: Electromagnetic Wave Equation (<a href="Lec12.pdf" data-smd-id="s115">PDF</a>)</li>
+<li>Lecture 13: Plane polarized EM Waves (<a href="lec13.pdf" data-smd-id="s116">PDF</a>)</li>
+<li>Lecture 14: Dipole Radiation (<a href="lec14.pdf" data-smd-id="s117">PDF</a>)</li>
+<li>Lecture 15: EM Waves Meet Conductors, Transmission Lines (<a href="lec15.pdf" data-smd-id="s118">PDF</a>)</li>
+<li>Lecture 16: EM Waves Meet Conductors, Waveguides (<a href="lec16.pdf" data-smd-id="s119">PDF</a>)</li>
+<li>Lecture 17: EM Waves Meet Dielectrics (<a href="lec17.pdf" data-smd-id="s120">PDF</a>)</li>
+<li>Lecture 18: Interference (<a href="lec18.pdf" data-smd-id="s121">PDF</a>)</li>
+<li>Lecture 19: Interference from Multiple Sources (<a href="lec19.pdf" data-smd-id="s122">PDF</a>)</li>
+<li>Lecture 20: Diffraction (<a href="lec20.pdf" data-smd-id="s123">PDF</a>)</li>
+<li>Lecture 21: Diffraction + Interference, Diffraction Gratings (<a href="lec21.pdf" data-smd-id="s124">PDF</a>)</li>
+</ul>
