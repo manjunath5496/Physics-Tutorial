@@ -521,6 +521,216 @@
 </tr>
 </tbody>
 </table>
+</br>
+<p> <strong>Readings: </strong> </p>
 
 
+<table summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Introduction to TEAL; Fields; Review of gravity; Electric field</td>
+<td>(<a href="summary_w01d1.pdf" data-smd-id="s109">PDF</a>)</td>
+<td>
+<p>Chapter 1: Sections 1.1-1.6; 1.8 (<a href="chapter1fields.pdf" data-smd-id="s110">PDF</a>)</p>
+<p>Chapter 2 (<a href="chap2coulomb_law.pdf" data-smd-id="s111">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Electric charge; Electric fields; Dipoles; Continuous charge distributions</td>
+<td>(<a href="summary_w01d2.pdf" data-smd-id="s112">PDF</a>)</td>
+<td>
+<p>Chapter 1: Section 1.6 (<a href="chapter1fields.pdf" data-smd-id="s113">PDF</a>)</p>
+<p>Chapter 2 (<a href="chap2coulomb_law.pdf" data-smd-id="s114">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Coordinate systems; Gradients; Line and surface integrals</td>
+<td>(<a href="summary_w01d3.pdf" data-smd-id="s115">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Working in groups, electric potential, E from V</td>
+<td>(<a href="summary_w02d1.pdf" data-smd-id="s116">PDF</a>)</td>
+<td>Chapter 3: Sections 3.1-3.5 (<a href="ch3electri_poten.pdf" data-smd-id="s117">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Electric potential, equipotentials</td>
+<td>(<a href="summary_w02d2.pdf" data-smd-id="s118">PDF</a>)</td>
+<td>Chapter 4 (<a href="chapte4gauss_law.pdf" data-smd-id="s119">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Continuous charge distributions</td>
+<td>(<a href="summary_w02d3.pdf" data-smd-id="s120">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Gauss's law</td>
+<td>(<a href="summary_w03d2.pdf" data-smd-id="s121">PDF</a>)</td>
+<td>
+<p>Chapter 4: Sections 4.3-4.4 (<a href="chapte4gauss_law.pdf" data-smd-id="s122">PDF</a>)</p>
+<p>Chapter 5 (<a href="chap5capacitance.pdf" data-smd-id="s123">PDF - 1.3 MB</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Gauss's law (cont.)</td>
+<td>(<a href="summary_w03d3.pdf" data-smd-id="s124">PDF</a>)</td>
+<td>
+<p>Chapter 4: Sections 4.3-4.4 (<a href="chapte4gauss_law.pdf" data-smd-id="s125">PDF</a>)</p>
+<p>Chapter 5 (<a href="chap5capacitance.pdf" data-smd-id="s126">PDF - 1.3 MB</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Conductors and capacitors</td>
+<td>(<a href="summary_w04d1.pdf" data-smd-id="s127">PDF</a>)</td>
+<td>Chapter 4 (<a href="chapte4gauss_law.pdf" data-smd-id="s128">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Capacitors</td>
+<td>(<a href="summary_w04d2.pdf" data-smd-id="s129">PDF</a>)</td>
+<td>
+<p>Chapter 6 (<a href="chapter6current.pdf" data-smd-id="s130">PDF</a>)</p>
+<p>Chapter 7: Sections 7.1 through 7.4 (<a href="chap7dc_circuits.pdf" data-smd-id="s131">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Capacitors (cont.)</td>
+<td>(<a href="summary_w04d3.pdf" data-smd-id="s132">PDF</a>)</td>
+<td>Chapter 5 (<a href="chap5capacitance.pdf" data-smd-id="s133">PDF - 1.3 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Current, Resistance, and DC circuits</td>
+<td>(<a href="summary_w05d1.pdf" data-smd-id="s134">PDF</a>)</td>
+<td>Chapter 7 (<a href="chap7dc_circuits.pdf" data-smd-id="s135">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Exam 1 information</td>
+<td>(<a href="summary_w05d2.pdf" data-smd-id="s136">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Magnetic fields: Creating magnetic fields - Biot-Savart</td>
+<td>(<a href="summary_w06d1.pdf" data-smd-id="s137">PDF</a>)</td>
+<td>Chapter 8 (<a href="ch8magneti_field.pdf" data-smd-id="s138">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Magnetic fields: Creating magnetic fields - Ampere's Law</td>
+<td>(<a href="summary_w06d2.pdf" data-smd-id="s139">PDF</a>)</td>
+<td>Chapter 9: Sections 9.1-9.2 (<a href="ch9sourc_b_field.pdf" data-smd-id="s140">PDF - 1.9 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Ampere's law</td>
+<td>(<a href="summary_w06d3.pdf" data-smd-id="s141">PDF</a>)</td>
+<td>
+<p>Chapter 8: Sections 8.3-8.4 (<a href="ch8magneti_field.pdf" data-smd-id="s142">PDF</a>)</p>
+<p>Chapter 9: Sections 9.1-9.2 (<a href="ch9sourc_b_field.pdf" data-smd-id="s143">PDF - 1.9 MB</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Magnetic fields: Feeling magnetic fields - charges and dipoles</td>
+<td>(<a href="summary_w07d1.pdf" data-smd-id="s144">PDF</a>)</td>
+<td>
+<p>Chapter 8: Section 8.4 (<a href="ch8magneti_field.pdf" data-smd-id="s145">PDF</a>)</p>
+<p>Chapter 9: Sections 9.1-9.2 and 9.5 (<a href="ch9sourc_b_field.pdf" data-smd-id="s146">PDF - 1.9 MB</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Magnetic levitation; Magnetic forces on dipoles</td>
+<td>(<a href="summary_w07d2.pdf" data-smd-id="s147">PDF</a>)</td>
+<td>Chapter 9 (<a href="ch9sourc_b_field.pdf" data-smd-id="s148">PDF - 1.9 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Magnetic fields: Force and torque on a current loop</td>
+<td>(<a href="summary_w07d3.pdf" data-smd-id="s149">PDF</a>)</td>
+<td>Chapter 9: Sections 9.3-9.4, 9.10.2, 9.11.6, and 9.11.7 (<a href="ch9sourc_b_field.pdf" data-smd-id="s150">PDF - 1.9 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Faraday's law</td>
+<td>(<a href="summary_w09d1.pdf" data-smd-id="s151">PDF</a>)</td>
+<td>Chapter 10 (<a href="cha10faraday_law.pdf" data-smd-id="s152">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Faraday's law (cont.)</td>
+<td>(<a href="summary_w09d2.pdf" data-smd-id="s153">PDF</a>)</td>
+<td>
+<p>Chapter 10 (<a href="cha10faraday_law.pdf" data-smd-id="s154">PDF</a>)</p>
+<p>Chapter 11: Section 11.1 (<a href="chap11inductance.pdf" data-smd-id="s155">PDF - 1.0 MB</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Mutual inductance and transformers; Inductors</td>
+<td>(<a href="summary_w09d3.pdf" data-smd-id="s156">PDF</a>)</td>
+<td>Chapter 10 (<a href="cha10faraday_law.pdf" data-smd-id="s157">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Inductors and magnetic energy; RL circuits</td>
+<td>(<a href="summary_w10d1.pdf" data-smd-id="s158">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Exam 2 information</td>
+<td>(<a href="summary_w10d2.pdf" data-smd-id="s159">PDF</a>)</td>
+<td>Chapter 11: Sections 11.1-11.4 (<a href="chap11inductance.pdf" data-smd-id="s160">PDF - 1.0 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>RC and RL circuits</td>
+<td>(<a href="summary_w11d2.pdf" data-smd-id="s161">PDF</a>)</td>
+<td>Chapter 11: Sections 11.5-11.6 (<a href="chap11inductance.pdf" data-smd-id="s162">PDF - 1.0 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>RC and RL circuits (cont.)</td>
+<td>(<a href="summary_w11d3.pdf" data-smd-id="s163">PDF</a>)</td>
+<td>Chapter 12 (<a href="cha12ac_circuits.pdf" data-smd-id="s164">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>LC, and undriven LRC circuits</td>
+<td>(<a href="summary_w12d1.pdf" data-smd-id="s165">PDF</a>)</td>
+<td>Chapter 12 (<a href="cha12ac_circuits.pdf" data-smd-id="s166">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Driven LRC circuits</td>
+<td>(<a href="summary_w12d2.pdf" data-smd-id="s167">PDF</a>)</td>
+<td>Chapter 13 (<a href="chapte13em_waves.pdf" data-smd-id="s168">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Driven LRC circuits (cont.)</td>
+<td>(<a href="summary_w12d3.pdf" data-smd-id="s169">PDF</a>)</td>
+<td>Chapter 13 (<a href="chapte13em_waves.pdf" data-smd-id="s170">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Maxwell's equations, EM radiation and energy flow</td>
+<td>(<a href="summary_w13d1.pdf" data-smd-id="s171">PDF</a>)</td>
+<td>Chapter 13 (<a href="chapte13em_waves.pdf" data-smd-id="s172">PDF</a>)</td>
+</tr>
+<tr>
+<td>Maxwell's equations, EM radiation and energy flow (cont.)</td>
+<td>(<a href="summary_w13d2.pdf" data-smd-id="s173">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>EM radiation</td>
+<td>(<a href="summary_w13d3.pdf" data-smd-id="s174">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Generating EM radiation</td>
+<td>(<a href="summary_w14d1.pdf" data-smd-id="s175">PDF</a>)</td>
+<td>Chapter 13 (<a href="chapte13em_waves.pdf" data-smd-id="s176">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Exam 3 information</td>
+<td>(<a href="summary_w14d2.pdf" data-smd-id="s177">PDF</a>)</td>
+<td>Chapter 14 (<a href="ch14_inter_diffr.pdf" data-smd-id="s178">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Interference</td>
+<td>(<a href="summary_w15d1.pdf" data-smd-id="s179">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Final exam</td>
+<td>(<a href="summary_w15d2.pdf" data-smd-id="s180">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
 
