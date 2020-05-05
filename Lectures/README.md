@@ -393,11 +393,6 @@
 <td>(<a href="presentati_w01d2.pdf" data-smd-id="s109">PDF</a>)</td>
 <td>(<a href="prs_w01d2_qonly.pdf" data-smd-id="s110">PDF</a>)</td>
 </tr>
-<tr class="row">
-<td>Coordinate systems; Gradients; Line and surface integrals</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
 <tr class="alt-row">
 <td>Working in groups, electric potential, E from V</td>
 <td>(<a href="presentati_w02d1.pdf" data-smd-id="s111">PDF</a>)</td>
@@ -407,11 +402,6 @@
 <td>Electric potential, equipotentials</td>
 <td>(<a href="presentati_w02d2.pdf" data-smd-id="s113">PDF</a>)</td>
 <td>(<a href="prs_w02d2_qonly.pdf" data-smd-id="s114">PDF</a>)</td>
-</tr>
-<tr class="alt-row">
-<td>Continuous charge distributions</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
 </tr>
 <tr class="row">
 <td>Gauss's law</td>
@@ -424,19 +414,9 @@
 <td>(<a href="prs_w03d2_qonly.pdf" data-smd-id="s118">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td>Conductors and capacitors</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-<tr class="alt-row">
 <td>Capacitors</td>
 <td>(<a href="presentati_w04d2.pdf" data-smd-id="s119">PDF</a>)</td>
 <td>(<a href="prs_w04d2_qonly.pdf" data-smd-id="s120">PDF</a>)</td>
-</tr>
-<tr class="alt-row">
-<td>Capacitors (cont.)</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
 </tr>
 <tr class="row">
 <td>Current, Resistance, and DC circuits</td>
@@ -458,11 +438,6 @@
 <td>(<a href="presentati_w06d2.pdf" data-smd-id="s127">PDF - 1.1 MB</a>)</td>
 <td>(<a href="prs_w06d2_qonly.pdf" data-smd-id="s128">PDF</a>)</td>
 </tr>
-<tr class="alt-row">
-<td>Ampere's law</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
 <tr class="row">
 <td>Magnetic fields: Feeling magnetic fields - charges and dipoles</td>
 <td>(<a href="presentati_w07d1.pdf" data-smd-id="s129">PDF</a>)</td>
@@ -473,11 +448,6 @@
 <td>(<a href="presentati_w07d2.pdf" data-smd-id="s131">PDF - 1.4 MB</a>)</td>
 <td>(<a href="prs_w07d2_qonly.pdf" data-smd-id="s132">PDF</a>)</td>
 </tr>
-<tr class="row">
-<td>Magnetic fields: Force and torque on a current loop</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
 <tr class="alt-row">
 <td>Faraday's law</td>
 <td>(<a href="presentati_w09d1.pdf" data-smd-id="s133">PDF</a>)</td>
@@ -486,11 +456,6 @@
 <tr class="alt-row">
 <td>Faraday's law (cont.)</td>
 <td>(<a href="presentati_w09d2.pdf" data-smd-id="s134">PDF</a>)</td>
-<td>&nbsp;</td>
-</tr>
-<tr class="alt-row">
-<td>Mutual inductance and transformers; Inductors</td>
-<td>&nbsp;</td>
 <td>&nbsp;</td>
 </tr>
 <tr class="row">
@@ -523,11 +488,6 @@
 <td>(<a href="presentati_w12d2.pdf" data-smd-id="s144">PDF</a>)</td>
 <td>(<a href="prs_w11d2_qonly.pdf" data-smd-id="s145">PDF</a>)</td>
 </tr>
-<tr class="row">
-<td>Driven LRC circuits (cont.)</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
 <tr class="alt-row">
 <td>Maxwell's equations, EM radiation and energy flow</td>
 <td>(<a href="presentati_w13d1.pdf" data-smd-id="s146">PDF</a>)</td>
@@ -537,11 +497,6 @@
 <td>Maxwell's equations, EM radiation and energy flow (cont.)</td>
 <td>(<a href="presentati_w13d2.pdf" data-smd-id="s147">PDF</a>)</td>
 <td>(<a href="prs_w12d2_qonly.pdf" data-smd-id="s148">PDF</a>)</td>
-</tr>
-<tr>
-<td>EM radiation</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
 </tr>
 <tr class="row">
 <td>Generating EM radiation</td>
@@ -565,7 +520,6 @@
 </tr>
 </tbody>
 </table>
-
 
 
 
