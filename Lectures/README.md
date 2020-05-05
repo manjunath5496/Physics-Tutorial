@@ -9,7 +9,7 @@
     <li class="title"><a href="#course8">Statistical Physics I </a></li>
  <li class="title"><a href="#course9">Quantum Physics II </a></li>
   <li class="title"><a href="#course10">Quantum Physics III </a></li>
-  <li class="title"><a href="#course11">Introductory Quantum Mechanics II </a></li>
+  <li class="title"><a href="#course11">Electromagnetism II </a></li>
    <li class="title"><a href="#course12">Small-Molecule Spectroscopy and Dynamics </a></li>
   <li class="title"><a href="#course13">Chemistry of Biomolecules I </a></li>
    <li class="title"><a href="#course14">Synthetic Organic Chemistry II</a></li>
@@ -2028,7 +2028,61 @@
 <li>Chapter 8:&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_06S18ch8.pdf">Identical Particles (PDF)</a></li>
 </ul>
 </br>
+<h2 id ="course11">Electromagnetism II </h2>
 
-
-
+<table class="tablewidth100" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="MIT8_07F12_ln1.pdf">Vector Analysis (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_07F12_ln2.pdf">Rotations in Index Notation (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." />&nbsp;<a href="MIT8_07F12_ln3.pdf">Integral Formulation of Basic Equations (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_07F12_ln4.pdf">Conductors: Surface Forces and Capacitance (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." />&nbsp;<a href="MIT8_07F12_ln5.pdf">Image Charge Method; Separation of Variables (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." />&nbsp;<a href="MIT8_07F12_ln6.pdf">Separation of Variables in Spherical Coordinates (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_07F12_ln7.pdf">A Spherical Shell of Charge with a Circular Hole (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_07F12_ln8.pdf">The Traceless Symmetric Tensor Expansion and Standard Spherical Harmonics (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_07F12_ln9.pdf">Traceless Symmetric Tensor Approach to Legendre Polynomials and Spherical Harmonics (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." />&nbsp;<a href="MIT8_07F12_ln10.pdf">Magnetic Multipole Expansion and Magnetic Dipoles (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." />&nbsp;<a href="MIT8_07F12_ln11.pdf">Magnetic Dipoles and Magnetic Fields in Matter (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_07F12_ln12.pdf">Reversed Cherenkov Radiation in Left-Handed Meta-material (PDF &ndash; 3.2MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_07F12_ln13.pdf">Flipping Photons Backward: Reversed Cherenkov Radiation Inspired by Metamaterials (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_07F12_ln14.pdf">Electromagnetic Waves (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_07F12_ln15.pdf">Potentials and Fields (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_07F12_ln16.pdf">Radiation (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_07F12_ln17.pdf">E&amp;M Review on Waves, Potentials, and Radiation (PDF &ndash; 2.6MB)</a></td>
+</tr>
+</tbody>
+</table>
 
