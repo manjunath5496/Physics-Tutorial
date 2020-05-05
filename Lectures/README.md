@@ -7,7 +7,7 @@
   <li class="title"><a href="#course6">Relativity</a></li>
    <li class="title"><a href="#course7">Quantum Physics I </a></li>
     <li class="title"><a href="#course8">Statistical Physics I </a></li>
- <li class="title"><a href="#course9">Non-Equilibrium Statistical Mechanics </a></li>
+ <li class="title"><a href="#course9">Quantum Physics II </a></li>
   <li class="title"><a href="#course10">Introductory Quantum Mechanics I </a></li>
   <li class="title"><a href="#course11">Introductory Quantum Mechanics II </a></li>
    <li class="title"><a href="#course12">Small-Molecule Spectroscopy and Dynamics </a></li>
@@ -1977,4 +1977,44 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id ="course9">Quantum Physics II</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="MIT8_05F13_Chap_01.pdf">Wave Mechanics (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_05F13_Chap_02.pdf">Spin One-half, Bras, Kets, and Operators (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_05F13_Chap_03.pdf">Linear Algebra: Vector Spaces and Operators (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_05F13_Chap_04.pdf">Dirac's Bra and Ket Notation (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_05F13_Chap_05.pdf">Uncertainty Principle and Compatible Observables (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_05F13_Chap_06.pdf">Quantum Dynamics (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_05F13_Chap_07.pdf">Two State Systems (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_05F13_Chap_08.pdf">Multiparticle States and Tensor Products (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_05F13_Chap_09.pdf">Angular Momentum (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_05F13_Chap_10.pdf">Addition of Angular Momentum (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+
+
 
