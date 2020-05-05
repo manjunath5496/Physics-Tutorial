@@ -1,7 +1,7 @@
 <ul>
 <li class="title"><a href="#course1">Classical Mechanics</a></li>
  <li class="title"><a href="#course2">Physics II: Electricity and Magnetism</a></li> 
-  <li class="title"><a href="#course3">Crystal Structure Refinement </a></li> 
+  <li class="title"><a href="#course3">Physics II: Electricity and Magnetism with an Experimental Focus </a></li> 
   <li class="title"><a href="#course4">Crystal Structure Analysis </a></li>
    <li class="title"><a href="#course5">Physical Chemistry </a></li>
   <li class="title"><a href="#course6">Physical Chemistry II </a></li>
@@ -861,6 +861,7 @@
 </tr>
 </tbody>
 </table>
-
+</br>
+<h2 id ="course3">Physics II: Electricity and Magnetism with an Experimental Focus  </h2>
 
 
