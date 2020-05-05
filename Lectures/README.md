@@ -2147,3 +2147,10 @@
 </tr>
 </tbody>
 </table>
+</br>
+<p>The&nbsp;<a href="MIT8_09F14_full.pdf" data-smd-id="s104">full course notes (PDF - 6.1MB)</a>&nbsp;are also available for download.</p>
+</br>
+
+
+
+
