@@ -33,6 +33,7 @@
     <li class="title"><a href="#course32">Relativistic Quantum Field Theory I</a></li>
      <li class="title"><a href="#course33">Relativistic Quantum Field Theory II</a></li>
       <li class="title"><a href="#course34">Relativistic Quantum Field Theory III</a></li>
+      <li class="title"><a href="#course35">Statistical Mechanics I: Statistical Mechanics of Particles</a></li>
 </ul>
 </br>
 
@@ -3271,7 +3272,137 @@
 </br>
 
 
+<h2 id ="course35">Statistical Mechanics I: Statistical Mechanics of Particles</h2>
 
 
-
+<table class="tablewidth100" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>I. Thermodynamics</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Fundamental Definitions, The Zeroth Law, The First Law</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_333F13_Lec1.pdf">Lecture Note 1 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>The Second Law, Carnot Engines and Thermodynamic Temperature, Entropy</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_333F13_Lec2.pdf">Lecture Note 2 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Approach to Equilibrium and Thermodynamic Potentials, Useful Mathematical Results</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_333F13_Lec3.pdf">Lecture Note 3 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Stability Conditions, The Third Law</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_333F13_Lec4.pdf">Lecture Note 4 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>II. Probability</strong></td>
+</tr>
+<tr class="row">
+<td>General Definitions, One Random Variable, Some Important Probability Distributions</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_333F13_Lec5.pdf">Lecture Note 5 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Many Random Variables, Sums of Random Variables and the Central Limit Theorem, Rules for Large Numbers, Information, Entropy, and Estimation</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_333F13_Lec6.pdf">Lecture Note 6 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>III. Kinetic Theory of Gases</strong></td>
+</tr>
+<tr class="alt-row">
+<td>General Definitions, Liouville's Theorem</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_333F13_Lec7.pdf">Lecture Note 7 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>The Bogoliubov-Born-Green-Kirkwood-Yvon Hierarchy, The Boltzmann Equation</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_333F13_Lec8.pdf">Lecture Note 8 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>The H-Theorem and Irreversibility, Equilibrium Properties</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_333F13_Lec9.pdf">Lecture Note 9 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Conservation Laws</td>
+<td><span class="nobr"><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_333F13_Lec10.pdf">Lecture Note 10 (PDF)</a></span></td>
+</tr>
+<tr class="alt-row">
+<td>Zeroth Order Hydrodynamics, First Order Hydrodynamics</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_333F13_Lec11.pdf">Lecture Note 11 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>IV. Classical Statistical Mechanics</strong></td>
+</tr>
+<tr class="alt-row">
+<td>General Definitions, The Microcanonical Ensemble, Two-Level Systems</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_333F13_Lec12.pdf">Lecture Note 12 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>The Ideal Gas, Mixing Entropy and Gibbs' Paradox, The Canonical Ensemble</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_333F13_Lec13.pdf">Lecture Note 13 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Examples, The Gibbs Canonical Ensemble, The Grand Canonical Ensemble</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_333F13_Lec14.pdf">Lecture Note 14 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>V. Interacting Particles</strong></td>
+</tr>
+<tr class="alt-row">
+<td>The Cumulant Expansion</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_333F13_Lec15.pdf">Lecture Note 15 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>The Cluster Expansion</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_333F13_Lec16.pdf">Lecture Note 16 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>The Second Virial Coefficient and Van der Waals Equation, Breakdown of the Van der Waals Equation, Mean Field Theory of Condensation</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_333F13_Lec17.pdf">Lecture Note 17 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Variational Methods, Corresponding States, Critical Point Behavior</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_333F13_Lec18.pdf">Lecture Note 18 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>VI. Quantum Statistical Mechanics</strong></td>
+</tr>
+<tr class="row">
+<td>Mean field theory of condensation, Corresponding states, Critical point behavior (from L17 &amp; L18)</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_333F13_Lec19.pdf">Lecture Note 19 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Dilute Polyatomic Gases, Vibrations of a Solid, Black-body Radiation</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_333F13_Lec20.pdf">Lecture Note 20 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Quantum Microstates, Quantum Macrostates</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_333F13_Lec21.pdf">Lecture Note 21 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>VII. Ideal Quantum Gases</strong></td>
+</tr>
+<tr class="row">
+<td>Hilbert Space of Identical Particles</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_333F13_Lec22.pdf">Lecture Note 22 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Canonical Formulation, Grand Canonical Formulation</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_333F13_Lec23.pdf">Lecture Note 23 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>The Degenerate Fermi Gas</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_333F13_Lec24.pdf">Lecture Note 24 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>The Degenerate Bose Gas</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_333F13_Lec25.pdf">Lecture Note 25 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Superfluid He<sup>4</sup></td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_333F13_Lec26.pdf">Lecture Note 26 (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
 
