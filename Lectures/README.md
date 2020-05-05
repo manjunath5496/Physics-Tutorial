@@ -12,7 +12,7 @@
   <li class="title"><a href="#course11">Electromagnetism II </a></li>
    <li class="title"><a href="#course12">Statistical Physics II </a></li>
   <li class="title"><a href="#course13">Classical Mechanics III </a></li>
-   <li class="title"><a href="#course14">Synthetic Organic Chemistry II</a></li>
+   <li class="title"><a href="#course14">The Physics of Energy</a></li>
   <li class="title"><a href="#course15">Organic Structure Determination</a></li>
    <li class="title"><a href="#course16">Thermodynamics of Biomolecular Systems</a></li>
    <li class="title"><a href="#course17">Advanced Organic Chemistry</a></li>
@@ -2151,6 +2151,51 @@
 <p>The&nbsp;<a href="MIT8_09F14_full.pdf" data-smd-id="s104">full course notes (PDF - 6.1MB)</a>&nbsp;are also available for download.</p>
 </br>
 
+<h2 id ="course14">The Physics of Energy </h2>
 
-
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><strong>Introduction</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Introduction (<a href="MIT8_21s09_lec01.pdf">PDF&nbsp;-&nbsp;1.8MB</a>)</td>
+</tr>
+<tr class="row">
+<td><strong>Part I &ndash; Energy and its Uses</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Units and scales of energy use&nbsp;<span class="nobr">(<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_21s09_lec02.pdf">PDF - 1.1MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Mechanical energy and transport (<a href="MIT8_21s09_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Heat energy: Conversion between heat and mechanical energy (<a href="MIT8_21s09_lec04.pdf">PDF&nbsp;‑&nbsp;2.9MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Electromagnetic energy: Storage, conversion, transmission and radiation&nbsp;(<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_21s09_lec05.pdf">PDF - 7.7MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Quantum mechanics I: Intro to the quantum, energy quantization (<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_21s09_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Energy in chemical systems and processes, flow of CO<sub>2</sub>&nbsp;<span class="nobr">(<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_21s09_lec07.pdf">PDF - 4.0MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Entropy and temperature (<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_21s09_lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Heat engines (<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_21s09_lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Conversion I: Phase change energy conversion, refrigeration and heat pumps&nbsp;<span class="nobr">(<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_21s09_lec10.pdf">PDF - 3.5MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Internal combustion engines (<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_21s09_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>Conversion II: Steam and gas power cycles, the physics of power plants&nbsp;<span class="nobr">(<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_21s09_lec12.pdf">PDF - 2.9MB</a>)</span></td>
+</tr>
+</tbody>
+</table>
