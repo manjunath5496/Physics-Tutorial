@@ -1,6 +1,6 @@
 <ul>
 <li class="title"><a href="#course1">Classical Mechanics</a></li>
- <li class="title"><a href="#course2">Principles of Inorganic Chemistry III</a></li> 
+ <li class="title"><a href="#course2">Physics II: Electricity and Magnetism</a></li> 
   <li class="title"><a href="#course3">Crystal Structure Refinement </a></li> 
   <li class="title"><a href="#course4">Crystal Structure Analysis </a></li>
    <li class="title"><a href="#course5">Physical Chemistry </a></li>
@@ -370,6 +370,202 @@
 </tbody>
 </table>
 </br>
+
+<h2 id ="course2">Physics II: Electricity and Magnetism </h2>
+
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">CLASS&nbsp;SLIDES</th>
+<th scope="col">CONCEPT&nbsp;QUESTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction to TEAL; Fields; Review of gravity; Electric field</td>
+<td>(<a href="presentati_w01d1.pdf" data-smd-id="s107">PDF</a>)</td>
+<td>(<a href="prs_w01d1_qonly.pdf" data-smd-id="s108">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Electric charge; Electric fields; Dipoles; Continuous charge distributions</td>
+<td>(<a href="presentati_w01d2.pdf" data-smd-id="s109">PDF</a>)</td>
+<td>(<a href="prs_w01d2_qonly.pdf" data-smd-id="s110">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Coordinate systems; Gradients; Line and surface integrals</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Working in groups, electric potential, E from V</td>
+<td>(<a href="presentati_w02d1.pdf" data-smd-id="s111">PDF</a>)</td>
+<td>(<a href="prs_w02d1_qonly.pdf" data-smd-id="s112">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Electric potential, equipotentials</td>
+<td>(<a href="presentati_w02d2.pdf" data-smd-id="s113">PDF</a>)</td>
+<td>(<a href="prs_w02d2_qonly.pdf" data-smd-id="s114">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Continuous charge distributions</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Gauss's law</td>
+<td>(<a href="presentati_w03d1.pdf" data-smd-id="s115">PDF</a>)</td>
+<td>(<a href="prs_w03d1_qonly.pdf" data-smd-id="s116">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Gauss's law (cont.)</td>
+<td>(<a href="presentati_w03d2.pdf" data-smd-id="s117">PDF</a>)</td>
+<td>(<a href="prs_w03d2_qonly.pdf" data-smd-id="s118">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Conductors and capacitors</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Capacitors</td>
+<td>(<a href="presentati_w04d2.pdf" data-smd-id="s119">PDF</a>)</td>
+<td>(<a href="prs_w04d2_qonly.pdf" data-smd-id="s120">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Capacitors (cont.)</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Current, Resistance, and DC circuits</td>
+<td>(<a href="presentati_w05d1.pdf" data-smd-id="s121">PDF</a>)</td>
+<td>(<a href="prs_w05d1_qonly.pdf" data-smd-id="s122">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Exam 1 information</td>
+<td>(<a href="presentati_w05d2.pdf" data-smd-id="s123">PDF</a>)</td>
+<td>(<a href="prs_w05d2_qonly.pdf" data-smd-id="s124">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Magnetic fields: Creating magnetic fields - Biot-Savart</td>
+<td>(<a href="presentati_w06d1.pdf" data-smd-id="s125">PDF</a>)</td>
+<td>(<a href="prs_w06d1_qonly.pdf" data-smd-id="s126">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Magnetic fields: Creating magnetic fields - Ampere's Law</td>
+<td>(<a href="presentati_w06d2.pdf" data-smd-id="s127">PDF - 1.1 MB</a>)</td>
+<td>(<a href="prs_w06d2_qonly.pdf" data-smd-id="s128">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Ampere's law</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Magnetic fields: Feeling magnetic fields - charges and dipoles</td>
+<td>(<a href="presentati_w07d1.pdf" data-smd-id="s129">PDF</a>)</td>
+<td>(<a href="prs_w07d1_qonly.pdf" data-smd-id="s130">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Magnetic levitation; Magnetic forces on dipoles</td>
+<td>(<a href="presentati_w07d2.pdf" data-smd-id="s131">PDF - 1.4 MB</a>)</td>
+<td>(<a href="prs_w07d2_qonly.pdf" data-smd-id="s132">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Magnetic fields: Force and torque on a current loop</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Faraday's law</td>
+<td>(<a href="presentati_w09d1.pdf" data-smd-id="s133">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Faraday's law (cont.)</td>
+<td>(<a href="presentati_w09d2.pdf" data-smd-id="s134">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Mutual inductance and transformers; Inductors</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Inductors and magnetic energy; RL circuits</td>
+<td>(<a href="presentati_w10d1.pdf" data-smd-id="s135">PDF</a>)</td>
+<td>(<a href="prs_w09d1_qonly.pdf" data-smd-id="s136">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Exam 2 information</td>
+<td>(<a href="presentati_w10d2.pdf" data-smd-id="s137">PDF</a>)</td>
+<td>(<a href="prs_w09d2_qonly.pdf" data-smd-id="s138">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>RC and RL circuits</td>
+<td>(<a href="presentati_w11d1.pdf" data-smd-id="s139">PDF</a>)</td>
+<td>(<a href="prs_w10d1_qonly.pdf" data-smd-id="s140">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>RC and RL circuits (cont.)</td>
+<td>(<a href="presentati_w11d2.pdf" data-smd-id="s141">PDF</a>)</td>
+<td>(<a href="prs_w10d2_qonly.pdf" data-smd-id="s142">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>LC, and undriven LRC circuits</td>
+<td>&nbsp;</td>
+<td>(<a href="prs_w11d1_qonly.pdf" data-smd-id="s143">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Driven LRC circuits</td>
+<td>(<a href="presentati_w12d2.pdf" data-smd-id="s144">PDF</a>)</td>
+<td>(<a href="prs_w11d2_qonly.pdf" data-smd-id="s145">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Driven LRC circuits (cont.)</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Maxwell's equations, EM radiation and energy flow</td>
+<td>(<a href="presentati_w13d1.pdf" data-smd-id="s146">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Maxwell's equations, EM radiation and energy flow (cont.)</td>
+<td>(<a href="presentati_w13d2.pdf" data-smd-id="s147">PDF</a>)</td>
+<td>(<a href="prs_w12d2_qonly.pdf" data-smd-id="s148">PDF</a>)</td>
+</tr>
+<tr>
+<td>EM radiation</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Generating EM radiation</td>
+<td>(<a href="presentati_w14d1.pdf" data-smd-id="s149">PDF - 2.9 MB</a>)</td>
+<td>(<a href="prs_w13d1_qonly.pdf" data-smd-id="s150">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Exam 3 information</td>
+<td>(<a href="presentati_w14d2.pdf" data-smd-id="s151">PDF - 1.4 MB</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Interference</td>
+<td>&nbsp;</td>
+<td>(<a href="prs_w14d1_qonly.pdf" data-smd-id="s152">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Final exam</td>
+<td>(<a href="presentati_w15d2.pdf" data-smd-id="s153">PDF</a>)</td>
+<td>(<a href="prs_w14d2_qonly.pdf" data-smd-id="s154">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
 
 
 
