@@ -10,7 +10,7 @@
  <li class="title"><a href="#course9">Quantum Physics II </a></li>
   <li class="title"><a href="#course10">Quantum Physics III </a></li>
   <li class="title"><a href="#course11">Electromagnetism II </a></li>
-   <li class="title"><a href="#course12">Small-Molecule Spectroscopy and Dynamics </a></li>
+   <li class="title"><a href="#course12">Statistical Physics II </a></li>
   <li class="title"><a href="#course13">Chemistry of Biomolecules I </a></li>
    <li class="title"><a href="#course14">Synthetic Organic Chemistry II</a></li>
   <li class="title"><a href="#course15">Organic Structure Determination</a></li>
@@ -2102,3 +2102,24 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id ="course12">Statistical Physics II</h2>
+
+<ul>
+<li>Canonical Ensemble (<a href="canonical_ensem.pdf">PDF - 1.0 MB</a>)</li>
+<li>Interacting Classical Gas and van der Waals Equation of State (<a href="vanderwaals_mod.pdf">PDF</a>)</li>
+<li>Ising Model (<a href="ising_model.pdf">PDF</a>)</li>
+<li>Grand Canonical Ensemble (<a href="grand_canonical.pdf">PDF</a>)</li>
+<li>Random Variable (<a href="random_variable.pdf">PDF</a>)</li>
+<li>Thermal Fluctuations (<a href="thermal_fluct.pdf">PDF</a>)</li>
+<li>The Bose Gas (<a href="the_bose_gas.pdf">PDF 1 - 2.6 MB</a>) (<a href="the_bose_gas_co.pdf">PDF 2</a>)</li>
+<li>The Fermi Gas (<a href="the_fermi_gas.pdf">PDF</a>)</li>
+<li>Transport (<a href="transport.pdf">PDF</a>)</li>
+<li>Quantum Theory for Interacting Bosons&nbsp;&nbsp;(<a href="fieldtheory_bos.pdf">PDF</a>)</li>
+<li>Statistical Ensembles (<a href="microcanonical_en.pdf">PDF</a>)</li>
+</ul>
+
+
+
+
+
