@@ -21,7 +21,7 @@
   <li class="title"><a href="#course20">Theory of Solids I</a></li>
    <li class="title"><a href="#course21">Theory of Solids II</a></li>
     <li class="title"><a href="#course22">Particle Physics II</a></li>
-     <li class="title"><a href="#course23">Advanced Chemical Experimentation and Instrumentation</a></li>
+     <li class="title"><a href="#course23">Particle Physics of the Early Universe</a></li>
     <li class="title"><a href="#course24">Biological Engineering Design</a></li>
    <li class="title"><a href="#course25">Biological Chemistry I</a></li>
    <li class="title"><a href="#course26">Biological Chemistry II</a></li>
@@ -2758,3 +2758,18 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course23">Particle Physics of the Early Universe </h2>
+
+<table class="tablewidth75">
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Part 1: General Relativity (<a href="89521.pdf">PDF</a>)</strong></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Part 2: Cosmological Models with Idealized Matter (<a href="89522.pdf">PDF</a>)</strong></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
