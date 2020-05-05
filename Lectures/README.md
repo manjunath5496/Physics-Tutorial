@@ -373,6 +373,7 @@
 
 <h2 id ="course2">Physics II: Electricity and Magnetism </h2>
 
+<p> <strong>Lecture Notes: </strong> </p>
 
 <table summary="See table caption for summary.">
 <thead>
