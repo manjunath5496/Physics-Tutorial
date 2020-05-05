@@ -39,6 +39,7 @@
     <li class="title"><a href="#course38">Astrophysics II</a></li>
  <li class="title"><a href="#course39">Applied Geometric Algebra</a></li>
   <li class="title"><a href="#course40">Reducing the Danger of Nuclear Weapons and Proliferation</a></li>
+   <li class="title"><a href="#course41">The Early Universe</a></li>
 </ul>
 </br>
 
@@ -3712,5 +3713,5 @@
 <li><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MITRES_8-004IAP15_Bernst.pdf">Reducing the Danger of Nuclear Weapons and Proliferation (PDF)</a></li>
 </ul>
 </br>
-
+<h2 id ="course41">The Early Universe</h2>
 
