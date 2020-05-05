@@ -17,7 +17,7 @@
    <li class="title"><a href="#course16">Introduction to Computational Neuroscience</a></li>
    <li class="title"><a href="#course17">Electromagnetic Theory</a></li>
     <li class="title"><a href="#course18">Quantum Theory I</a></li>
- <li class="title"><a href="#course19">Introduction to Experimental Chemistry</a></li>
+ <li class="title"><a href="#course19">Quantum Theory II</a></li>
   <li class="title"><a href="#course20">Biochemistry Laboratory</a></li>
    <li class="title"><a href="#course21">Organic Chemistry II</a></li>
     <li class="title"><a href="#course22">Organic Chemistry I</a></li>
@@ -2521,5 +2521,9 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id ="course19">Quantum Theory II </h2>
+
+
 
 
