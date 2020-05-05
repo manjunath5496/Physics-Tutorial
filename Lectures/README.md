@@ -1080,7 +1080,17 @@
 <li><a href="MIT8_03SCF16_Text_Ch6.pdf">Chapter 6: Continuum Limit and Fourier Series&nbsp;<span class="nobr">(PDF - 1.2MB)</span></a>&nbsp;</li>
 <li><a href="MIT8_03SCF16_ProblemSet5.pdf">Problem Set 5 (PDF)</a></li>
 </ul>
-
+</br>
+<p><strong>Practice Exams and Solutions</strong></p>
+<ul>
+<li><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s155" /><a href="MIT8_03SCF16_FinalExam_Formula.pdf" data-smd-id="s156">Final Exam Formula Sheet (PDF)</a></li>
+<li><a href="MIT8_03SCF16_PracticeFinalExam1.pdf" data-smd-id="s157">Practice Final Exam 1 (PDF)</a></li>
+<li><a href="MIT8_03SCF16_PracticeFinalExam1_Solutions.pdf" data-smd-id="s159">Practice Final Exam 1 Solution&nbsp;<span class="nobr">(PDF - 1.3MB)</span></a></li>
+<li><a href="MIT8_03SCF16_PracticeFinalExam2.pdf" data-smd-id="s161">Practice Final Exam 2&nbsp;<span class="nobr">(PDF - 1.3MB)</span></a></li>
+<li><a href="MIT8_03SCF16_PracticeFinalExam2_Solutions.pdf" data-smd-id="s163">Practice Final Exam 2 Solution (PDF)</a></li>
+<li><a href="MIT8_03SCF16_PracticeFinalExam3.pdf" data-smd-id="s164">Practice Final Exam 3 (PDF)</a></li>
+<li><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s165" /><a href="MIT8_03SCF16_PracticeFinalExam3_Solutions.pdf" data-smd-id="s166">Practice Final Exam 3 Solution (PDF)</a></li>
+</ul>
 
 
 
