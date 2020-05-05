@@ -2,7 +2,7 @@
 <li class="title"><a href="#course1">Classical Mechanics</a></li>
  <li class="title"><a href="#course2">Physics II: Electricity and Magnetism</a></li> 
   <li class="title"><a href="#course3">Physics II: Electricity and Magnetism with an Experimental Focus </a></li> 
-  <li class="title"><a href="#course4">Crystal Structure Analysis </a></li>
+  <li class="title"><a href="#course4">Physics III: Vibrations and Waves </a></li>
    <li class="title"><a href="#course5">Physical Chemistry </a></li>
   <li class="title"><a href="#course6">Physical Chemistry II </a></li>
    <li class="title"><a href="#course7">Computational Quantum Mechanics of Molecular and Extended Systems </a></li>
@@ -28,8 +28,6 @@
    <li class="title"><a href="#course27">Thermodynamics and Kinetics</a></li>
 </ul>
 </br>
-
-
 <h2 id ="course1">Classical Mechanics </h2>
 <table class="tablewidth100" summary="See table caption for summary.">
 <tbody>
@@ -1040,3 +1038,50 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id ="course4">Physics III: Vibrations and Waves </h2>
+
+<ul>
+<li><a href="MIT8_03SCF16_Lec1.pdf">Typed Notes for Lecture 1 (PDF)</a></li>
+<li><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_03SCF16_hw_Lec1.pdf">Handwritten Notes for Lecture 1&nbsp;<span class="nobr">(PDF - 2.2MB)</span></a></li>
+<li><a href="MIT8_03SCF16_Text_Ch1.pdf">Chapter 1: Harmonic Oscillation&nbsp;<span class="nobr">(PDF - 1.4MB)</span></a></li>
+<li><a href="MIT8_03SCF16_ProblemSet1.pdf">Problem Set 1 (PDF)</a></li>
+<li><a href="YbFgNsM6r44.pdf" target="_blank">Simple Harmonic Motion and Introduction to Problem Solving</a></li>
+<li><a href="MIT8_03SCF16_Lec2.pdf">Typed Notes for Lecture 2 (PDF)</a></li>
+<li><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_03SCF16_hw_Lec2.pdf">Handwritten Notes for Lecture 2&nbsp;<span class="nobr">(PDF - 2MB)</span></a></li>
+<li><a href="MIT8_03SCF16_Text_Ch2.pdf">Chapter 2: Forced Oscillation and Resonance&nbsp;<span class="nobr">(PDF - 1.3MB)</span></a></li>
+<li><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_03SCF16_Lec3.pdf">Typed Notes for Lecture 3&nbsp;<span class="nobr">(PDF - 1.2MB)</span></a></li>
+<li><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_03SCF16_hw_Lec3.pdf">Handwritten Notes for Lecture 3&nbsp;<span class="nobr">(PDF - 2.1MB)</span></a></li>
+<li class="subhead"><a href="MIT8_03SCF16_Text_Ch2.pdf">Chapter 2: Forced Oscillation and Resonance&nbsp;<span class="nobr">(PDF - 1.3MB)</span></a>&nbsp;</li>
+<li class="subhead"><a href="MIT8_03SCF16_ProblemSet2.pdf">Problem Set 2 (PDF)</a></li>
+<li><a href="MIT8_03SCF16_Lec4.pdf">Typed Notes for Lecture 4 (PDF)</a></li>
+<li><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_03SCF16_hw_Lec4.pdf">Handwritten Notes for Lecture 4&nbsp;<span class="nobr">(PDF - 2.7MB)</span></a></li>
+<li><a href="MIT8_03SCF16_Text_Ch3.pdf">Chapter 3: Normal Modes&nbsp;<span class="nobr">(PDF - 1.4MB)</span></a></li>
+<li><a href="MIT8_03SCF16_Lec5.pdf">Typed Notes for Lecture 5&nbsp;<span class="nobr">(PDF - 1.1MB)</span></a></li>
+<li><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_03SCF16_hw_Lec5.pdf">Handwritten Notes for Lecture 5&nbsp;<span class="nobr">(PDF - 1.7MB)</span></a></li>
+<li class="subhead"><a href="MIT8_03SCF16_Text_Ch3.pdf">Chapter 3: Normal Modes&nbsp;<span class="nobr">(PDF - 1.4MB)</span></a>&nbsp;</li>
+<li class="subhead"><a href="MIT8_03SCF16_ProblemSet3.pdf">Problem Set 3 (PDF)</a></li>
+<li class="subhead"><a href="MIT8_03SCF16_Lec6.pdf">Typed Notes for Lecture 6&nbsp;<span class="nobr">(PDF - 1.3MB)</span></a></li>
+<li><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_03SCF16_hw_Lec6.pdf">Handwritten Notes for Lecture 6&nbsp;<span class="nobr">(PDF - 1.5MB)</span></a></li>
+<li class="subhead"><a href="MIT8_03SCF16_Text_Ch4.pdf">Chapter 4: Symmetries&nbsp;<span class="nobr">(PDF - 1.3MB)</span></a>&nbsp;</li>
+<li><a href="MIT8_03SCF16_Text_Ch5.pdf">Chapter 5: Waves&nbsp;<span class="nobr">(PDF - 1.4MB)</span></a>&nbsp;</li>
+<li class="subhead"><a href="MIT8_03SCF16_Lec7.pdf">Typed Notes for Lecture 7&nbsp;<span class="nobr">(PDF - 1.1MB)</span></a></li>
+<li><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_03SCF16_hw_Lec7.pdf">Handwritten Notes for Lecture 7&nbsp;<span class="nobr">(PDF - 1.9MB)</span></a></li>
+<li><a href="MIT8_03SCF16_Text_Ch4.pdf">Chapter 4: Symmetries&nbsp;<span class="nobr">(PDF - 1.3MB)</span></a>&nbsp;</li>
+<li><a href="MIT8_03SCF16_Text_Ch5.pdf">Chapter 5: Waves&nbsp;<span class="nobr">(PDF - 1.4MB)</span></a></li>
+<li><a href="MIT8_03SCF16_ProblemSet4.pdf">Problem Set 4 (PDF)</a></li>
+<li><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_03SCF16_Lec8.pdf">Typed Notes for Lecture 8&nbsp;<span class="nobr">(PDF - 1.2MB)</span></a></li>
+<li><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_03SCF16_hw_Lec8.pdf">Handwritten Notes for Lecture 8&nbsp;<span class="nobr">(PDF - 1.9MB)</span></a></li>
+<li><a href="MIT8_03SCF16_Text_Ch5.pdf">Chapter 5: Waves&nbsp;<span class="nobr">(PDF - 1.4MB)</span></a></li>
+<li><a href="MIT8_03SCF16_Text_Ch6.pdf">Chapter 6: Continuum Limit and Fourier Series&nbsp;<span class="nobr">(PDF - 1.2MB)</span></a>&nbsp;</li>
+<li><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_03SCF16_Lec9.pdf">Typed Notes for Lecture 9&nbsp;<span class="nobr">(PDF - 1.1MB)</span></a></li>
+<li><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_03SCF16_hw_Lec9.pdf">Handwritten Notes for Lecture 9&nbsp;<span class="nobr">(PDF - 1.7MB)</span></a></li>
+<li><a href="MIT8_03SCF16_Text_Ch5.pdf">Chapter 5: Waves&nbsp;<span class="nobr">(PDF - 1.4MB)</span></a></li>
+<li><a href="MIT8_03SCF16_Text_Ch6.pdf">Chapter 6: Continuum Limit and Fourier Series&nbsp;<span class="nobr">(PDF - 1.2MB)</span></a>&nbsp;</li>
+<li><a href="MIT8_03SCF16_ProblemSet5.pdf">Problem Set 5 (PDF)</a></li>
+</ul>
+
+
+
+
+
