@@ -8,7 +8,7 @@
    <li class="title"><a href="#course7">Quantum Physics I </a></li>
     <li class="title"><a href="#course8">Statistical Physics I </a></li>
  <li class="title"><a href="#course9">Quantum Physics II </a></li>
-  <li class="title"><a href="#course10">Introductory Quantum Mechanics I </a></li>
+  <li class="title"><a href="#course10">Quantum Physics III </a></li>
   <li class="title"><a href="#course11">Introductory Quantum Mechanics II </a></li>
    <li class="title"><a href="#course12">Small-Molecule Spectroscopy and Dynamics </a></li>
   <li class="title"><a href="#course13">Chemistry of Biomolecules I </a></li>
@@ -2015,6 +2015,21 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id ="course10">Quantum Physics III </h2>
+
+<ul>
+<li>Chapter 1:&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_06S18ch1.pdf">Perturbation Theory (PDF)</a></li>
+<li>Chapter 2:&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_06S18ch2.pdf">Hydrogen Fine Structure (PDF)</a></li>
+<li>Chapter 3:&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_06S18ch3.pdf">Semiclassical Approximation (PDF)</a></li>
+<li>Chapter 4:&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_06S18ch4.pdf">Time Dependent Perturbation Theory (PDF - 1.1MB)</a></li>
+<li>Chapter 5: Particles in Electromagnetic Fields [not available]</li>
+<li>Chapter 6:&nbsp;<a href="MIT8_06S18ch6.pdf">Adiabatic Approximation (PDF)</a></li>
+<li>Chapter 7:&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_06S18ch7.pdf">Scattering (PDF)</a></li>
+<li>Chapter 8:&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_06S18ch8.pdf">Identical Particles (PDF)</a></li>
+</ul>
+</br>
+
 
 
 
