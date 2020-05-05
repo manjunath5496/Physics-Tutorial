@@ -30,6 +30,7 @@
  <li class="title"><a href="#course29">Many-Body Theory for Condensed Matter Systems</a></li>
   <li class="title"><a href="#course30">Introduction to Nuclear and Particle Physics</a></li>
    <li class="title"><a href="#course31">Introduction to Plasma Physics I</a></li>
+    <li class="title"><a href="#course32">Relativistic Quantum Field Theory I</a></li>
 </ul>
 </br>
 
@@ -3096,3 +3097,29 @@
 </ul>
 
 </br>
+<h2 id ="course32">Relativistic Quantum Field Theory I</h2>
+
+<p><strong>Lecture Notes</strong></p>
+<ul>
+<li>Quantization of the Free Scalar Field (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/ft1ln01_08.pdf">PDF</a>)</li>
+<li>Notes on the Euler-Maclaurin Summation Formula (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/ft1ln02_08.pdf">PDF</a>)</li>
+<li>Informal Notes on Distributions and the Fourier Transform (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/ft1ln03_08.pdf">PDF</a>)</li>
+<li>Informal Notes Dirac Delta Function as a Distribution (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/ft1ln04_08.pdf">PDF</a>)</li>
+<li>Quantum Mechanics and Path Integrals (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/ft1ln05_08.pdf">PDF</a>)</li>
+<li>Path Integrals, Green's Functions, and Generating Functions (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/ft1ln06_08.pdf">PDF</a>)</li>
+</ul>
+<p><strong>Lecture Slides</strong></p>
+<ul>
+<li>Quantization of the Free Scalar Field (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/ft1ls01p1_08.pdf">PDF</a>)</li>
+<li>Particle Production by a Classical Source (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/ft1ls02p_08.pdf">PDF</a>)</li>
+<li>The Dirac Field, Part I (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/ft1ls03p_08.pdf">PDF</a>)</li>
+<li>The Dirac Field, Part II (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/ft1ls04p_08.pdf">PDF</a>)</li>
+<li>The Dirac Field, Part III (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/ft1ls05p_08.pdf">PDF</a>)</li>
+<li>Discrete Symmetries of the Dirac Field (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/ft1ls06p_08_6a.pdf">PDF 1</a>) (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/ft1ls06p_08.pdf">PDF 2</a>)</li>
+<li>Interacting Field Theories (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/ft1ls07p_08.pdf">PDF</a>)</li>
+<li>Interacting Field Theories (Executive Summary Version) (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/ft1ls08p_08.pdf">PDF</a>)</li>
+</ul>
+
+</br>
+
+
