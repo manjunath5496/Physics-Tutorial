@@ -1019,28 +1019,24 @@
 </tbody>
 </table>
 </br>
+<p> <strong>Exams and solutions </strong> </p>
 <table class="tablewidth75" summary="See table caption for summary.">
 <tbody>
 <tr class="row">
-<td>1</td>
 <td>Review<br /><br />Practice Quiz 1a (<a href="pract_quiz1a_05.pdf">PDF</a>)<br /><br />Practice Quiz 1b (<a href="pract_qz1b_05.pdf">PDF</a>)<br /><br />Solutions to 1a (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="pract_qz1a_sol.pdf">PDF</a>)<br /><br />Solutions to 1b (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="pract_qz1b_sol.pdf">PDF</a>)<br /><br />Corrections to 1a and 1b Solutions (<a href="practice_quiz_sol.pdf">PDF</a>)</td>
 <td>Quiz 1 (<a href="802x_quiz1_2005.pdf">PDF</a>)<br /><br />Solutions (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="quiz1sol.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td>2</td>
 <td>Review (<a href="quiz2_review.pdf">PDF</a>)<br /><br />Practice Quiz 2a (<a href="pract_qz2a_2005.pdf">PDF</a>)<br /><br />Practice Quiz 2b (<a href="pract_qz2b_2005.pdf">PDF</a>)<br /><br />Solutions to 2a and 2b (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." />&nbsp;<a href="practquiz2_sol.pdf">PDF</a>)<br />(Note that the correct answer to 2A, problem 4A should be 300V/300V (or a little less due to internal resistance of the HVPS), not 150V/150V.)</td>
 <td>Quiz 2 with Solutions (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="802x_quiz2_sol.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
-<td>3</td>
 <td>Review (<a href="802x_05_qz3_rev.pdf">PDF</a>)<br /><br />Practice Quiz 3a (<a href="802_05_prct_qz3a.pdf">PDF</a>)<br /><br />Practice Quiz 3b (<a href="802_05_prct_qz3b.pdf">PDF</a>)<br /><br />Solutions to 3b (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="05_prct_qz3b_sol.pdf">PDF</a>)</td>
 <td>Quiz 3 with Solutions (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="quiz3sol.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td>4</td>
 <td>Review (<a href="802x_05_qz4_rev.pdf">PDF</a>)<br /><br />Practice Quiz 4a (<a href="05_pract_qz4a.pdf">PDF</a>)<br /><br />Practice Quiz 4b (<a href="2005_prct_qz4b.pdf">PDF</a>)<br /><br />Solutions to 4a (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="05_prct_qz4a_sol.pdf">PDF</a>)<br /><br />Solutions to 4b (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="05_prct_qz4b_sol.pdf">PDF</a>)</td>
 <td>Quiz 4 with Solutions (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="quiz4sol.pdf">PDF</a>)</td>
 </tr>
 </tbody>
 </table>
-
