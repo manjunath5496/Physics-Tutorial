@@ -16,7 +16,7 @@
   <li class="title"><a href="#course15">String Theory</a></li>
    <li class="title"><a href="#course16">Introduction to Computational Neuroscience</a></li>
    <li class="title"><a href="#course17">Electromagnetic Theory</a></li>
-    <li class="title"><a href="#course18">Introduction to Organic Synthesis Laboratory</a></li>
+    <li class="title"><a href="#course18">Quantum Theory I</a></li>
  <li class="title"><a href="#course19">Introduction to Experimental Chemistry</a></li>
   <li class="title"><a href="#course20">Biochemistry Laboratory</a></li>
    <li class="title"><a href="#course21">Organic Chemistry II</a></li>
@@ -2418,8 +2418,108 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id ="course18">Quantum Theory I </h2>
 
-
-
+<table class="tablewidth100" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="MIT8_321F17_lec1.pdf">Lecture 1 Notes (PDF)</a></td>
+<td>A "Weird" Example in Quantum Mechanics, The Fundamental Postulates of Quantum Mechanics, Hilbert Spaces</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_321F17_lec2.pdf">Lecture 2 Notes (PDF)</a></td>
+<td>Inner Products, Dual Space, Orthonormal Bases, Operators, Operators as Matrices in a Given Basis, Adjoint Operators, Operator Examples, Eigenstates and Eigenvalues</td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_321F17_lec3.pdf">Lecture 3 Notes (PDF)</a></td>
+<td>More on Matrix Representations, Unitary Transformations, Diagonalization of Hermitian Operators, Simultaneous Diagonalization, Measurement, Spin-1/2 Systems</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_321F17_lec4.pdf">Lecture 4 Notes (PDF)</a></td>
+<td>Spin-1/2 Systems, The Stern-Gerloch Filter Revisited, Compatible and Incompatible Observables, The Generalized Uncertainty Relation, Position and Momentum</td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_321F17_lec5.pdf">Lecture 5 Notes (PDF)</a></td>
+<td>The Position Operator, Measurement of Position, Hilbert Spaces, Generalizing to Particles in Dimension&nbsp;<em>d</em>, The Momentum Operator, Momentum Basis, Normalization of Position and Momentum Eigenstates, Minimum Uncertainty States, Momentum and Translation</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_321F17_lec6.pdf">Lecture 6 Notes (PDF)</a></td>
+<td>Solving Problems in Convenient Bases, Brief Aside on Classical Mechanics, The Heisenberg Picture, Energy Eigenstates, Example: Spin Precession in a Magnetic Field</td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_321F17_lec7.pdf">Lecture 7 Notes (PDF)</a></td>
+<td>Spin Precession in a Magnetic Field, Schr&ouml;dinger Picture, Heisenberg Picture, Particle in a Potential, Example: Charged Particle in a Uniform Electric Field, Example: Simple Harmonic Oscillator</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_321F17_lec8.pdf">Lecture 8 Notes (PDF)</a></td>
+<td>General Time Dependent Hamiltonians, Interaction Picture</td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_321F17_lec9.pdf">Lecture 9 Notes (PDF)</a></td>
+<td>Spin-1/2 in an AC Field, Resonant Drive, Off-Resonant Drive, Path Integral Formulation of Quantum Mechanics</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_321F17_lec10.pdf">Lecture 10 Notes (PDF)</a></td>
+<td>Path Integral Formulation of Quantum Mechanics, The Propagator, Path Integrals</td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_321F17_lec11.pdf">Lecture 11 Notes (PDF)</a></td>
+<td>Path Integrals</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_321F17_lec12.pdf">Lecture 12 Notes (PDF)</a></td>
+<td>Stationary Phase Approximation, Quantum Particles in Electromagnetic ﬁelds, Constant Potentials, Electromagnetic Fields, Gauge Invariance in Quantum Mechanics, Aharonov&ndash;Bohm Effect</td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_321F17_lec13.pdf">Lecture 13 Notes (PDF)</a></td>
+<td>Aharonov&ndash;Bohm Effect, Magnetic Monopoles</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_321F17_lec14.pdf">Lecture 14 Notes (PDF)</a></td>
+<td>QM of a Charged Particle Moving in a Magnetic Monopole Field, Charged Particle in a Uniform Magnetic Field, Degeneracy</td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_321F17_lec15.pdf">Lecture 15 Notes (PDF)</a></td>
+<td>Charged Particle in a Uniform Magnetic Field, Quantum Entanglement</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_321F17_lec18.pdf">Lecture 18 Notes (PDF)</a></td>
+<td>Symmetry Transformations, Continuous Symmetries and Conservation Laws, Time Translations, Rotations</td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_321F17_lec19.pdf">Lecture 19 Notes (PDF)</a></td>
+<td>Eigen system of Angular Momentum</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_321F17_lec20.pdf">Lecture 20 Notes (PDF)</a></td>
+<td>Matrix Elements of Angular Momentum Operators, Rotation Groups</td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_321F17_lec21.pdf">Lecture 21 Notes (PDF)</a></td>
+<td>SO (3) versus SU (2), Addition of Angular Momentum, Discrete Symmetries</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_321F17_lec22.pdf">Lecture 22 Notes (PDF)</a></td>
+<td>Some Standard Terminology, Wavefunctions Under Parity, Momentum and Angular Momentum, Selection Rules, Time Reversal and Spin</td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_321F17_lec23.pdf">Lecture 23 Notes (PDF)</a></td>
+<td>Consequences of Time Reversal Symmetry, Spinless Particles, No Conservation Law, Kramer's Rule for Half-Integer Spin, Uses of Symmetry in Solving the Schr&ouml;dinger Equation, Symmetric Double-Well Potential, 3D Particle in a Spherically Symmetric Potential, Approximation Methods, Time-Independent Perturbation Theory</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_321F17_lec24.pdf">Lecture 24 Notes (PDF)</a></td>
+<td>Non-degenerate Time-Independent Perturbation Theory, The First-Order Energy Shift, The First-Order Correction to the Eigenstate, The Second-Order Energy Shift, Examples of Time-Independent Perturbation Theory, Spin in a Magnetic Field, The Quadratic Stark effect, Vander Waals Interaction</td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_321F17_lec25.pdf">Lecture 25 Notes (PDF)</a></td>
+<td>Degenerate Perturbation Theory, Linear Stark Effect, Time-Dependent Perturbation Theory, SHO in a Time-Dependent Electric Field, Second-Order Transition Amplitude</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_321F17_lec26.pdf">Lecture 26 Notes (PDF)</a></td>
+<td>Harmonic Perturbations, The Photoelectric Effect</td>
+</tr>
+</tbody>
+</table>
 
 
