@@ -29,6 +29,7 @@
     <li class="title"><a href="#course28">Strongly Correlated Systems in Condensed Matter Physics</a></li>
  <li class="title"><a href="#course29">Many-Body Theory for Condensed Matter Systems</a></li>
   <li class="title"><a href="#course30">Introduction to Nuclear and Particle Physics</a></li>
+   <li class="title"><a href="#course31">Introduction to Plasma Physics I</a></li>
 </ul>
 </br>
 
@@ -3084,7 +3085,14 @@
 
 </br>
 
+<h2 id ="course31">Introduction to Plasma Physics I</h2>
 
+<ul>
+<li>Introduction (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/chap1.pdf">PDF</a>)</li>
+<li>Motion of Charged Particles in Fields (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/chap2.pdf">PDF</a>)</li>
+<li>Collisions in Plasmas (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/chap3.pdf">PDF</a>)</li>
+<li>Fluid Description of Plasma (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/chap4.pdf">PDF</a>)</li>
+<li>Electromagnetic Waves in Plasmas (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/chap5.pdf">PDF - 1.8 MB</a>)</li>
+</ul>
 
-
-
+</br>
