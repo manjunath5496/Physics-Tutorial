@@ -2203,7 +2203,158 @@
 
 <h2 id ="course15">String Theory</h2>
 
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>
+<p>Announcements, introduction</p>
+<p>Lorentz transformations</p>
+<p>Light-cone coordinates</p>
+</td>
+<td>(<a href="1/lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Energy and momentum</p>
+<p>Compact dimensions, orbifolds</p>
+<p>Quantum mechanics and the square well</p>
+</td>
+<td>(<a href="1/lec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Relativistic electrodynamics</p>
+<p>Gauss' law</p>
+<p>Gravitation and Planck's length</p>
+</td>
+<td>(<a href="1/lec3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Gravitational potentials, compactification, and large extra dimensions</td>
+<td>(<a href="1/lec4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Nonrelativistic strings and Lagrangian mechanics</td>
+<td>(<a href="1/lec5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The relativistic point particle: Action, reparametrizations, and equations of motion</td>
+<td>(<a href="1/lec6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Area formula for spatial surfaces</td>
+<td>(<a href="1/lec7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Area formula for spatial surfaces (cont.)</td>
+<td>(<a href="1/lec8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Change of variables</td>
+<td>(<a href="1/lec9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Relativistic strings: Nambu-Goto action, equations of motion and boundary conditions</td>
+<td>(<a href="1/lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Static gauge, transverse velocity, and string action</p>
+<p>Motion of free open string endpoints</p>
+</td>
+<td>(<a href="1/lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>The sigma-parametrization</p>
+<p>Equations of motion and virasoro constraints</p>
+<p>General motion for open strings</p>
+<p>Rotating open strings</p>
+</td>
+<td>(<a href="1/lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Periodicity conditions for the motion of closed strings</p>
+<p>The formation of cusps</p>
+<p>Conserved currents in E&amp;M</p>
+<p>Conserved charges in lagrangian mechanics</p>
+</td>
+<td>(<a href="1/lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Momentum charges for the string</p>
+<p>Lorentz charges for the strings</p>
+<p>Angular momentum of the rotating string</p>
+<p>Discuss alpha' and the string length l_s</p>
+<p>General gauges: fixing tau and natural units</p>
+</td>
+<td>(<a href="1/lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Solution of the open string motion in the light-cone gauge</td>
+<td>(<a href="1/lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Light-cone fields and particles</td>
+<td>(<a href="1/lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Light-cone fields and particles (cont.)</td>
+<td>(<a href="1/lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Open strings</td>
+<td>(<a href="1/lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Critical dimension</p>
+<p>Constructing the state space</p>
+<p>Tachyons</p>
+</td>
+<td>(<a href="1/lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Closed strings</td>
+<td>(<a href="1/lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Wrap-up of closed strings</p>
+<p>Superstrings</p>
+</td>
+<td>(<a href="1/lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Superstrings (cont.)</td>
+<td>(<a href="1/lec22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Closed strings</p>
+<p>Heterotic string theory</p>
+</td>
+<td>(<a href="1/lec23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Dp-branes</p>
+<p>Parallel Dp's</p>
+</td>
+<td>(<a href="1/lec24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Dp-branes (cont.)</td>
+<td>(<a href="1/lec25.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Final exam review</td>
+<td>(<a href="1/lec26.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
 
 
 
