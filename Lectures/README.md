@@ -4,7 +4,7 @@
   <li class="title"><a href="#course3">Physics II: Electricity and Magnetism with an Experimental Focus </a></li> 
   <li class="title"><a href="#course4">Physics III: Vibrations and Waves </a></li>
    <li class="title"><a href="#course5">Physics III </a></li>
-  <li class="title"><a href="#course6">Physical Chemistry II </a></li>
+  <li class="title"><a href="#course6">Relativity</a></li>
    <li class="title"><a href="#course7">Computational Quantum Mechanics of Molecular and Extended Systems </a></li>
     <li class="title"><a href="#course8">Kinetics of Chemical Reactions </a></li>
  <li class="title"><a href="#course9">Non-Equilibrium Statistical Mechanics </a></li>
@@ -1120,3 +1120,493 @@
 <li>Lecture 20: Diffraction (<a href="lec20.pdf" data-smd-id="s123">PDF</a>)</li>
 <li>Lecture 21: Diffraction + Interference, Diffraction Gratings (<a href="lec21.pdf" data-smd-id="s124">PDF</a>)</li>
 </ul>
+</br>
+
+<h2 id ="course6">Relativity </h2>
+
+
+
+<table summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Course Overview</h3>
+<br />
+<ul>
+<li>Overview of Course Contents</li>
+<li>Practical Issues and Advice</li>
+<li>Related Subjects; Brief History of Physics</li>
+</ul>
+</td>
+<td>(<a href="lecture1_overvie.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Symmetry and Invariance</h3>
+<br />
+<ul>
+<li>Background and History</li>
+<li>Galilean Transformation, Inertial Reference Frames</li>
+<li>Classical Wave Equations; Transformation to Other Frames</li>
+<li>Michelson-Morley Experiment; Aether</li>
+</ul>
+</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lecture2_symme1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Symmetry and Invariance (cont.)</h3>
+<br />
+<ul>
+<li>Postulates of Special Relativity</li>
+<li>First Discussion of Minkowski Diagrams, World Lines</li>
+</ul>
+</td>
+<td>(<a href="lecture3_symme2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Relativistic Kinematics</h3>
+<br />
+<ul>
+<li>Derivation of Lorentz-Einstein Transformations
+<div>
+<ul class="noindent">
+<li>Matrix Representation</li>
+</ul>
+</div>
+</li>
+<li>Introduction of Four-Vectors</li>
+</ul>
+</td>
+<td>(<a href="lecture4_kinem1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Relativistic Kinematics (cont.)</h3>
+<br />
+<ul>
+<li>Time Dilation and Length Contraction
+<div>
+<ul class="noindent">
+<li>Decay of Atmospheric Muons</li>
+<li>Pole Vaulter Problem</li>
+</ul>
+</div>
+</li>
+<li>Alternative Looks at Time Dilation and Length Contraction</li>
+<li>Spacetime Intervals</li>
+<li>First Discussion of Accelerated Clocks</li>
+</ul>
+</td>
+<td>(<a href="lecture5_kinem2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Relativistic Kinematics (cont.)</h3>
+<br />
+<ul>
+<li>Addition of Velocities</li>
+<li>Angle Transformation for Trajectories
+<ul>
+<li>Doppler Effect
+<div>
+<ul>
+<li>Classical Doppler Effect for Sound</li>
+<li>Relativistic Doppler Effect</li>
+<li>Astrophysical Examples; Relativistic and Superluminal Jets</li>
+</ul>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lecture6_kinem3.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Relativistic Kinematics (cont.)</h3>
+<br />
+<ul>
+<li>Stellar Aberration</li>
+<li>Doppler Effect and Angle Transformation via Transformation of Phase of Plane Waves</li>
+<li>Fully Calibrated Minkowski Diagrams
+<div>
+<ul>
+<li>Pole-Vaulter Problem</li>
+<li>Twin Paradox with Constant Velocity Plus a Reversal</li>
+<li>Twin Paradox with Arbitrary Acceleration</li>
+</ul>
+</div>
+</li>
+</ul>
+</td>
+<td>(<a href="lecture7_kinem4.pdf">PDF - 1.1 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Variational Calculus</h3>
+<br />
+<ul>
+<li>Short Discourse on the Calculus of Variations
+<div>
+<ul>
+<li>Extremization of Path Integrals
+<div>
+<ul>
+<li>The Euler-Lagrange Equations and Constants of the Motion</li>
+<li>Brachistochrone Problem</li>
+</ul>
+</div>
+</li>
+</ul>
+<ul class="noindent">
+<li>Extremal Aging for Inertially Moving Clocks</li>
+</ul>
+</div>
+</li>
+<li>Optional Problems in the Use of the Calculus of Variations as Applied to Lagragian Mechanics and Other Problems in the Extremization of Path Integrals</li>
+</ul>
+</td>
+<td>(<a href="lecture8_euler.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Relativistic Dynamics and Particle Physics</h3>
+<br />
+<ul>
+<li>Relativistic Momentum Inferred from Gedanken Experiment with Inelastic Collisions</li>
+<li>Relativistic Relations between Force and Acceleration</li>
+<li>Relativistic Version of Work-Energy Theorem
+<div>
+<ul class="noindent">
+<li>Kinetic Energy, Rest Energy, Equivalence of Mass-Energy</li>
+<li>E<sup>2</sup>&nbsp;- p<sup>2</sup>&nbsp;Invariant</li>
+</ul>
+</div>
+</li>
+<li>Nuclear Binding Energies
+<div>
+<ul class="noindent">
+<li>Atomic Mass Excesses, Semi-Empirical Binding Energy Equation</li>
+<li>Nuclear Reactions</li>
+<li>Solar p-p Chain</li>
+</ul>
+</div>
+</li>
+</ul>
+</td>
+<td>(<a href="lecture9_lagrang.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Relativistic Dynamics and Particle Physics (cont.)</h3>
+<br />
+<ul>
+<li>Relativistic Motion in a B Field, Lorentz Force
+<div>
+<ul class="noindent">
+<li>Cyclotrons, Synchrotrons</li>
+</ul>
+</div>
+</li>
+<li>Further Gedanken Experiments Relating to Mass-Energy Equivalence, Relativistic Momentum</li>
+<li>Quantum Nature of Light
+<div>
+<ul class="noindent">
+<li>Photoelectric Effect, Photons</li>
+</ul>
+</div>
+</li>
+<li><em>beta</em>-Decay and the Inference of Neutrino</li>
+</ul>
+</td>
+<td>(<a href="lecture10_dyn1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Quiz 1</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Relativistic Dynamics and Particle Physics (cont.)</h3>
+<br />
+<ul>
+<li>Absorption and Emission of Light Quanta
+<div>
+<ul class="noindent">
+<li>Atomic and Nuclear Recoil</li>
+<li>M&ouml;ssbauer Effect</li>
+<li>Pound-Rebka Experiment</li>
+</ul>
+</div>
+</li>
+<li>Collisions
+<div>
+<ul class="noindent">
+<li>Between Photons and Moving Atoms</li>
+<li>Elastic</li>
+<li>Compton</li>
+<li>Inverse Compton</li>
+<li>Between Photon and Relativistic Particle</li>
+</ul>
+</div>
+</li>
+</ul>
+</td>
+<td>(<a href="lecture11_dyn2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Relativistic Dynamics and Particle Physics (cont.)</h3>
+<br />
+<ul>
+<li>Particle Production
+<div>
+<ul class="noindent">
+<li>Threshold Energy
+<div>
+<ul class="noindent">
+<li>Colliding Particle Beams</li>
+<li>Two Photons Producing an Electron/Positron Pair</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</td>
+<td>(<a href="lecture12_part1.pdf">PDF - 1.2 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Relativistic Dynamics and Particle Physics (cont.)</h3>
+<br />
+<ul>
+<li>Formal Transformation of E and P as a Four-Vector
+<div>
+<ul class="noindent">
+<li>Revisit the Relativistic Doppler Effect</li>
+</ul>
+</div>
+</li>
+<li>Relativistic Invariant E<sup>2</sup>&nbsp;- p<sup>2</sup>&nbsp;for a Collection of Particles</li>
+</ul>
+</td>
+<td>(<a href="lecture13_part2.pdf">PDF - 2.0 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Relativity and Electromagnetism</h3>
+<br />
+<ul>
+<li>Coulomb's Law</li>
+<li>Transformation of Coulomb's Law</li>
+<li>Force on a Moving Test Charge
+<div>
+<ul class="noindent">
+<li>Magnetic Field and Relativity</li>
+<li>Derivation of Lorentz Force</li>
+</ul>
+</div>
+</li>
+</ul>
+</td>
+<td>(<a href="lecture14_em1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Relativity and Electromagnetism (cont.)</h3>
+<br />
+<ul>
+<li>General Transformation Laws for E and B</li>
+<li>Magnetic Force due to Current-Bearing Wire</li>
+<li>Force between Current-Bearing Wires</li>
+</ul>
+</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lecture15_em2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">The Equivalence Principle and General Relativity</h3>
+<br />
+<ul>
+<li>Strong and Weak Principles of Equivalence</li>
+<li>Local Equivalence of Gravity and Acceleration</li>
+<li>Elevator Thought Experiments
+<div>
+<ul class="noindent">
+<li>Gravitational Redshift</li>
+<li>Light Bending</li>
+</ul>
+</div>
+</li>
+<li>Relative Acceleration of Test Particles in Falling Elevator of Finite Size</li>
+<li>Definition of the Metric Tensor</li>
+<li>Analogy between the Metric Tensor and the Ordinary Potential, and between Einstein's Field Equations and Poisson's Equation</li>
+</ul>
+</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lecture16_gr.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">General Relativity and Cosmology</h3>
+<br />
+<ul>
+<li>Cosmological Redshifts and the Hubble Law</li>
+</ul>
+</td>
+<td>(<a href="lecture17_cosmo1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">General Relativity and Cosmology (cont.)</h3>
+<br />
+<ul>
+<li>Cosmology
+<div>
+<ul class="noindent">
+<li>Dynamical Equations for the Scale Factor a - Including Ordinary Matter, Dark Matter, and Dark Energy</li>
+<li>Critical Closure Density; Open, Closed, Flat Universes</li>
+<li>Solutions for Various Combinations of Omega<sub>m</sub>, Omega<sub>Lambda</sub>&nbsp;and Omega<sub>k</sub></li>
+</ul>
+</div>
+</li>
+</ul>
+</td>
+<td>(<a href="lecture18_cosmo2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">General Relativity and Cosmology (cont.)</h3>
+<br />
+<ul>
+<li>Cosmology (cont.)
+<div>
+<ul class="noindent">
+<li>Age of the Universe, Brief History</li>
+<li>Relation between Scale Factor and Z from the Doppler Shift</li>
+<li>Lookback Age as a Function of Z for Various Values of Omega<sub>m</sub>, Omega<sub>Lambda</sub>&nbsp;and Omega<sub>k</sub></li>
+<li>Acceleration Parameter as a Function of Scale Factor</li>
+<li>Current S Status of Cosmology, Unsolved Puzzles</li>
+</ul>
+</div>
+</li>
+</ul>
+</td>
+<td>(<a href="lecture19_cosmo3.pdf">PDF - 1.4 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Quiz 2</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">General Relativity and Cosmology (cont.)</h3>
+<br />
+<ul>
+<li>Handout Defining Einstein Field Equations, Einstein Tensor, Stress-Energy Tensor, Curvature Scalar, Ricci Tensor, Christoffel Symbols, Riemann Curvature Tensor</li>
+<li>Symmetry Arguments by Which 6 Schwarzschild Metric Tensor Components Vanish</li>
+<li>Symmetry Arguments for Why the Non-zero Components are Functions of Radius Only</li>
+<li>The Differential Equations for G00 and G11</li>
+<li>Shell Radius vs. Bookkeepers Radial Coordinate</li>
+</ul>
+</td>
+<td>(<a href="lecture20_cosmo4.pdf">PDF - 4.1 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">General Relativity and Black Holes</h3>
+<br />
+<ul>
+<li>Gravitational Redshift
+<div>
+<ul class="noindent">
+<li>Application to the GPS System</li>
+</ul>
+</div>
+</li>
+<li>Particle Orbits
+<div>
+<ul class="noindent">
+<li>Use Euler Equations (for External Aging) in Connection with the Schwarzschild Metric to find Constants of the Motion E and L</li>
+<li>Derive the Full Expression for the Effective Potential</li>
+</ul>
+</div>
+</li>
+</ul>
+</td>
+<td>(<a href="lecture21_bh1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">General Relativity and Black Holes (cont.)</h3>
+<br />
+<ul>
+<li>Derive Analytic Results for Radial Motion
+<div>
+<ul class="noindent">
+<li>Compare Speeds and Energies for Bookkeeper and Shell Observers</li>
+</ul>
+</div>
+</li>
+<li>Equations of Motion for a General Orbit
+<div>
+<ul class="noindent">
+<li>Explain How these can be Numerically Integrated</li>
+</ul>
+</div>
+</li>
+<li>Expand the Effective Potential in the Weak-Field Limit</li>
+</ul>
+</td>
+<td>(<a href="lecture22_bh2.pdf">PDF - 1.1 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">General Relativity and Black Holes (cont.)</h3>
+<br />
+<ul>
+<li>Keplers Third Law in the Schwarzschild Metric</li>
+<li>Relativistic Precession in the Weak-Field Limit
+<div>
+<ul class="noindent">
+<li>Taylor-Hulse Binary Neutron Star System</li>
+</ul>
+</div>
+</li>
+<li>Derivation of the Last Stable Circular Orbit at 6M
+<div>
+<ul class="noindent">
+<li>Analytic E and L for Circular Orbits</li>
+</ul>
+</div>
+</li>
+</ul>
+</td>
+<td>(<a href="lecture23_bh3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">General Relativity and Black Holes (cont.)</h3>
+<br />
+<ul>
+<li>Photon Trajectories
+<div>
+<ul class="noindent">
+<li>Derive Differential Equation for the Trajectories</li>
+<li>Critical Impact Parameter</li>
+<li>Derive Expression for Light Bending in the Weak-Field Limit</li>
+</ul>
+</div>
+</li>
+<li>Shapiro Time Delay</li>
+</ul>
+</td>
+<td>(<a href="lecture24_bh4.pdf">PDF - 1.8 MB</a>)</td>
+</tr>
+</tbody>
+</table>
+
