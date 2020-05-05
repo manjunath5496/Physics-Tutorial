@@ -1850,8 +1850,56 @@
 </tbody>
 </table>
 
-
-
+</br>
+<p><strong>Assignments: problem sets with solutions</strong></p>
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="MIT8_044S13_ps1.pdf">Problem Set 1 (PDF)</a></td>
+<td><a href="MIT8_044S13_pss1.pdf">Problem Set 1 Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_044S13_ps2.pdf">Problem Set 2 (PDF)</a></td>
+<td><a href="MIT8_044S13_pss2.pdf">Problem Set 2 Solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_044S13_ps3.pdf">Problem Set 3 (PDF)</a></td>
+<td><a href="MIT8_044S13_pss3.pdf">Problem Set 3 Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_044S13_ps4.pdf">Problem Set 4 (PDF)</a></td>
+<td><a href="MIT8_044S13_pss4.pdf">Problem Set 4 Solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_044S13_ps5.pdf">Problem Set 5 (PDF)</a></td>
+<td><a href="MIT8_044S13_pss5.pdf">Problem Set 5 Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_044S13_ps6.pdf">Problem Set 6 (PDF)</a></td>
+<td><a href="MIT8_044S13_pss6.pdf">Problem Set 6 Solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_044S13_ps7.pdf">Problem Set 7 (PDF)</a></td>
+<td><a href="MIT8_044S13_pss7.pdf">Problem Set 7 Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_044S13_ps8.pdf">Problem Set 8 (PDF)</a></td>
+<td><a href="MIT8_044S13_pss8.pdf">Problem Set 8 Solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_044S13_ps9.pdf">Problem Set 9 (PDF)</a></td>
+<td><a href="MIT8_044S13_pss9.pdf">Problem Set 9 Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_044S13_ps10.pdf">Problem Set 10 (PDF)</a></td>
+<td><a href="MIT8_044S13_pss10.pdf">Problem Set 10 Solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_044S13_ps11.pdf">Problem Set 11 (PDF)</a></td>
+<td><a href="MIT8_044S13_pss11.pdf">Problem Set 11 Solutions (PDF)</a></td>
+</tr>
+</tbody>
+</table>
 
 
 
