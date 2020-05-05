@@ -15,7 +15,7 @@
    <li class="title"><a href="#course14">The Physics of Energy</a></li>
   <li class="title"><a href="#course15">String Theory</a></li>
    <li class="title"><a href="#course16">Introduction to Computational Neuroscience</a></li>
-   <li class="title"><a href="#course17">Advanced Organic Chemistry</a></li>
+   <li class="title"><a href="#course17">Electromagnetic Theory</a></li>
     <li class="title"><a href="#course18">Introduction to Organic Synthesis Laboratory</a></li>
  <li class="title"><a href="#course19">Introduction to Experimental Chemistry</a></li>
   <li class="title"><a href="#course20">Biochemistry Laboratory</a></li>
@@ -2400,3 +2400,26 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course17">Electromagnetic Theory </h2>
+
+<table class="tablewidth50" summary="Course Table Listing">
+<tbody>
+<tr class="row">
+<td headers="col2">Wave Guides (<a href="wave_guides.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Field Oscillators (<a href="field_osc.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Power Spectrum of Radiation (<a href="power_spec.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Charge Moving in a Dielectric (<a href="charge_mov.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
