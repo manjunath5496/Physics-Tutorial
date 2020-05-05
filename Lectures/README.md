@@ -959,3 +959,62 @@
 </tr>
 </tbody>
 </table>
+</br>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 and Meter Introduction (MI) Experiment (<a href="802x_05_pset1.pdf" data-smd-id="s107">PDF</a>)</td>
+<td>(<a href="802x_05_sol1.pdf" data-smd-id="s108">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 and Low Voltage Power Supply (LVPS) Experiment (<a href="802x_05_pset2.pdf" data-smd-id="s109">PDF</a>)</td>
+<td>(<a href="802x_05_sol2.pdf" data-smd-id="s110">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 3 and High Voltage Power Supply (HVPS) Experiment (<a href="802x_05_pset3.pdf" data-smd-id="s111">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s112" /><a href="802x_05_sol3.pdf" data-smd-id="s113">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 4 (<a href="802x_05_pset4.pdf" data-smd-id="s114">PDF</a>)</td>
+<td>(<a href="802x_05_sol4.pdf" data-smd-id="s115">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 5 (<a href="802x_05_pset5.pdf" data-smd-id="s116">PDF</a>)<br /><br />Electrostatic Force (EF) Experiment (<a href="802x_05_ef.pdf" data-smd-id="s117">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s118" /><a href="802x_05_sol5.pdf" data-smd-id="s119">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 6 and Voltage and Current (VI) Experiment (<a href="802x_05_pset6.pdf" data-smd-id="s120">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Problem Set 7 (<a href="802x_05_pset7.pdf" data-smd-id="s121">PDF</a>)<br /><br />Electric Breakdown (EB) Experiment (<a href="802x_05_eb.pdf" data-smd-id="s122">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s123" /><a href="802x_05_sol7.pdf" data-smd-id="s124">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 8 and Magnetic Force (MF) Experiment (<a href="802x_05_pset8.pdf" data-smd-id="s125">PDF</a>)</td>
+<td>(<a href="802x_05_sol8.pdf" data-smd-id="s126">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 9 and Amplifier (AMP) Experiment (<a href="802x_05_pset9.pdf" data-smd-id="s127">PDF</a>)</td>
+<td>(<a href="802x_05_sol9.pdf" data-smd-id="s128">PDF</a>)<br /><br />MF Solutions (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s129" /><a href="802x_05_mf_sol.pdf" data-smd-id="s130">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 10 (<a href="802x_05_pset10.pdf" data-smd-id="s131">PDF</a>)</td>
+<td>(<a href="802x_05_sol10.pdf" data-smd-id="s132">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 11 (<a href="802x_05_pset11.pdf" data-smd-id="s133">PDF</a>)</td>
+<td>(<a href="802x_05_sol11.pdf" data-smd-id="s134">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 12 and Microwave (MW) Experiment (<a href="802x_05_pset12.pdf" data-smd-id="s135">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
