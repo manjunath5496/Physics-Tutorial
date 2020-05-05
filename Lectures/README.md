@@ -13,7 +13,7 @@
    <li class="title"><a href="#course12">Statistical Physics II </a></li>
   <li class="title"><a href="#course13">Classical Mechanics III </a></li>
    <li class="title"><a href="#course14">The Physics of Energy</a></li>
-  <li class="title"><a href="#course15">Organic Structure Determination</a></li>
+  <li class="title"><a href="#course15">String Theory</a></li>
    <li class="title"><a href="#course16">Thermodynamics of Biomolecular Systems</a></li>
    <li class="title"><a href="#course17">Advanced Organic Chemistry</a></li>
     <li class="title"><a href="#course18">Introduction to Organic Synthesis Laboratory</a></li>
@@ -2199,3 +2199,16 @@
 </tr>
 </tbody>
 </table>
+</br>
+
+<h2 id ="course15">String Theory</h2>
+
+
+
+
+
+
+
+
+
+
