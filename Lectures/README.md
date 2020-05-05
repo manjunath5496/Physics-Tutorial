@@ -5,7 +5,7 @@
   <li class="title"><a href="#course4">Physics III: Vibrations and Waves </a></li>
    <li class="title"><a href="#course5">Physics III </a></li>
   <li class="title"><a href="#course6">Relativity</a></li>
-   <li class="title"><a href="#course7">Computational Quantum Mechanics of Molecular and Extended Systems </a></li>
+   <li class="title"><a href="#course7">Quantum Physics I </a></li>
     <li class="title"><a href="#course8">Kinetics of Chemical Reactions </a></li>
  <li class="title"><a href="#course9">Non-Equilibrium Statistical Mechanics </a></li>
   <li class="title"><a href="#course10">Introductory Quantum Mechanics I </a></li>
@@ -1642,3 +1642,82 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id ="course7">Quantum Physics I</h2>
+
+<table class="tablewidth100" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Part 1: Basic Concepts</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_04S16_LecNotes1.pdf">Key Features of Quantum Mechanics: Linearity of the Equations of Motion, Complex Numbers are Essential, Loss of Determinism, Quantum Superpositions, Entanglement (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_04S16_LecNotes2.pdf">Experiments with Photons: Mach-Zehder Interferometer, Elitzur-Vaidman Bombs (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_04S16_LecNotes3.pdf">Particle Nature of Light and Wave Nature of Matter: Photoelectric Effect, Compton Scattering, Matter Waves (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_04S16_LecNotes4.pdf">de Broglie Wavelength and Galilean Transformations, Phase and Group Velocities, Choosing the Wavefunction for a Free Particle (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_04S16_LecNotes5.pdf">Equations for a Wavefunction, Schr&ouml;dinger Equation for Particle in a Potential, Interpreting the Wavefunction (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_04S16_LecNotes6.pdf">Normalization and Time Evolution, The Wavefunction as a Probability Amplitude, The Probability Current, Probability Current in 3D and Current Conservation (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_04S16_LecNotes7.pdf">Wavepackets and Uncertainty, Wavepacket Shape Changes, Time Evolution of a Free Wave Packet (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_04S16_LecNotes8.pdf">Uncovering Momentum Space, Expectation Values of Operators, Time Dependence of Expectation Values (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_04S16_LecNotes9.pdf">Observables and Hermitian Operators, Uncertainty (PDF)</a></td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Part 2: Quantum Physics in One-dimensional Potentials</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_04S16_LecNotes10.pdf">Solving the Time-Independent Schr&ouml;dinger Equation: Stationary States, Solving for Energy Eigenstates, Free Particle on a Circle (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_04S16_LecNotes11.pdf">The Infinite Square Well, The Finite Square Well (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_04S16_LecNotes12.pdf">General Properties, Bound States in Slowly Varying Potentials, Sketching Wavefunction Behavior in Different Regions, Shooting Method (PDF - 1.4MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_04S16_LecNotes13.pdf">Delta Function Potential, The Node Theorem, Simple Harmonic Oscillator (PDF - 1.3MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_04S16_LecNotes14_15.pdf">Algebraic Approach to the Simple Harmonic Oscillator: Algebraic Solution of the Oscillator, Operator Manipulation and the Spectrum (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_04S16_LecNotes16.pdf">Scattering States and the Step Potential: The Step Potential, Step Potential with E &gt; V<sub>0</sub>, Step Potential with E &lt; V<sub>0</sub>, Wavepackets in the Step Potential (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_04S16_LecNotes17.pdf">Resonant Transmission in a Square Well, The Ramsauer&ndash;Townsend Effect (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_04S16_LecNotes18.pdf">Scattering in One Dimension: Time Delay, An Example (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Part 3: One-dimensional Scattering, Angular Momentum, and Central Potentials</strong></td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_04S16_LecNotes19.pdf">Levinson&rsquo;s Theorem, Resonances, Modeling the Resonance (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_04S16_LecNotes20_21.pdf">Quantum Mechanics in 3D and Central Potentials: Schr&ouml;dinger Equation in 3D and Angular Momentum, The Angular Momentum Operator, Eigenstates of Angular Momentum, The Radial Wave Equation (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_04S16_LecNotes22.pdf">Hydrogen Atom, Hydrogen Atom Spectrum (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+
+
+
