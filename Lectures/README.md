@@ -11,7 +11,7 @@
   <li class="title"><a href="#course10">Quantum Physics III </a></li>
   <li class="title"><a href="#course11">Electromagnetism II </a></li>
    <li class="title"><a href="#course12">Statistical Physics II </a></li>
-  <li class="title"><a href="#course13">Chemistry of Biomolecules I </a></li>
+  <li class="title"><a href="#course13">Classical Mechanics III </a></li>
    <li class="title"><a href="#course14">Synthetic Organic Chemistry II</a></li>
   <li class="title"><a href="#course15">Organic Structure Determination</a></li>
    <li class="title"><a href="#course16">Thermodynamics of Biomolecular Systems</a></li>
@@ -2118,8 +2118,32 @@
 <li>Quantum Theory for Interacting Bosons&nbsp;&nbsp;(<a href="fieldtheory_bos.pdf">PDF</a>)</li>
 <li>Statistical Ensembles (<a href="microcanonical_en.pdf">PDF</a>)</li>
 </ul>
+</br>
 
+<h2 id ="course13">Classical Mechanics III </h2>
 
-
-
-
+<table class="tablewidth100" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="MIT8_09F14_Chapter_1.pdf">A Review of Analytical Mechanics (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_09F14_Chapter_2.pdf">Rigid Body Dynamics (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_09F14_Chapter_3.pdf">Vibrations &amp; Oscillations (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_09F14_Chapter_4.pdf">Canonical Transformations, Hamilton-Jacobi Equations, and Action-Angle Variables (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_09F14_Chapter_5.pdf">Perturbation Theory (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT8_09F14_Chapter_6.pdf">Fluid Mechanics (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT8_09F14_Chapter_7.pdf">Chaos and Non-Linear Dynamics (PDF - 4.8MB)</a></td>
+</tr>
+</tbody>
+</table>
