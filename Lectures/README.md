@@ -34,6 +34,7 @@
      <li class="title"><a href="#course33">Relativistic Quantum Field Theory II</a></li>
       <li class="title"><a href="#course34">Relativistic Quantum Field Theory III</a></li>
       <li class="title"><a href="#course35">Statistical Mechanics I: Statistical Mechanics of Particles</a></li>
+    <li class="title"><a href="#course36">Statistical Mechanics II: Statistical Physics of Fields</a></li>
 </ul>
 </br>
 
@@ -3405,4 +3406,171 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course36">Statistical Mechanics II: Statistical Physics of Fields </h2>
+
+
+<table class="tablewidth100" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><strong>Collective Behavior, from Particles to Fields</strong>
+<p>Introduction, Phonons and Elasticity</p>
+</td>
+<td><span class="nobr"><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_334S14_Lec1.pdf">Lecture Note 1 (PDF)</a></span></td>
+</tr>
+<tr class="alt-row">
+<td><strong>Collective Behavior, from Particles to Fields (cont.)</strong>
+<p>Phase Transitions, Critical Behavior</p>
+<strong>The Landau-Ginzburg Approach</strong>
+<p>Introduction, Saddle Point Approximation, and Mean-field Theory</p>
+</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_334S14_Lec2.pdf">Lecture Note 2 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><strong>The Landau-Ginzburg Approach (cont.)</strong>
+<p>Spontaneous Symmetry Breaking and Goldstone Modes</p>
+</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_334S14_Lec3.pdf">Lecture Note 3 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>The Landau-Ginzburg Approach (cont.)</strong>
+<p>Scattering and Fluctuations, Correlation Functions and Susceptibilities, Comparison to Experiments</p>
+</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_334S14_Lec4.pdf">Lecture Note 4 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><strong>The Landau-Ginzburg Approach (cont.)</strong>
+<p>Gaussian Integrals, Fluctuation Corrections to the Saddle Point, The Ginzburg Criterion</p>
+</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_334S14_Lec5.pdf">Lecture Note 5 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>The Scaling Hypothesis</strong>
+<p>The Homogeneity Assumption, Divergence of the Correlation Length, Critical Correlation Functions and Self-similarity</p>
+</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_334S14_Lec6.pdf">Lecture Note 6 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><strong>The Scaling Hypothesis (cont.)</strong>
+<p>The Renormalization Group (Conceptual), The Renormalization Group (Formal)</p>
+</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_334S14_Lec7.pdf">Lecture Note 7 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>The Scaling Hypothesis (cont.)</strong>
+<p>The Gaussian Model (Direct Solution), The Gaussian Model (Renormalization Group)</p>
+</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_334S14_Lec8.pdf">Lecture Note 8 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><strong>Perturbative Renormalization Group</strong>
+<p>Expectation Values in the Gaussian Model, Expectation Values in Perturbation Theory, Diagrammatic Representation of Perturbation Theory, Susceptibility</p>
+</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_334S14_Lec9.pdf">Lecture Note 9 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>Perturbative Renormalization Group (cont.)</strong>
+<p>Perturbative RG (First Order)</p>
+</td>
+<td><span class="nobr"><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_334S14_Lec10.pdf">Lecture Note 10 (PDF)</a></span></td>
+</tr>
+<tr class="row">
+<td><strong>Perturbative Renormalization Group (cont.)</strong>
+<p>Perturbative RG (Second Order), The &epsilon;-expansion</p>
+</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_334S14_Lec11.pdf">Lecture Note 11 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>Perturbative Renormalization Group (cont.)</strong>
+<p>Irrelevance of Other Interactions, Comments on the &epsilon;-expansion</p>
+</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_334S14_Lec12.pdf">Lecture Note 12 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><strong>Position Space Renormalization Group</strong>
+<p>Lattice Models, Exact Treatment in d=1</p>
+</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_334S14_Lec13.pdf">Lecture Note 13 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>Position Space Renormalization Group (cont.)</strong>
+<p>The Niemeijer-van Leeuwen Cumulant Approximation, The Migdal-Kadanoff Bond Moving Approximation</p>
+</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_334S14_Lec14.pdf">Lecture Note 14 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><strong>Series Expansions</strong>
+<p>Low-temperature Expansions, High-temperature Expansions, Exact Solution of the One Dimensional Ising Model</p>
+</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_334S14_Lec15.pdf">Lecture Note 15 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>Series Expansions (cont.)</strong>
+<p>Self-duality in the Two Dimensional Ising Model, Dual of the Three Dimensional Ising Model</p>
+</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_334S14_Lec16.pdf">Lecture Note 16 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><strong>Series Expansions (cont.)</strong>
+<p>Summing Over Phantom Loops</p>
+</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_334S14_Lec17.pdf">Lecture Note 17 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>Series Expansions (cont.)</strong>
+<p>Exact Free Energy of the Square Lattice Ising Model</p>
+</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_334S14_Lec18.pdf">Lecture Note 18 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><strong>Series Expansions (cont.)</strong>
+<p>Critical Behavior of the Two Dimensional Ising Model</p>
+</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_334S14_Lec19.pdf">Lecture Note 19 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>Continuous Spins at Low Temperatures</strong>
+<p>The Non-linear &sigma;-model</p>
+</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_334S14_Lec20.pdf">Lecture Note 20 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><strong>Continuous Spins at Low Temperatures (cont.)</strong>
+<p>Topological Defects in the XY Model</p>
+</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_334S14_Lec21.pdf">Lecture Note 21 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>Continuous Spins at Low Temperatures (cont.)</strong>
+<p>Renormalization Group for the Coulomb Gas</p>
+</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_334S14_Lec22.pdf">Lecture Note 22 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><strong>Continuous Spins at Low Temperatures (cont.)</strong>
+<p>Two Dimensional Solids, Two Dimensional Melting</p>
+</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_334S14_Lec23.pdf">Lecture Note 23 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>Dissipative Dynamics</strong>
+<p>Brownian Motion of a Particle</p>
+</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_334S14_Lec24.pdf">Lecture Note 24 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><strong>Continuous Spins at Low Temperatures (cont.)</strong>
+<p>Equilibrium Dynamics of a Field, Dynamics of a Conserved Field</p>
+</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_334S14_Lec25.pdf">Lecture Note 25 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>Continuous Spins at Low Temperatures (cont.)</strong>
+<p>Generic Scale Invariance in Equilibrium Systems, Non-equilibrium Dynamics of Open Systems, Dynamics of a Growing Surface</p>
+</td>
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_334S14_Lec26.pdf">Lecture Note 26 (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
 
