@@ -22,7 +22,7 @@
    <li class="title"><a href="#course21">Theory of Solids II</a></li>
     <li class="title"><a href="#course22">Particle Physics II</a></li>
      <li class="title"><a href="#course23">Particle Physics of the Early Universe</a></li>
-    <li class="title"><a href="#course24">Biological Engineering Design</a></li>
+    <li class="title"><a href="#course24">Strong Interactions: Effective Field Theories of QCD</a></li>
    <li class="title"><a href="#course25">Biological Chemistry I</a></li>
    <li class="title"><a href="#course26">Biological Chemistry II</a></li>
    <li class="title"><a href="#course27">Thermodynamics and Kinetics</a></li>
@@ -2771,5 +2771,27 @@
 </tbody>
 </table>
 </br>
-
-
+<h2 id ="course24">Strong Interactions: Effective Field Theories of QCD </h2>
+<table summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Introduction, Degrees of Freedom, Scales, Expansion of Spinors, Propogators, Power Counting (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="scet1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Construction of Currents, Lagrangian Multipole Expansion, Labels, Grid in Detail (not in notes) (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="scet2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>SCET_I Lagrangian, Gauge Symmetry, Reparameterization Invariance (RPI) (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="scet3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>More RPI, Ultrasoft-Collinear Factorization, Hard-Collinear Factorization, Infrared Divergences, Matching, Running (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="scet4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>DIS, Soft-Collinear Interactions (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="scet5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>SCET_II, Power Counting Formulae, Examples, Define a Jet (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="scet6.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
