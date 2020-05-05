@@ -1878,7 +1878,103 @@
 </tr>
 </tbody>
 </table>
+</br>
+
+<p><strong>Exams and solutions: </strong> </p>
 
 
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>
+<p><a href="MIT8_044S13_E1P.pdf">Practice Exam 1 (PDF)</a></p>
+<p><a href="MIT8_044S13_E1Psol.pdf">Practice Exam 1 Solution (PDF)</a></p>
+</td>
+<td>
+<p><a href="MIT8_044S13_E1_b.pdf">Exam 1 (PDF)</a></p>
+<p><a href="MIT8_044S13_E1sol_b.pdf">Exam 1 Solution (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT8_044S13_E2p.pdf">Practice Exam 2 (PDF)</a></p>
+<p><a href="MIT8_044S13_E2ps.pdf">Practice Exam 2 Solution (PDF)</a></p>
+</td>
+<td>
+<p><a href="MIT8_044S13_E2.pdf">Exam 2 (PDF)</a></p>
+<p><a href="MIT8_044S13_E2s.pdf">Exam 2 Solution (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>&nbsp;</td>
+<td>
+<p><a href="MIT8_044S13_Final.pdf">Final Exam (PDF)</a></p>
+<p><a href="MIT8_044S13_Final_s.pdf">Final Exam Solution (PDF)</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+</div>
+<div class="maintabletemplate">
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>
+<p><a href="MIT8_044S14_practexam1_03.pdf">2003 Practice Exam 1 (PDF)</a></p>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_044S14_praexam1sol_03.pdf">2003 Practice Exam 1 Solution (PDF)</a></p>
+</td>
+<td>
+<p><a href="MIT8_044S14_exam1_03.pdf">2003 Exam 1 (PDF)</a></p>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_044S14_exam1sol_03.pdf">2003 Exam 1 Solution (PDF)</a></p>
+</td>
+<td>
+<p><a href="MIT8_044S14_exam1_04.pdf">2004 Exam 1 (PDF)</a></p>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_044S14_exam1sol_04.pdf">2004 Exam 1 Solution (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT8_044S14_practexam2_03.pdf">2003 Practice Exam 2 (PDF)</a></p>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_044S14_praexam2sol_03.pdf">2003 Practice Exam 2 Solution (PDF)</a></p>
+</td>
+<td>
+<p><a href="MIT8_044S14_exam2_03.pdf">2003 Exam 2 (PDF)</a></p>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_044S14_exam2sol_03.pdf">2003 Exam 2 Solution (PDF)</a></p>
+</td>
+<td>
+<p><a href="MIT8_044S14_exam2_04.pdf">2004 Exam 2 (PDF)</a></p>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_044S14_exam2sol_04.pdf">2004 Exam 2 Solution (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT8_044S14_practexam3_03.pdf">2003 Practice Exam 3 (PDF)</a></p>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_044S14_praexam3sol_03.pdf">2003 Practice Exam 3 Solution (PDF)</a></p>
+</td>
+<td>
+<p><a href="MIT8_044S14_exam3_03.pdf">2003 Exam 3 (PDF)</a></p>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_044S14_exam3sol_03.pdf">2003 Exam 3 Solution (PDF)</a></p>
+</td>
+<td>
+<p><a href="MIT8_044S14_exam3_04.pdf">2004 Exam 3 (PDF)</a></p>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_044S14_exam3sol_04.pdf">2004 Exam 3 Solution (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT8_044S14_practexam4_03.pdf">2003 Practice Exam 4 (PDF)</a></p>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_044S14_praexam4sol_03.pdf">2003 Practice Exam 4 Solution (PDF)</a></p>
+</td>
+<td>
+<p><a href="MIT8_044S14_exam4_03.pdf">2003 Exam 4 (PDF)</a></p>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_044S14_exam4sol_03.pdf">2003 Exam 4 Solution (PDF)</a></p>
+</td>
+<td>
+<p><a href="MIT8_044S14_exam4_04.pdf">2004 Exam 4 (PDF)</a></p>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT8_044S14_exam4sol_04.pdf">2004 Exam 4 Solution (PDF)</a></p>
+</td>
+</tr>
+</tbody>
+</table>
 
