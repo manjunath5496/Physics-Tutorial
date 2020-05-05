@@ -19,7 +19,7 @@
     <li class="title"><a href="#course18">Quantum Theory I</a></li>
  <li class="title"><a href="#course19">Quantum Theory II</a></li>
   <li class="title"><a href="#course20">Theory of Solids I</a></li>
-   <li class="title"><a href="#course21">Organic Chemistry II</a></li>
+   <li class="title"><a href="#course21">Theory of Solids II</a></li>
     <li class="title"><a href="#course22">Organic Chemistry I</a></li>
      <li class="title"><a href="#course23">Advanced Chemical Experimentation and Instrumentation</a></li>
     <li class="title"><a href="#course24">Biological Engineering Design</a></li>
@@ -2630,10 +2630,88 @@
 
 </br>
 
+<h2 id ="course21">Theory of Solids II</h2>
 
-
-
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Fluctuation dissipation theorem (<a href="MIT8_512s09_lec01_rev2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Scattering (<a href="MIT8_512s09_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>General properties of response function (<a href="MIT8_512s09_lec03_rev.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>f-sum rule (<a href="MIT8_512s09_lec03f.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Kubo formula (<a href="MIT8_512s09_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Sensitivity to boundary conditions (<a href="MIT8_512s09_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Scaling theory of localization (<a href="MIT8_512s09_lec07_rev.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Mott variable range hopping (<a href="MIT8_512s09_lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Transverse response of superconductor (<a href="MIT8_512s09_lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Microscopic derivation of London equation (<a href="MIT8_512s09_lec10_rev.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Effect of disorder (<a href="MIT8_512s09_lec11_12.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Quasiparticles and coherence factors (<a href="MIT8_512s09_lec11_12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Tunnelling and Josephson effect (<a href="MIT8_512s09_lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Local moment magnetism (<a href="MIT8_512s09_lec14_15.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Exchange interaction (<a href="MIT8_512s09_lec14_15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Ferromagnetic and anti-ferromagnetic spin waves (<a href="MIT8_512s09_lec16_17.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Spin flop transition and neutron scattering (<a href="MIT8_512s09_lec16_17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Band magnetism and stoner theory (<a href="MIT8_512s09_lec18_19.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Mean field theory and spin density wave (<a href="MIT8_512s09_lec18_19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Local moment in metals and Friedel sum rule (<a href="MIT8_512s09_lec20_21.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Anderson model and Kondo problem (<a href="MIT8_512s09_lec20_21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Singlet ground state and Kondo resonance (<a href="MIT8_512s09_lec22_kondo_rev02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Fermi liquid theory and electron spectral function (<a href="MIT8_512s09_lec23_24.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Landau parameters (<a href="MIT8_512s09_lec23_24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Fermi liquid interpretation of Kondo ground state (<a href="MIT8_512s09_lec25.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
 
