@@ -14,7 +14,7 @@
   <li class="title"><a href="#course13">Classical Mechanics III </a></li>
    <li class="title"><a href="#course14">The Physics of Energy</a></li>
   <li class="title"><a href="#course15">String Theory</a></li>
-   <li class="title"><a href="#course16">Thermodynamics of Biomolecular Systems</a></li>
+   <li class="title"><a href="#course16">Introduction to Computational Neuroscience</a></li>
    <li class="title"><a href="#course17">Advanced Organic Chemistry</a></li>
     <li class="title"><a href="#course18">Introduction to Organic Synthesis Laboratory</a></li>
  <li class="title"><a href="#course19">Introduction to Experimental Chemistry</a></li>
@@ -2378,7 +2378,25 @@
 </table>
 </br>
 
+<h2 id ="course16">Introduction to Computational Neuroscience </h2>
 
-
-
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Introduction<br /><br />Examples of Neural Coding, Simple Linear Regression (<a href="lecture01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Convolution and Correlation 1 (<a href="lecture02.pdf">PDF</a>)<br /><br />Firing Rate</td>
+</tr>
+<tr class="row">
+<td><em>Optional Lecture 1</em><br /><br />Initializing and Using Vectors and Matrices in MATLAB&reg;, Matrix Shortcuts, Plots in MATLAB&reg;, Useful Commands<br /><br />Simple Statistics and Linear Regression (<a href="optional01.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Convolution and Correlation 2<br /><br />Spike-triggered Average<br /><br />Wiener-Hopf Equations and White Noise Analysis (<a href="lecture03.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Operant Matching 1 (<a href="lec6_match1.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
