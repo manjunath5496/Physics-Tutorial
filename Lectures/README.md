@@ -24,7 +24,7 @@
      <li class="title"><a href="#course23">Particle Physics of the Early Universe</a></li>
     <li class="title"><a href="#course24">Strong Interactions: Effective Field Theories of QCD</a></li>
    <li class="title"><a href="#course25">Cosmology</a></li>
-   <li class="title"><a href="#course26">Biological Chemistry II</a></li>
+   <li class="title"><a href="#course26">String Theory and Holographic Duality</a></li>
    <li class="title"><a href="#course27">Thermodynamics and Kinetics</a></li>
 </ul>
 </br>
@@ -2907,3 +2907,86 @@
 </table>
 
 </br>
+<h2 id ="course26">String Theory and Holographic Duality</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_821S15_Lec1.pdf">Emergence of Gravity (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_821S15_Lec2.pdf">Classical Black Hole Geometry (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_821S15_Lec3.pdf">Causal Structure of a Black Hole and Black Hole Temperature (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_821S15_Lec4.pdf">Physical Interpretation of Black Hole Temperature (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_821S15_Lec5.pdf">Black Hole Thermodynamics (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_821S15_Lec6.pdf">Holographic Principle (PDF - 1.2MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_821S15_Lec7.pdf">Structure of Large-N Expansion (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_821S15_Lec8.pdf">Large-N Expansion as a String Theory, Part I (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_821S15_Lec9.pdf">Large-N expansion as a String Theory, Part II (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_821S15_Lec10.pdf">Basics of String Theory and Light-cone Gauge (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_821S15_Lec11.pdf">String Theory in the Light-cone Gauge (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_821S15_Lec12.pdf">String Spectrum and Graviton (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_821S15_Lec13.pdf">Physics of D-branes, Part I (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_821S15_Lec14.pdf">Physics of D-branes, Part II (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_821S15_Lec15.pdf">Physics of D-branes, Part III (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_821S15_Lec16.pdf">Geometry of D-branes and AdS / CFT Conjecture (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_821S15_Lec17.pdf">More on AdS / CFT Duality (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_821S15_Lec18.pdf">General Aspects of the Duality (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_821S15_Lec19.pdf">Mass-dimension Relation (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_821S15_Lec20.pdf">Euclidean Correlation Functions: Two-point Functions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_821S15_Lec21.pdf">Euclidean Correlation Functions: Higher-point Functions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_821S15_Lec22.pdf">Computation of the Wilson Loop (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_821S15_Lec23.pdf">Duality at a Finite Temperature and Finite Chemical Potential (PDF - 1.3MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_821S15_Lec24.pdf">Holographic Entanglement Entropy (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
