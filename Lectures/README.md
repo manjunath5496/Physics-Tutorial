@@ -36,6 +36,7 @@
       <li class="title"><a href="#course35">Statistical Mechanics I: Statistical Mechanics of Particles</a></li>
     <li class="title"><a href="#course36">Statistical Mechanics II: Statistical Physics of Fields</a></li>
      <li class="title"><a href="#course37">Quantum Information Science</a></li>
+    <li class="title"><a href="#course38">Astrophysics II</a></li>
 </ul>
 </br>
 
@@ -3644,9 +3645,56 @@
 </table>
 </br>
 
+<h2 id ="course38">Astrophysics II</h2>
 
 
-
-
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Introduction: What is a Galaxy?</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/6/lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>How Do You Build a Galaxy?</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/6/lec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>How are Galaxies Described?</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/6/lec3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Gravitational Potentials: General Results</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/6/lec4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Interesting and Special Cases</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/6/lec5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Orbits in Spherical Potentials and Integrals</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/6/lec6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Orbits in Axisymmetric Potentials<br /><br />Epicyclic Approximation</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/6/lec7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Equilibria of Stellar Systems<br /><br />Boltzmann Equation</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/6/lec8.pdf">PDF</a>)<br /><br />(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/6/lec9.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Jeans' Equations in Spherical Coordinates</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/6/lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Jeans' Equations Applied<br /><br />Jeans' Theorem</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/6/lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Stability: Jeans Mass and Spiral Structure</td>
+<td>(<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/6/lec12.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
