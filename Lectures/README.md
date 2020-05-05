@@ -18,7 +18,7 @@
    <li class="title"><a href="#course17">Electromagnetic Theory</a></li>
     <li class="title"><a href="#course18">Quantum Theory I</a></li>
  <li class="title"><a href="#course19">Quantum Theory II</a></li>
-  <li class="title"><a href="#course20">Biochemistry Laboratory</a></li>
+  <li class="title"><a href="#course20">Theory of Solids I</a></li>
    <li class="title"><a href="#course21">Organic Chemistry II</a></li>
     <li class="title"><a href="#course22">Organic Chemistry I</a></li>
      <li class="title"><a href="#course23">Advanced Chemical Experimentation and Instrumentation</a></li>
@@ -2549,4 +2549,91 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course20">Theory of Solids I </h2>
+
+<table class="tablewidth50" summary="Course Table Listing">
+<tbody>
+<tr class="row">
+<td headers="col2">Free Electron Model (<a href="2/lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Crystalline Lattice (<a href="2/lec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Debye Waller Factor and Incommensurate Structures (<a href="2/lec3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Point Group for Bravais Lattice (<a href="2/lec4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Bloch Theorem (<a href="2/lec5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Band Structure (<a href="2/lec6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Orthogonalized Plane Wave (OPW) (<a href="2/lec7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Pseudopotential and Augmented-Plane-Wave (APW) (<a href="2/lec8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Tight Binding, van Hove Singularity (<a href="2/lec9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Experimental Tests of Band Structure and&nbsp;A Survey of the Periodic Table (<a href="2/lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Semiconductors: Donors, Acceptors and Excitons (<a href="2/lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Semiclassical Dynamics of Electrons, Bloch Oscillation and Quantization of Orbits in a Uniform Magnetic Field (<a href="2/lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">de Haas-van Alphen Effect and Quantum Hall Effect (<a href="2/lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Quantum Hall Effect and Edge States (<a href="2/lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Electron-electron Interaction: Hartree-Fock Approximation (<a href="2/lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Exchange Energy for Jellium (<a href="2/lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Density Functional Theory (<a href="2/lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Hubbard Model, Screening and Plasmons (<a href="2/lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Phonons (<a href="2/lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Electron-phonon Coupling and Electron Lifetime (<a href="2/lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Attraction by Exchanging Phonons (<a href="2/lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">The Cooper Instability and the BCS Wavefunction (<a href="2/lec22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">The Bogoliubov Quasiparticles (<a href="2/lec23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Ginzburg Landau Free Energy, Meissner Effect and Flux Quantization (<a href="2/lec24.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
+
+
+
+
 
