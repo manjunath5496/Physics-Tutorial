@@ -27,6 +27,7 @@
    <li class="title"><a href="#course26">String Theory and Holographic Duality</a></li>
    <li class="title"><a href="#course27">Effective Field Theory</a></li>
     <li class="title"><a href="#course28">Strongly Correlated Systems in Condensed Matter Physics</a></li>
+ <li class="title"><a href="#course29">Many-Body Theory for Condensed Matter Systems</a></li>
 </ul>
 </br>
 
@@ -3054,6 +3055,19 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id ="course29">Many-Body Theory for Condensed Matter Systems</h2>
 
-
-
+<ul>
+<li>Introduction; Topics of the Course (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/notes1.pdf">PDF - 1.9 MB</a>)</li>
+<li>Identical Particles and Second Quantization; Occupation Number Representation (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/notes2.pdf">PDF - 2.0 MB</a>)</li>
+<li>Creation and Annihilation Operators (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/notes3.pdf">PDF - 5.6 MB</a>)</li>
+<li>Review of Path Integrals for Single Particle QM; Path Integrals and Statistical Mechanics; Evaluation of Imaginary Time Path Integral for SHO (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/notes4.pdf">PDF - 4.1 MB</a>)</li>
+<li>Path Integrals for Many Particle Systems; Coherent State Path Integral; Real Time Path Integral; Superfluidity (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/notes5.pdf">PDF - 5.7 MB</a>)</li>
+<li>The Bose Liquid; Small Fluctuations about the Classical Minimum (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/notes6.pdf">PDF - 6.0 MB</a>)</li>
+<li>Vortices; Superfluid Equations of Motion; Charged Bosons (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/notes7.pdf">PDF - 5.5 MB</a>)</li>
+<li>Quantum Magnetism of Localized Spins; Origin of Exchange in Electronic Insulators; Path Integral for Spin (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/notes8.pdf">PDF - 8.3 MB</a>)</li>
+<li>Quantum Antiferromagnets (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/notes9.pdf">PDF - 8.1 MB</a>)</li>
+<li>Excitations; Brief Introduction to the hiTc Problem (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/notes10.pdf">PDF - 2.0 MB</a>)</li>
+</ul>
+</br>
