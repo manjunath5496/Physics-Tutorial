@@ -28,6 +28,7 @@
    <li class="title"><a href="#course27">Effective Field Theory</a></li>
     <li class="title"><a href="#course28">Strongly Correlated Systems in Condensed Matter Physics</a></li>
  <li class="title"><a href="#course29">Many-Body Theory for Condensed Matter Systems</a></li>
+  <li class="title"><a href="#course30">Introduction to Nuclear and Particle Physics</a></li>
 </ul>
 </br>
 
@@ -3071,3 +3072,19 @@
 <li>Excitations; Brief Introduction to the hiTc Problem (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/notes10.pdf">PDF - 2.0 MB</a>)</li>
 </ul>
 </br>
+<h2 id ="course30">Introduction to Nuclear and Particle Physics </h2>
+
+<ul>
+<li>Relativistic Kinematics (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/5/lec2.pdf">PDF</a>)</li>
+<li>Symmetries and Invariance Principles I (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/5/lec5.pdf">PDF</a>)</li>
+<li>Symmetries and Invariance Principles II (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/5/lec6.pdf">PDF</a>)</li>
+<li>Principle Elements of QFT (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/5/lec9.pdf">PDF</a>)</li>
+<li>QED I (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/5/lec10.pdf">PDF</a>)</li>
+</ul>
+
+</br>
+
+
+
+
+
