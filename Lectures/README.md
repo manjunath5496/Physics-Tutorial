@@ -25,7 +25,7 @@
     <li class="title"><a href="#course24">Strong Interactions: Effective Field Theories of QCD</a></li>
    <li class="title"><a href="#course25">Cosmology</a></li>
    <li class="title"><a href="#course26">String Theory and Holographic Duality</a></li>
-   <li class="title"><a href="#course27">Thermodynamics and Kinetics</a></li>
+   <li class="title"><a href="#course27">Effective Field Theory</a></li>
 </ul>
 </br>
 
@@ -2986,7 +2986,49 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course27">Effective Field Theory </h2>
 
-
-
-
+<div class="maintabletemplate">
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_851S13_Introduction.pdf">Introduction (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_851S13_IntroToSCET.pdf">Introduction to SCET (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_851S13_IngrediForScet.pdf">Ingredients for SCET (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_851S13_SCETLagrania.pdf">SCET<sub>I</sub>&nbsp;Lagrangian (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_851S13_SymmetOfSCET.pdf">Symmetries of SCET (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_851S13_FactorFrModSep.pdf">Factorization from Mode Separation (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_851S13_CofficHardDyna.pdf">Wilson Coefficients and Hard Dynamics (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_851S13_DeepInelaScatt.pdf">Deep Inelastic Scattering (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_851S13_DijectProducio.pdf">Dijet Production (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_851S13_SCETII.pdf">SCET II (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_851S13_SCETIIApplicat.pdf">SCET<sub>II</sub>&nbsp;Applications (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_851S13_MoreSCETIAppli.pdf">More SCET<sub>I</sub>&nbsp;Applications (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/MIT8_851S13_Appendix.pdf">Appendix (PDF)</a></p>
+</br>
