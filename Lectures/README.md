@@ -865,3 +865,97 @@
 <h2 id ="course3">Physics II: Electricity and Magnetism with an Experimental Focus  </h2>
 
 
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Introduction; Electric Charge (<a href="2_06_2002_edited.pdf" data-smd-id="s105">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Fundamental Forces; Coulomb's Law; Electrostatic Induction (<a href="2_08_2002_edited.pdf" data-smd-id="s106">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Coulomb's Law (cont.); Induction (<a href="2_11_2002_edited.pdf" data-smd-id="s107">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Electric Field (<a href="2_13_2002_edited.pdf" data-smd-id="s108">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Electric Field (cont.) (<a href="2_15_2002_edited.pdf" data-smd-id="s109">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Electric Flux; Gauss's Law (<a href="2_19_2002_edited.pdf" data-smd-id="s110">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Electric Flux (cont.); Gauss's Law (cont.) (<a href="2_20_2002_edited.pdf" data-smd-id="s111">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Kelvin Water Drop Generator; Electric Potential Energy; Electric Potential (<a href="2_22_2002_edited.pdf" data-smd-id="s112">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Conductors, Isolators, and Semi-Conductors (<a href="2_25_2002_edited.pdf" data-smd-id="s113">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Review for Quiz 1 (<a href="2_27_2002_edited.pdf" data-smd-id="s114">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Electric Field and Electric Potential; Capacitors (<a href="3_04_2002_edited.pdf" data-smd-id="s115">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Capacitors as Energy Storage; Capacitors in Circuits (<a href="3_06_2002_edited.pdf" data-smd-id="s116">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Dielectrics; Electrostatic Force Experiment (<a href="3_08_2002_edited.pdf" data-smd-id="s117">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Electric Current; Resistivity and Resistance; Ohm's Law (<a href="3_11_2002_edited.pdf" data-smd-id="s118">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Electric Power; Electromotive Force; Circuits; Kirchoff's Rules (<a href="3_13_2002_edited.pdf" data-smd-id="s119">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>DC and RC Circuits (<a href="3_15_2002_edited.pdf" data-smd-id="s120">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Review for Quiz 2 (<a href="3_18_2002_edited.pdf" data-smd-id="s121">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Electrical Breakdown Experiment; Ionization (<a href="3_22_2002_edited.pdf" data-smd-id="s122">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Magnetism (<a href="4_01_2002_edited.pdf" data-smd-id="s123">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Charged Particles in a Magnetic Field; Sources of Magnetic Fields (<a href="4_03_2002_edited.pdf" data-smd-id="s124">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Biot-Savart Law; Ampere's Law (<a href="4_05_2002_edited.pdf" data-smd-id="s125">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Review for Quiz 3 (<a href="4_17_2002_edited.pdf" data-smd-id="s126">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Inductance; RL Circuits; Energy Storage in Inductors (<a href="4_26_2002_edited.pdf" data-smd-id="s127">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>RLC Circuits (<a href="4_29_2002_edited.pdf" data-smd-id="s128">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>LC Circuits; Displacement Current; Maxwell's Equations (<a href="5_01_2002_edited.pdf" data-smd-id="s129">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Electromagnetic Waves (<a href="5_03_2002_edited.pdf" data-smd-id="s130">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Properties of EM waves (<a href="5_06_2002_edited.pdf" data-smd-id="s131">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Review (<a href="5_08_2002_edited.pdf" data-smd-id="s132">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Microwave Experiment; Polarization (<a href="5_13_2002_edited.pdf" data-smd-id="s133">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Polarization; Superposition; Scattering of Light (<a href="5_15_2002_edited.pdf" data-smd-id="s134">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
