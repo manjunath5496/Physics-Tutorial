@@ -35,6 +35,7 @@
       <li class="title"><a href="#course34">Relativistic Quantum Field Theory III</a></li>
       <li class="title"><a href="#course35">Statistical Mechanics I: Statistical Mechanics of Particles</a></li>
     <li class="title"><a href="#course36">Statistical Mechanics II: Statistical Physics of Fields</a></li>
+     <li class="title"><a href="#course37">Quantum Information Science</a></li>
 </ul>
 </br>
 
@@ -3572,5 +3573,80 @@
 </tbody>
 </table>
 </br>
+
+
+<h2 id ="course37">Quantum Information Science </h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Quantum Operations; Operator Sum Representation; System-Environment Model (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/lecture_1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Quantum Error Correction - Criteria and Examples (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/lecture_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Calderbank Shor Steane Codes (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/lecture_3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Stabilizers; Stabilizer Quantum Codes (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/lecture_4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Topological Quantum Codes; Kitaev's Anyon Model (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/lecture_5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Stabilizers II; Computing on Quantum Codes (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/lecture_6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Concatenated Codes; The Threshold Theorem (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/lecture_7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Cluster State Quantum Computation (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/lecture_8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Measurement and Teleportation Based Quantum Computation (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/lecture_9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Adiabatic Quantum Computation (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/lecture_10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Quantum Algorithms on Graphs; Quantum Random Walks (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/lecture_11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Quantum Algorithms: The Abelian Hidden Subgroup Problem; QFT Over Sn (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/lecture_12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The Nonabelian HSP; Hidden Dihedral Group; Positive and Negative Results (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/lecture_13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Channels I: Quantum Data Compression; Entanglement Concentration; Typical Subspaces (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/lecture_14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Channels II: Holevo's Theorem; HSW Theorem; Entanglement Assisted Channel Capacity (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/lecture_15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Channels III: Quantum-Quantum Channels, Mother/Father Protocol; Distillable Entanglement (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/lecture_16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Entanglement as a Physical Resource (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/lecture_17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Quantum Protocols - Quantum Communication Complexity; Distributed Algorithms (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/lecture18_alt.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Quantum Games (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/lecture_19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Quantum Cryptography (<a href="https://github.com/manjunath5496/Thermal-Physics-Books/blob/master/Lectures/4/lecture_20.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
+
 
 
