@@ -1019,7 +1019,7 @@
 </tbody>
 </table>
 </br>
-<p> <strong>Exams and solutions </strong> </p>
+<p> <strong>Exams and solutions: </strong> </p>
 <table class="tablewidth75" summary="See table caption for summary.">
 <tbody>
 <tr class="row">
